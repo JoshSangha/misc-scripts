@@ -1,0 +1,43 @@
+name: Monitor IWWN New In page
+
+on:
+  schedule:
+    # Every 15 minutes. GitHub may occasionally delay a run slightly
+    # when its shared scheduler is busy, but this is the most reliable
+    # free frequency available.
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
+    # ^ lets you trigger a manual test run from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run monitor
+        env:
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          SENDER_APP_PASSWORD: ${{ secrets.SENDER_APP_PASSWORD }}
+          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+        run: python monitor.py
+
+      - name: Save updated product list back to the repo
+        run: |
+          git config user.name "iwwn-monitor-bot"
+          git config user.email "actions@github.com"
+          git add seen_products.json
+          git diff --quiet --cached || git commit -m "Update seen products [skip ci]"
+          git push
