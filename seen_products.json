@@ -1957,7 +1957,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/veet-pure-inspirations-hot-sugar-wax-with-argan-oil-250ml/": {
     "name": "Veet Pure Inspirations Hot Sugar Wax with Argan Oil 250ml",
-    "price": "\u00a35.39"
+    "price": "\u00a33.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/peters-yard-sourdough-cracker-selection-tin-250g/": {
     "name": "Peter's Yard Sourdough Cracker Selection Tin 250g",
@@ -3608,7 +3608,7 @@
     "price": "\u00a30.85"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/sensodyne-sensitive-toothpaste-gentle-whitening-75ml/": {
-    "name": "Sensodyne Sensitive Toothpaste Gentle Whitening 75ml",
+    "name": "Sensodyne Sensitive Toothpaste Gentle Whitening 75ml - Damaged Outer Box Packaging",
     "price": "\u00a32.49"
   },
   "https://www.iwonderwhatsnext.co.uk/pet-supplies/small-animal/extra-select-chick-crumb-complete-chick-feed-5l/": {
@@ -6034,5 +6034,21 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/oral-b-pro-3d-white-clinical-intensive-whitening-radiant-white-toothpaste-1-x-75ml/": {
     "name": "Oral-B Pro 3D White Clinical Intensive Whitening Radiant White Toothpaste 1 x 75ml",
     "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/kleenex-take-a-moment-collection-cube-facial-tissues-48-sheets/": {
+    "name": "Kleenex Take a Moment Collection Cube Facial Tissues 48 Sheets | Damaged Box Packaging",
+    "price": "\u00a30.45"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/sudafed-blocked-nose-spray-15ml/": {
+    "name": "Sudafed Blocked Nose Spray 15ml - Damaged Box Packaging",
+    "price": "\u00a32.27"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/corsodyl-active-gum-repair-fresh-mint-toothpaste-75ml/": {
+    "name": "Corsodyl Active Gum Repair Fresh Mint Toothpaste 75ml - Damaged Box Packaging",
+    "price": "\u00a32.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/corsodyl-toothpaste-for-bleeding-gums-75ml/": {
+    "name": "Corsodyl Toothpaste for Bleeding Gums 75ml - Damaged Outer Box Packaging",
+    "price": "\u00a31.99"
   }
 }
