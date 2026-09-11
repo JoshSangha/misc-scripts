@@ -49,7 +49,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/pet-supplies/dog/hills-prescription-diet-i-d-low-fat-digestive-care-original-wet-dog-food-12x360g/": {
     "name": "Hill's Prescription Diet i/d Low Fat Digestive Care Original Wet Dog Food 12 x 360g",
-    "price": "\u00a329.99"
+    "price": "\u00a324.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/monster-energy-lewis-hamilton-zero-sugar-energy-drink-4-x-500ml/": {
     "name": "Monster Energy Lewis Hamilton Zero Sugar Energy Drink 4 x 500ml",
@@ -6854,5 +6854,29 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/wilkinson-sword-quattro-4-men-s-razor-9-blade-refills/": {
     "name": "Wilkinson Sword Quattro 4 Men's Razor + 9 Blade Refills | Damaged Box Packaging",
     "price": "\u00a37.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/yardley-london-english-lavender-perfumed-body-powder-200g/": {
+    "name": "Yardley London English Lavender Perfumed Body Powder 200g | Dented Container",
+    "price": "\u00a32.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/durex-naturals-extra-sensitive-water-based-lube-100ml/": {
+    "name": "Durex Naturals Extra Sensitive Water Based Lube 100ml",
+    "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/anusol-soothing-cleansing-flushable-wipes-30-pack/": {
+    "name": "Anusol Soothing & Cleansing Flushable Wipes 30 Pack",
+    "price": "\u00a32.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/colgate-total-active-prevention-original-toothpaste-125ml/": {
+    "name": "Colgate Total Active Prevention Original Toothpaste 125ml | Damaged Box Packaging",
+    "price": "\u00a32.25"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/natures-aid-lutein-eye-complex-with-bilberry-30-tablets/": {
+    "name": "Natures Aid Lutein Eye Complex with Bilberry 30 Tablets",
+    "price": "\u00a32.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/furniture-clinic-clear-beeswax-polish-for-wood-200ml/": {
+    "name": "Furniture Clinic Clear Beeswax Polish for Wood 200ml | DENTED TIN",
+    "price": "\u00a33.99"
   }
 }
