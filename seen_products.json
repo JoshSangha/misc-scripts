@@ -816,8 +816,8 @@
     "price": "\u00a31.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/veet-pure-hair-removal-cream-legs-body-sensitive-200ml/": {
-    "name": "Veet Pure Hair Removal Cream Legs & Body Sensitive 200ml - Damaged Outer Box Packaging",
-    "price": "\u00a34.79"
+    "name": "Veet Pure Hair Removal Cream Legs & Body Sensitive 200ml - Badly Damaged Outer Box Packaging",
+    "price": "\u00a33.99"
   },
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/toys-collectables/nerf-better-than-balloons-water-pods-168-pack/": {
     "name": "NERF Better Than Balloons Water Bomb Pods 168 Pack",
@@ -2957,7 +2957,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/oral-b-pro-3d-white-clinical-intensive-whitening-radiant-white-toothpaste-75ml/": {
     "name": "Oral-B Pro 3D White Clinical Intensive Whitening Radiant White Toothpaste 75ml - Damaged Outer Box Packaging",
-    "price": "\u00a35.99"
+    "price": "\u00a34.49"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/mai-thai-aaa-jasmine-fragrant-rice-6-x-2kg/": {
     "name": "Mai Thai AAA Jasmine Fragrant Rice 6 x 2kg",
@@ -6030,5 +6030,9 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/sensodyne-daily-care-sensitive-toothpaste-original-mint-75ml/": {
     "name": "Sensodyne Daily Care Sensitive Toothpaste Original Mint 75ml - Damaged Outer Box Packaging",
     "price": "\u00a31.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/oral-b-pro-3d-white-clinical-intensive-whitening-radiant-white-toothpaste-1-x-75ml/": {
+    "name": "Oral-B Pro 3D White Clinical Intensive Whitening Radiant White Toothpaste 1 x 75ml",
+    "price": "\u00a34.99"
   }
 }
