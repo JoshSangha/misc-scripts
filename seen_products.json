@@ -5829,7 +5829,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/holdsworth-happy-birthday-blue-assorted-chocolate-gift-box-110g/": {
     "name": "Holdsworth Happy Birthday Blue Assorted Chocolate Gift Box 110g",
-    "price": "\u00a34.99"
+    "price": "\u00a33.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/baxters-chef-selections-lobster-bisque-soup-400g/": {
     "name": "Baxters Chef Selections Lobster Bisque Soup 400g",
@@ -6401,11 +6401,11 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/usn-bluelab-whey-vanilla-protein-powder-2kg/": {
     "name": "USN BlueLab Whey Vanilla Protein Powder 2kg",
-    "price": "\u00a339.99"
+    "price": "\u00a356.99"
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/usn-blue-lab-whey-strawberry-protein-powder-908g/": {
     "name": "USN Blue Lab Whey Strawberry Protein Powder 908g",
-    "price": "\u00a322.99"
+    "price": "\u00a324.99"
   },
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/delphis-eco-washing-up-liquid-2l-refill/": {
     "name": "Delphis Eco Washing Up Liquid 2L Refill",
@@ -6526,5 +6526,89 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/ferrero-rocher-original-milk-chocolate-bar-90g/": {
     "name": "Ferrero Rocher Original Milk Chocolate Bar 90g | Creased/Broken Bar",
     "price": "\u00a31.69"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/gillette-venus-intimate-women-s-razor-1-handle-5-blade-refills/": {
+    "name": "Gillette Venus Intimate Women's Razor 1 Handle + 5 Blade Refills Damaged Outer Packaging",
+    "price": "\u00a39.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/durex-intensity-xl-premium-latex-free-condoms-10-pack/": {
+    "name": "Durex Intensity XL Premium Latex-Free Condoms 10 Pack Damaged Outer Box",
+    "price": "\u00a35.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/garden-diy/nikura-vanilla-fragrance-oil-10ml/": {
+    "name": "Nikura Vanilla Fragrance Oil 10ml",
+    "price": "\u00a31.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/veet-expert-face-cold-wax-strips-sensitive-skin-40-strips-4-finish-wipes/": {
+    "name": "Veet Expert Face Cold Wax Strips Sensitive Skin 40 Strips & 4 Finish Wipes Damaged Outer Box",
+    "price": "\u00a33.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/elbow-grease-kettle-descaler-drop-in-bag-75g/": {
+    "name": "Elbow Grease Kettle Descaler Drop-In Bag 75g Damaged Outer Box",
+    "price": "\u00a30.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/cosmetics-makeup/maybelline-superstay-24h-liquid-lipstick-340-absolute-plum-9ml/": {
+    "name": "Maybelline SuperStay 24H Liquid Lipstick 340 Absolute Plum 9ml",
+    "price": "\u00a33.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/tepe-pure-unflavoured-toothpaste-75ml/": {
+    "name": "TePe Pure Unflavoured Toothpaste 75ml",
+    "price": "\u00a32.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/gillette-venus-comfortglide-spa-breeze-razor-handle-3-blades/": {
+    "name": "Gillette Venus ComfortGlide Spa Breeze Razor Handle + 3 Blades Damaged Outer Packaging",
+    "price": "\u00a36.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/skyn-extra-lube-non-latex-condoms-10-pack/": {
+    "name": "SKYN Extra Lube Non-Latex Condoms 10 Pack Imperfect Box",
+    "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/philips-oneblade-360-replacement-blades-qp440-50-4-pack/": {
+    "name": "Philips OneBlade 360 Replacement Blades QP440/50 4 Pack Imperfect Box",
+    "price": "\u00a316.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/betteryou-iron-10-daily-oral-spray-pomegranate-25ml/": {
+    "name": "BetterYou Iron 10 Daily Oral Spray Pomegranate 25ml Imperfect Box",
+    "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/safe4-ready-to-use-lavender-disinfectant-cleaner-spray-500ml/": {
+    "name": "Safe4 Ready-to-Use Lavender Disinfectant Cleaner Spray 500ml",
+    "price": "\u00a33.25"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/bassetts-vitamins-7-11-years-raspberry-multivitamins-60-gummies/": {
+    "name": "Bassetts Vitamins 7-11 Years Raspberry Multivitamins 60 Gummies",
+    "price": "\u00a33.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/haymax-daktarin-intensiv-ketoconazole-cream-15g/": {
+    "name": "HayMax Daktarin Intensiv Ketoconazole Cream 15g",
+    "price": "\u00a33.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/intralabs-potassium-sorbate-e202-food-preservative-500g/": {
+    "name": "Intralabs Potassium Sorbate E202 Food Preservative 500g",
+    "price": "\u00a35.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/glade-pure-clean-linen-large-scented-candle-204g/": {
+    "name": "Glade Pure Clean Linen Large Scented Candle 204g",
+    "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/glade-sensual-sandalwood-jasmine-electric-scented-oil-holder-refill-20ml/": {
+    "name": "Glade Sensual Sandalwood & Jasmine Electric Scented Oil Holder & Refill 20ml",
+    "price": "\u00a33.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/glade-relaxing-zen-electric-scented-oil-plug-in-refill-20ml/": {
+    "name": "Glade Relaxing Zen Electric Scented Oil Plug-In Refill 20ml",
+    "price": "\u00a32.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/maxinutrition-protein-waffle-bar-caramel-spread-12-x-39g/": {
+    "name": "MaxiNutrition Protein Waffle Bar Caramel Spread 12 x 39g",
+    "price": "\u00a312.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/nutricost-magnesium-extra-strength-420mg-240-capsules/": {
+    "name": "Nutricost Magnesium+ Extra Strength 420mg 240 Capsules",
+    "price": "\u00a39.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/gillettelabs-body-intimate-razor-blade-refills-10-pack/": {
+    "name": "GilletteLabs Body + Intimate Razor Blade Refills 10 Pack | Damaged Packaging",
+    "price": "\u00a324.99"
   }
 }
