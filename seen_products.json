@@ -460,7 +460,7 @@
     "price": "\u00a324.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/colgate-max-white-white-crystals-toothpaste-125ml/": {
-    "name": "Colgate Max White White + Crystals Toothpaste 125ml",
+    "name": "Colgate Max White White + Crystals Toothpaste 125ml - Damaged Box Packaging",
     "price": "\u00a32.25"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/purosure-vitamin-b1-thiamine-100mg-tablets-pack-of-100/": {
@@ -6118,5 +6118,37 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/germoloids-haemorrhoid-cream-treatment-55g/": {
     "name": "Germoloids Haemorrhoid Cream Treatment 55g",
     "price": "\u00a31.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/green-people-organic-children-mandarin-aloe-vera-toothpaste-with-fluoride-50ml/": {
+    "name": "Green People Organic Children Mandarin & Aloe Vera Toothpaste with Fluoride 50ml",
+    "price": "\u00a32.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/rennie-deflatine-sugar-free-mint-36-chewable-tablets/": {
+    "name": "Rennie Deflatine Sugar-Free Mint 36 Chewable Tablets",
+    "price": "\u00a33.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/beconase-hayfever-relief-for-adults-0-05-nasal-spray-100-sprays/": {
+    "name": "Beconase Hayfever Relief for Adults 0.05% Nasal Spray 100 Sprays",
+    "price": "\u00a32.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/aquafresh-kids-splash-strawberry-mint-toothpaste-3-8-years-75ml/": {
+    "name": "Aquafresh Kids Splash Strawberry & Mint Toothpaste 3-8 Years 75ml",
+    "price": "\u00a30.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/aloe-dent-aloe-vera-teeth-whitening-strips-peroxide-free-vegan-28-strips/": {
+    "name": "Aloe Dent Aloe Vera Teeth Whitening Strips Peroxide Free Vegan 28 Strips",
+    "price": "\u00a32.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/kool-n-soothe-migraine-cooling-gel-sheets-4-pack/": {
+    "name": "KOOL 'N' SOOTHE Migraine Cooling Gel Sheets - 4 Pack",
+    "price": "\u00a31.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/green-people-organic-children-mandarin-aloe-vera-toothpaste-50ml/": {
+    "name": "Green People Organic Children Mandarin & Aloe Vera Toothpaste 50ml",
+    "price": "\u00a32.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/vitabiotics-ultra-omega-3-fish-oils-capsules-with-dha-epa-60-capsules/": {
+    "name": "Vitabiotics Ultra Omega-3 Fish Oils Capsules with DHA EPA 60 Capsules - PAST BBE",
+    "price": "\u00a34.99"
   }
 }
