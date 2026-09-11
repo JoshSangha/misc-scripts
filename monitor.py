@@ -126,9 +126,8 @@ def send_email(new_products):
     msg["From"] = sender_address
     msg["To"] = recipient
 
-    # Outlook/Office365 SMTP settings (STARTTLS on port 587).
-    with smtplib.SMTP("smtp-mail.outlook.com", 587) as server:
-        server.starttls()
+    # Gmail SMTP settings (SSL on port 465).
+    with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
         server.login(sender_address, sender_app_password)
         server.sendmail(sender_address, [recipient], msg.as_string())
 
