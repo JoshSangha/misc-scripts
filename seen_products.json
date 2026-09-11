@@ -581,7 +581,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/nicorette-cools-4mg-icy-mint-nicotine-lozenges-160-pack/": {
     "name": "Nicorette Cools 4mg Icy Mint Nicotine Lozenges 160 Pack",
-    "price": "\u00a312.99"
+    "price": "\u00a311.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/haircare/grown-alchemist-hydra-restore-conditioner-300ml/": {
     "name": "Grown Alchemist Hydra-Restore Conditioner 300ml",
@@ -6610,5 +6610,81 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/gillettelabs-body-intimate-razor-blade-refills-10-pack/": {
     "name": "GilletteLabs Body + Intimate Razor Blade Refills 10 Pack | Damaged Packaging",
     "price": "\u00a324.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/flexiseq-max-strength-osteo-gel-100g/": {
+    "name": "FlexiSEQ Max Strength Osteo Gel 100g Imperfect Box",
+    "price": "\u00a313.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/bassetts-vitamins-woman-multivitamins-multiminerals-raspberry-30-pastilles-100g/": {
+    "name": "Bassetts Vitamins Woman Multivitamins & Multiminerals Raspberry 30 Pastilles 100g",
+    "price": "\u00a33.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/potter-s-blackcurrant-glycerine-pastilles-20-pack-45g/": {
+    "name": "Potter's Blackcurrant & Glycerine Pastilles 20 Pack 45g",
+    "price": "\u00a31.40"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/oral-b-io-gentle-clean-white-replacement-toothbrush-heads-4-pack/": {
+    "name": "Oral-B iO Gentle Clean White Replacement Toothbrush Heads 4 Pack",
+    "price": "\u00a313.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/elastoplast-flexible-fabric-finger-strip-plasters-16-pack/": {
+    "name": "Elastoplast Flexible Fabric Finger Strip Plasters 16 Pack",
+    "price": "\u00a31.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/australian-bush-flower-essences-boost-oral-spray-30ml/": {
+    "name": "Australian Bush Flower Essences Boost Oral Spray 30ml",
+    "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/tisserand-sleep-better-body-pillow-mist-100ml/": {
+    "name": "Tisserand Sleep Better Body & Pillow Mist 100ml",
+    "price": "\u00a33.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/chewy-vites-women-s-multivitamin-berries-flavour-60-gummies/": {
+    "name": "Chewy Vites Women's Multivitamin Berries Flavour 60 Gummies",
+    "price": "\u00a35.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/haircare/mini-u-wild-blueberry-curl-activator-spray-250ml/": {
+    "name": "Mini U Wild Blueberry Curl Activator Spray 250ml",
+    "price": "\u00a33.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/colgate-max-white-clinical-purifying-power-whitening-toothpaste-75ml/": {
+    "name": "Colgate Max White Clinical Purifying Power Whitening Toothpaste 75ml",
+    "price": "\u00a34.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/attitude-sensitive-natural-sweet-jasmine-hand-soap-473ml/": {
+    "name": "ATTITUDE Sensitive Natural Sweet Jasmine Hand Soap 473ml",
+    "price": "\u00a35.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/blood-pressure-monitor-large-cuff-vimmk-upper-arm-blood-pressure-machines-for-home-use-accurate-bp-cuff-led-backlight-display-heart-rate-detection-2x120-records-cuff-22-40cm-opened-box-packaging-unused-item/": {
+    "name": "Blood Pressure Monitor Large Cuff, Vimmk Upper Arm Blood Pressure Machines for Home Use Accurate BP Cuff LED Backlight Display Heart Rate Detection 2x120 Records, Cuff 22-40cm | Opened Box Packaging Unused Item",
+    "price": "\u00a311.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/omron-x2-essential-upper-arm-blood-pressure-monitor-with-22-32cm-cuff/": {
+    "name": "OMRON X2 Essential Upper Arm Blood Pressure Monitor with 22\u201332cm Cuff | Opened Box Packaging Unused Item",
+    "price": "\u00a314.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/omron-x2-connect-upper-arm-blood-pressure-monitor-with-bluetooth-22-42cm-cuff/": {
+    "name": "OMRON X2+ Connect Upper Arm Blood Pressure Monitor with Bluetooth & 22-42cm Cuff | Opened Box Packaging Unused Item",
+    "price": "\u00a324.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/braun-pulse-oximeter-1-yk-81ceu/": {
+    "name": "Braun Pulse Oximeter 1 YK-81CEU",
+    "price": "\u00a312.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/beurer-ih-49-portable-mesh-nebuliser/": {
+    "name": "Beurer IH 49 Portable Mesh Nebuliser | Opened Outer Box Unused Item",
+    "price": "\u00a324.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/zoflora-midnight-blooms-antibacterial-multi-surface-cleaning-wipes-70-pack/": {
+    "name": "Zoflora Midnight Blooms Antibacterial Multi-Surface Cleaning Wipes 70 Pack",
+    "price": "\u00a31.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/biomed-triple-charcoal-whitening-toothpaste-6-x-100g/": {
+    "name": "Biomed Triple Charcoal Whitening Toothpaste 6 x 100g",
+    "price": "\u00a317.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/lenor-dreamy-jasmine-in-wash-scent-booster-495g/": {
+    "name": "Lenor Dreamy Jasmine In-Wash Scent Booster 495g (Packaging May Vary)",
+    "price": "\u00a37.99"
   }
 }
