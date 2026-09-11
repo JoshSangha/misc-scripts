@@ -512,7 +512,7 @@
     "price": "\u00a32.49"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/aquafresh-paw-patrol-milk-teeth-0-2-years-toothpaste-50ml/": {
-    "name": "Aquafresh Paw Patrol Milk Teeth 0-2 Years Toothpaste 50ml",
+    "name": "Aquafresh Paw Patrol Milk Teeth 0-2 Years Toothpaste 50ml - Damaged Outer Packaging",
     "price": "\u00a30.75"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/baby-care/lil-lets-baby-organic-cotton-wool-balls-100-count/": {
@@ -1160,8 +1160,8 @@
     "price": "\u00a313.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/paediasure-shake-cookies-cream-nutritional-supplement-850g/": {
-    "name": "PaediaSure Shake Cookies & Cream Nutritional Supplement 850g",
-    "price": "\u00a313.99"
+    "name": "PaediaSure Shake Cookies & Cream Nutritional Supplement 850g - Damaged Lid & Dented Tub",
+    "price": "\u00a39.99"
   },
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/garden-diy/convocare-forte-10ltr/": {
     "name": "CONVOCare Forte - 10Ltr",
@@ -6094,5 +6094,29 @@
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/vileda-easy-bath-silicone-toilet-brush-with-holder-grey/": {
     "name": "Vileda Easy Bath Silicone Toilet Brush with Holder Grey IMPERFECT HANDLE",
     "price": "\u00a38.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/veet-expert-waxing-strips-for-sensitive-skin-20-cold-wax-strips-4-finish-wipes/": {
+    "name": "Veet Expert Waxing Strips for Sensitive Skin 20 Cold Wax Strips & 4 Finish Wipes - Damaged Box Packaging",
+    "price": "\u00a32.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/cosmetics-makeup/cryotag-skin-tag-remover-fast-effective-safe-skin-tag-removal/": {
+    "name": "Cryotag Skin Tag Remover Fast Effective Safe Skin Tag Removal",
+    "price": "\u00a312.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/fixodent-plus-unbeatable-bite-denture-adhesive-flavour-free-40g/": {
+    "name": "Fixodent Plus Unbeatable Bite Denture Adhesive, Flavour Free 40g",
+    "price": "\u00a31.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/dylon-colour-catcher-colour-protection-laundry-sheets-80-pack/": {
+    "name": "Dylon Colour Catcher Colour Protection Laundry Sheets 80 Pack",
+    "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/dr-beckmann-original-non-bio-travel-wash-100ml/": {
+    "name": "Dr Beckmann Original Non-Bio Travel Wash 100ml Imperfect Bottle",
+    "price": "\u00a31.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/germoloids-haemorrhoid-cream-treatment-55g/": {
+    "name": "Germoloids Haemorrhoid Cream Treatment 55g",
+    "price": "\u00a31.99"
   }
 }
