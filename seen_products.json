@@ -253,7 +253,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/supplements/high5-zero-caffeine-hit-berry-electrolyte-tablets-20-tablets-80g/": {
     "name": "HIGH5 ZERO Caffeine Hit Berry Electrolyte Tablets 20 Tablets 80g",
-    "price": "\u00a34.49"
+    "price": "\u00a32.75"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/weleda-children-s-tooth-gel-50ml/": {
     "name": "Weleda Children's Tooth Gel 50ml",
@@ -1941,7 +1941,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/supplements/high5-zero-electrolyte-tablet-hydration-tablets-enhanced-with-vitamin-c-20-tablets-berry-flavour/": {
     "name": "HIGH5 ZERO Electrolyte Tablet - Hydration Tablets Enhanced with Vitamin C 20 Tablets Berry Flavour",
-    "price": "\u00a34.99"
+    "price": "\u00a33.99"
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/supplements/high5-zero-electrolyte-tablet-hydration-tablets-enhanced-with-vitamin-c-0-calories-sugar-free-blackcurrant-flavour/": {
     "name": "HIGH5 ZERO Electrolyte Tablet - Hydration Tablets Enhanced with Vitamin C - 0 Calories & Sugar Free Blackcurrant Flavour",
@@ -6024,8 +6024,8 @@
     "price": "\u00a35.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/marvis-whitening-toothpaste-mint-85ml/": {
-    "name": "Marvis Whitening Toothpaste Mint 85ml",
-    "price": "\u00a34.99"
+    "name": "Marvis Whitening Toothpaste Mint 85ml - Damaged Box Packaging",
+    "price": "\u00a33.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/sensodyne-daily-care-sensitive-toothpaste-original-mint-75ml/": {
     "name": "Sensodyne Daily Care Sensitive Toothpaste Original Mint 75ml - Damaged Outer Box Packaging",
@@ -7374,5 +7374,37 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/haircare/osmo-super-silver-shampoo-violet-pigment-100ml/": {
     "name": "OSMO Super Silver Shampoo Violet Pigment 100ml",
     "price": "\u00a32.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/niquitin-minis-mint-2mg-nicotine-lozenges-60-pack-3-x-20/": {
+    "name": "NiQuitin Minis Mint 2mg Nicotine Lozenges 60 Pack (3 x 20)",
+    "price": "\u00a37.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/applied-nutrition-collagen-powder-strawberry-raspberry-165g/": {
+    "name": "Applied Nutrition Collagen Powder Strawberry & Raspberry 165g",
+    "price": "\u00a38.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/baby-care/aveeno-baby-kids-conditioner-enriched-oat-shea-butter-250ml-imperfect-bottle/": {
+    "name": "Aveeno Baby Kids Conditioner Enriched Oat & Shea Butter 250ml Imperfect Bottle",
+    "price": "\u00a32.70"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/anusol-haemorrhoids-piles-treatment-ointment-25g/": {
+    "name": "Anusol Haemorrhoids & Piles Treatment Ointment 25g | Damaged Box Packaging",
+    "price": "\u00a31.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/colgate-max-fresh-cooling-crystals-cool-mint-toothpaste-75ml/": {
+    "name": "Colgate Max Fresh Cooling Crystals Cool Mint Toothpaste 75ml",
+    "price": "\u00a31.40"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/nicorette-icy-white-2mg-nicotine-gum-210-pieces/": {
+    "name": "Nicorette Icy White 2mg Nicotine Gum 210 Pieces",
+    "price": "\u00a311.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/supplements/high5-zero-pink-grapefruit-80g-20-tablets/": {
+    "name": "HIGH5 Zero Pink Grapefruit 80g 20 Tablets",
+    "price": "\u00a33.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/sensodyne-daily-care-extra-fresh-sensitive-toothpaste-75ml/": {
+    "name": "Sensodyne Daily Care Extra Fresh Sensitive Toothpaste 75ml",
+    "price": "\u00a31.49"
   }
 }
