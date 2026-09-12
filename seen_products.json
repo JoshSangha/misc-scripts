@@ -213,7 +213,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/applied-nutrition-high-protein-shake-strawberries-cream-8-x-330ml/": {
     "name": "Applied Nutrition High Protein Shake Strawberries & Cream 8 x 330ml",
-    "price": "\u00a39.99"
+    "price": "\u00a37.99"
   },
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/kleenex-allergy-comfort-facial-tissues-12-x-56-sheets/": {
     "name": "Kleenex Allergy Comfort Facial Tissues 12 x 56 Sheets",
@@ -6882,5 +6882,9 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/coffee/pods-capsules/starbucks-house-blend-nespresso-80-capsules/": {
     "name": "STARBUCKS House Blend Nespresso Coffee Capsules \u2013 Medium Roast \u2013 80 Pods (8x10)",
     "price": "\u00a314.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/crystals-foot-spa-massager-bath-with-electric-controller-bubbles-soothing-vibration-massage-rollers-infrared-lights-for-tired-feet-therapeutic-80-watt-foot-spa-grey/": {
+    "name": "Crystals Foot Spa + Massager Bath with Electric Controller, Bubbles, Soothing Vibration Massage Rollers, Infrared Lights for Tired Feet Therapeutic, 80 Watt (Foot Spa), Grey",
+    "price": "\u00a319.99"
   }
 }
