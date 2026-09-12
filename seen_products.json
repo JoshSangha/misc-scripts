@@ -6121,7 +6121,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/green-people-organic-children-mandarin-aloe-vera-toothpaste-with-fluoride-50ml/": {
     "name": "Green People Organic Children Mandarin & Aloe Vera Toothpaste with Fluoride 50ml",
-    "price": "\u00a32.99"
+    "price": "\u00a32.75"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/rennie-deflatine-sugar-free-mint-36-chewable-tablets/": {
     "name": "Rennie Deflatine Sugar-Free Mint 36 Chewable Tablets",
@@ -6804,8 +6804,8 @@
     "price": "\u00a37.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/nicotinell-mint-2mg-nicotine-lozenges-204-pack/": {
-    "name": "Nicotinell Mint 2mg Nicotine Lozenges 204 Pack",
-    "price": "\u00a311.99"
+    "name": "Nicotinell Mint 2mg Nicotine Lozenges 204 Pack - Damaged Box Packaging",
+    "price": "\u00a39.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/niquitin-minis-mint-4mg-nicotine-lozenges-60-pack/": {
     "name": "NiQuitin Minis Mint 4mg Nicotine Lozenges 60 Pack",
@@ -6873,7 +6873,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/natures-aid-lutein-eye-complex-with-bilberry-30-tablets/": {
     "name": "Natures Aid Lutein Eye Complex with Bilberry 30 Tablets",
-    "price": "\u00a32.99"
+    "price": "\u00a31.99"
   },
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/furniture-clinic-clear-beeswax-polish-for-wood-200ml/": {
     "name": "Furniture Clinic Clear Beeswax Polish for Wood 200ml | DENTED TIN",
@@ -6912,7 +6912,7 @@
     "price": "\u00a37.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/nicotinell-fruit-2mg-nicotine-gum-204-pieces/": {
-    "name": "Nicotinell Fruit 2mg Nicotine Gum 204 Pieces",
+    "name": "Nicotinell Fruit 2mg Nicotine Gum 204 Pieces - Damaged Box Packaging",
     "price": "\u00a38.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/paediasure-shake-strawberry-nutritional-supplement-powder-400g/": {
@@ -7317,6 +7317,62 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/haliborange-omega-3-multivitamins-orange-softies-60-pack/": {
     "name": "Haliborange Omega-3 & Multivitamins Orange Softies 60 Pack",
+    "price": "\u00a32.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/oral-b-3d-white-luxe-perfection-cool-peppermint-whitening-toothpaste-75ml/": {
+    "name": "Oral-B 3D White Luxe Perfection Cool Peppermint Whitening Toothpaste 75ml",
+    "price": "\u00a32.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/aquafresh-complete-care-fresh-mint-alcohol-free-mouthwash-500ml/": {
+    "name": "Aquafresh Complete Care Fresh Mint Alcohol-Free Mouthwash 500ml",
+    "price": "\u00a32.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/sensodyne-gentle-whitening-toothpaste-75ml-for-sensitive-teeth/": {
+    "name": "Sensodyne Gentle Whitening Toothpaste 75ml for Sensitive Teeth",
+    "price": "\u00a31.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/listerine-total-care-mild-taste-smooth-mint-mouthwash-500ml-imperfect-box/": {
+    "name": "Listerine Total Care Mild Taste Smooth Mint Mouthwash 500ml Imperfect Box",
+    "price": "\u00a31.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/corsodyl-daily-active-gum-health-fluoride-mouthwash-soft-mint-500ml-dented-bottle/": {
+    "name": "Corsodyl Daily Active Gum Health Fluoride Mouthwash Soft Mint 500ml Dented Bottle",
+    "price": "\u00a31.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/haircare/olaplex-no-5-bond-maintenance-conditioner-250ml/": {
+    "name": "Olaplex No.5 Bond Maintenance Conditioner \u2013 Bond Repair Conditioner | 250ml",
+    "price": "\u00a314.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/colgate-max-white-sparkle-diamonds-toothpaste-75ml/": {
+    "name": "Colgate Max White Sparkle Diamonds Toothpaste 75ml",
+    "price": "\u00a31.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/astroplast-by-wallace-cameron-piccolo-burns-first-aid-kit/": {
+    "name": "Astroplast by Wallace Cameron Piccolo Burns First Aid Kit",
+    "price": "\u00a37.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/savlon-antiseptic-cream-100g/": {
+    "name": "Savlon Antiseptic Cream 100g - Damaged Box Packaging",
+    "price": "\u00a32.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/niquitin-mint-4mg-nicotine-lozenges-132-pack/": {
+    "name": "NiQuitin Mint 4mg Nicotine Lozenges 132 Pack",
+    "price": "\u00a36.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/haircare/milva-pine-tar-shampoo-for-seborrheic-dermatitis-500ml/": {
+    "name": "Milva Pine Tar Shampoo for Seborrheic Dermatitis 500ml",
+    "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/chanteclair-universal-degreaser-marseille-spray-600ml/": {
+    "name": "Chanteclair Universal Degreaser Marseille Spray 600ml",
+    "price": "\u00a32.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/scholl-gelactiv-work-boot-insoles-for-men-and-women-all-day-comfort-at-work-shock-absorption-and-comfort-cushioning-with-gelwave-technology-size-uk-7-12/": {
+    "name": "Scholl GelActiv Work & Boot Insoles for Men and Women, All Day Comfort at Work, Shock Absorption and Comfort Cushioning with GelWave Technology Size UK 7 - 12 IMPERFECT BOX",
+    "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/haircare/osmo-super-silver-shampoo-violet-pigment-100ml/": {
+    "name": "OSMO Super Silver Shampoo Violet Pigment 100ml",
     "price": "\u00a32.49"
   }
 }
