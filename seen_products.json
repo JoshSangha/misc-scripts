@@ -3617,15 +3617,15 @@
   },
   "https://www.iwonderwhatsnext.co.uk/pet-supplies/small-animal/extra-select-no-1-parrot-mix-bird-food-5l/": {
     "name": "Extra Select No.1 Parrot Mix Bird Food 5L",
-    "price": "\u00a35.99"
+    "price": "\u00a33.99"
   },
   "https://www.iwonderwhatsnext.co.uk/pet-supplies/small-animal/extra-select-cockatiel-big-parakeet-bird-food-3l/": {
     "name": "Extra Select Cockatiel & Big Parakeet Bird Food 3L",
-    "price": "\u00a34.49"
+    "price": "\u00a33.99"
   },
   "https://www.iwonderwhatsnext.co.uk/pet-supplies/small-animal/extra-select-cockatiel-big-parakeet-bird-food-5l/": {
     "name": "Extra Select Cockatiel & Big Parakeet Bird Food 5L 3.6kg",
-    "price": "\u00a35.99"
+    "price": "\u00a33.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/bibigo-k-bbq-sweet-savoury-ramyun-instant-noodle-cups-8-x-98g/": {
     "name": "Bibigo K-BBQ Sweet & Savoury Ramyun Instant Noodle Cups 8 x 98g",
@@ -7042,5 +7042,17 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/mcvitie-s-digestives-milk-chocolate-minis-5-x-19g/": {
     "name": "McVitie's Digestives Milk Chocolate Minis 5 x 19g",
     "price": "\u00a30.90"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/slim-patch-natural-weight-loss-patches-30-patches/": {
+    "name": "Slim Patch Natural Weight Loss Patches 30 Patches",
+    "price": "\u00a33.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/silicone-back-scrubber-with-non-slip-handle-double-sided-design-red/": {
+    "name": "Silicone Back Scrubber with Non-Slip Handle Double Sided Design Red",
+    "price": "\u00a33.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/andrex-family-soft-toilet-roll-24-toilet-rolls/": {
+    "name": "Andrex Family Soft Toilet Roll 24 Toilet Rolls - Damaged Outer Packaging",
+    "price": "\u00a37.99"
   }
 }
