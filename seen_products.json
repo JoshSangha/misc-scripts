@@ -96,7 +96,7 @@
     "price": "\u00a37.49"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/coffee/instant/nescafe-caramel-latte-instant-coffee-7-x-17g-sachets/": {
-    "name": "NESCAF\u00c9 Caramel Latte Instant Coffee 7 x 17g Sachets",
+    "name": "NESCAFE Caramel Latte Instant Coffee 7 x 17g Sachets",
     "price": "\u00a31.75"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/st-dalfour-la-reserve-black-fig-artisan-fruit-spread-170g/": {
@@ -561,7 +561,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/supplements/scitec-nutrition-eaa-xpress-peach-ice-tea-400g/": {
     "name": "Scitec Nutrition EAA Xpress Peach Ice Tea 400g",
-    "price": "\u00a313.99"
+    "price": "\u00a311.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/ultradex-daily-oral-rinse-mint-500ml/": {
     "name": "UltraDEX Daily Oral Rinse Mint 500ml",
@@ -716,7 +716,7 @@
     "price": "\u00a312.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/kokomo-national-gallery-cezanne-assorted-fragranced-soap-gift-set-3-x-100g/": {
-    "name": "Kokomo National Gallery C\u00e9zanne Assorted Fragranced Soap Gift Set 3 x 100g",
+    "name": "Kokomo National Gallery Cezanne Assorted Fragranced Soap Gift Set 3 x 100g",
     "price": "\u00a34.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/large-7-day-pill-organiser-removable-pots-silicone-lids/": {
@@ -2956,7 +2956,7 @@
     "price": "\u00a31.79"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/oral-b-pro-3d-white-clinical-intensive-whitening-radiant-white-toothpaste-75ml/": {
-    "name": "Oral-B Pro 3D White Clinical Intensive Whitening Radiant White Toothpaste 75ml - Damaged Outer Box Packaging",
+    "name": "Oral-B Pro 3D White Intensive Whitening Radiant White Toothpaste 75ml - Damaged Outer Box Packaging",
     "price": "\u00a34.49"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/mai-thai-aaa-jasmine-fragrant-rice-6-x-2kg/": {
@@ -7434,5 +7434,9 @@
   "https://www.iwonderwhatsnext.co.uk/fitness/supplements/eaa-zero-orange-mango-amino-acid-powder-350g/": {
     "name": "EAA Zero Orange Mango Amino Acid Powder 350g",
     "price": "\u00a316.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/oral-b-pro-3d-white-intensive-whitening-radiant-white-toothpaste-1-x-75ml/": {
+    "name": "Oral-B Pro 3D White Intensive Whitening Radiant White Toothpaste 1 x 75ml",
+    "price": "\u00a34.99"
   }
 }
