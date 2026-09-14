@@ -8346,5 +8346,17 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/gran-luchito-lightly-salted-tortilla-chips-170g/": {
     "name": "Gran Luchito Lightly Salted Tortilla Chips 170g",
     "price": "\u00a31.25"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/cans-lemon-sparkling-alpine-water-24-x-330ml/": {
+    "name": "CANS Lemon Sparkling Alpine Water 24 x 330ml",
+    "price": "\u00a311.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/breakfast-bars/deliciously-ella-ginger-spiced-oat-bar-12-x-50g/": {
+    "name": "Deliciously Ella Ginger Spiced Oat Bar 12 x 50g",
+    "price": "\u00a38.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/yeo-valley-organic-tray-baked-granola-berry-cherry-6-x-360g/": {
+    "name": "Yeo Valley Organic Tray Baked Granola Berry & Cherry 6 x 360g",
+    "price": "\u00a39.99"
   }
 }
