@@ -2081,7 +2081,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/grenade-soft-core-creme-egg-protein-bars-18-x-45g/": {
     "name": "Grenade Soft Core Creme Egg Protein Bars 18 x 45g",
-    "price": "\u00a319.99"
+    "price": "\u00a317.49"
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/grenade-oreo-white-protein-bars-24-x-60g/": {
     "name": "Grenade OREO White Protein Bars \u2013 24 x 60g \u2013 21g Protein, Low Sugar",
@@ -8394,5 +8394,13 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/cosmetics-makeup/londo-pu-leather-cosmetic-makeup-pouch-travel-watch-box-black/": {
     "name": "LONDO PU Leather Cosmetic Makeup Pouch & Travel Watch Box Black",
     "price": "\u00a319.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/clif-nut-butter-bar-peanut-butter-organic-24x50g/": {
+    "name": "CLIF Nut Butter Bar Peanut Butter Organic Oat Snack Bars | 24 x 50g",
+    "price": "\u00a311.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/breakfast-bars/clif-nut-butter-bar-peanut-butter-organic-12x50g/": {
+    "name": "CLIF Nut Butter Bar Peanut Butter Organic Oat Snack Bars | 12 x 50g",
+    "price": "\u00a37.49"
   }
 }
