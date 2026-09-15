@@ -3673,7 +3673,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/wheat-bran-1kg-high-fibre-medium-grade-gmo-free/": {
     "name": "Wheat Bran 1kg Medium Grade High Fibre Baking Ingredient Cereals & Smootie",
-    "price": "\u00a31.30"
+    "price": "\u00a30.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/namdong-chicken-jjigae-k-noodles-10-packs-120g-instant-noodles/": {
     "name": "Namdong Chicken Jjigae K-Noodles 10 Packs 120g Instant Noodles",
@@ -8426,5 +8426,9 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/breakfast-bars/jordans-frusli-juicy-red-berry-cereal-bars-wholegrain-oat-snack-6-x-30g-bars/": {
     "name": "Jordans Frusli Juicy Red Berry Cereal Bars | Wholegrain Oat Snack 6 x 30g Bars",
     "price": "\u00a31.08"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/toys-collectables/trolls-band-together-squashy-podgies-viva-with-vibrant-yellow-hair/": {
+    "name": "Trolls Band Together Squashy Podgies Viva With Vibrant Yellow Hair",
+    "price": "\u00a35.99"
   }
 }
