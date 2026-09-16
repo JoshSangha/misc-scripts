@@ -2049,7 +2049,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/biona-organic-cranberry-juice-750ml-pack-of-2/": {
     "name": "Biona Organic Cranberry Juice \u2013 750ml (Pack of 2) | Pure Pressed Organic Fruit Drink | Vegan & No Added Sugar",
-    "price": "\u00a311.99"
+    "price": "\u00a39.99"
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/pulsin-unflavoured-vegan-pea-protein-powder-1kg/": {
     "name": "Pulsin Pea Protein Powder | Natural & Unflavoured Vegan Protein | 1kg | 80% Protein | Gluten Free | Dairy Free | Plant Based | No Added Sugar",
@@ -8470,5 +8470,9 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/coffee/pods-capsules/barissimo-flat-white-coffee-pods-dolce-gusto-compatible-96-pods/": {
     "name": "Barissimo Flat White Coffee Pods Dolce Gusto Compatible 96 Pods",
     "price": "\u00a310.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/caligon-hygiene-plus-washing-machine-cleaner-76-tablets/": {
+    "name": "Calgon Hygiene Plus Washing Machine Cleaner & Water Softener Tablets Wild Eucalyptus 76 Tabs",
+    "price": "\u00a36.50"
   }
 }
