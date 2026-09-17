@@ -8950,5 +8950,45 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/werthers-original-cream-candies-1kg-bag/": {
     "name": "Werther's Original Cream Candies 1kg Bag",
     "price": "\u00a36.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/finest-call-premium-sugar-syrup-1l-missing-lid-cap-dented-bottle/": {
+    "name": "Finest Call Premium Sugar Syrup 1L - MISSING LID CAP/DENTED BOTTLE",
+    "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/pme-plum-pink-paste-food-colour-25g/": {
+    "name": "PME Plum Pink Paste Food Colour 25g",
+    "price": "\u00a31.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/homespun-chicory-root-syrup-200g/": {
+    "name": "Homespun Chicory Root Syrup 200g",
+    "price": "\u00a35.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/gordon-rhodes-chilli-non-carne-vegan-recipe-sauce-mix-mix-with-crushed-chilli-seeds-free-from-meat-and-gluten-slow-cook-for-the-laid-back-way-to-get-a-kick-out-of-your-veg-1-x-75gm/": {
+    "name": "Gordon Rhodes' Chilli Non Carne Vegan Recipe Sauce Mix Mix with Crushed Chilli Seeds. Free from Meat and Gluten, Slow Cook for the Laid Back Way to get a kick Out of Your Veg.(1 x 75gm)",
+    "price": "\u00a32.69"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/gordon-rhodes-gourmet-sage-red-onion-stuffing-mix-125g/": {
+    "name": "Gordon Rhodes Gourmet Sage & Red Onion Stuffing Mix 125g",
+    "price": "\u00a32.25"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/robinsons-mini-passion-fruit-mango-no-added-sugar-squash-66ml/": {
+    "name": "Robinsons Mini Passion Fruit & Mango No Added Sugar Squash 66ml",
+    "price": "\u00a31.80"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/gordon-rhodes-sticky-brisket-of-beef-gourmet-sauce-mix-75g/": {
+    "name": "Gordon Rhodes Sticky Brisket of Beef Gourmet Sauce Mix 75g",
+    "price": "\u00a32.20"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/lipton-peach-ice-tea-1-25l/": {
+    "name": "Lipton Peach Ice Tea 1.25L",
+    "price": "\u00a31.69"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/finest-call-premium-sugar-syrup-1l/": {
+    "name": "Finest Call Premium Sugar Syrup 1L",
+    "price": "\u00a37.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/mccoys-flame-grilled-steak-ridge-cut-potato-crisps-6-x-25g/": {
+    "name": "McCoy's Flame Grilled Steak Ridge Cut Potato Crisps 6 x 25g",
+    "price": "\u00a31.49"
   }
 }
