@@ -4469,7 +4469,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/rock-face-48hr-protection-antiperspirant-deodorant-6-x-200ml/": {
     "name": "Rock Face 48hr Protection Antiperspirant Deodorant 6 x 200ml",
-    "price": "\u00a312.95"
+    "price": "\u00a39.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/to-matcha-ketchup-270g-tomato-matcha-sauce/": {
     "name": "To-Matcha Ketchup 270g | Tomato & Matcha Sauce",
@@ -8814,5 +8814,9 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/skittles-crazy-sours-fruit-sweets-pouch-136g/": {
     "name": "Skittles Crazy Sours Fruit Sweets Pouch 136g",
     "price": "\u00a31.00"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/twix-twin-caramel-milk-chocolate-biscuit-bars-9-x-40g/": {
+    "name": "Twix Twin Caramel & Milk Chocolate Biscuit Bars 9 x 40g",
+    "price": "\u00a31.75"
   }
 }
