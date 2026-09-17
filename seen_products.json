@@ -8745,7 +8745,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/lancaster-sun-beauty-face-gel-spf30-50ml/": {
     "name": "Lancaster Sun Beauty Face Gel SPF30 50ml",
-    "price": "\u00a322.99"
+    "price": "\u00a313.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/lancaster-sun-beauty-dry-body-oil-spf30-150ml/": {
     "name": "Lancaster Sun Beauty Dry Body Oil SPF30 150ml",
@@ -8838,5 +8838,25 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/cosmetics-makeup/makeup-revolution-loose-baking-powder-lace-30g/": {
     "name": "Makeup Revolution Loose Baking Powder Lace 30g",
     "price": "\u00a34.25"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/haircare/living-proof-perfect-hair-day-shampoo-60ml/": {
+    "name": "Living Proof Perfect Hair Day Shampoo 60ml",
+    "price": "\u00a37.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/lancaster-sun-beauty-face-stick-spf50-19g/": {
+    "name": "Lancaster Sun Beauty Face Stick SPF50 19g",
+    "price": "\u00a313.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/philosophy-purity-made-simple-one-step-facial-cleanser-480ml/": {
+    "name": "Philosophy Purity Made Simple One-Step Facial Cleanser 480ml",
+    "price": "\u00a322.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/clinique-for-men-face-wash-oily-skin-formula-200ml/": {
+    "name": "Clinique For Men Face Wash Oily Skin Formula 200ml",
+    "price": "\u00a313.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/nivea-derma-skin-clear-rebalance-clear-serum-30ml/": {
+    "name": "NIVEA Derma Skin Clear Rebalance & Clear Serum 30ml",
+    "price": "\u00a33.75"
   }
 }
