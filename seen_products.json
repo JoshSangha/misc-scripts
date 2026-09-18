@@ -9542,5 +9542,21 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/orange-juice-from-concentrate-1l/": {
     "name": "Orange Juice from Concentrate, 1L",
     "price": "\u00a31.25"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/lucozade-energy-zero-sugar-grafruitti-900ml/": {
+    "name": "Lucozade Energy Zero Sugar Grafruitti 900ml",
+    "price": "\u00a30.94"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/kind-protein-crunchy-peanut-butter-bars-3-x-42g/": {
+    "name": "KIND Protein Crunchy Peanut Butter Bars 3 x 42g",
+    "price": "\u00a32.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/butlers-milk-chocolate-truffle-bar-75g/": {
+    "name": "Butlers Milk Chocolate Truffle Bar 75g",
+    "price": "\u00a30.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/cadbury-twirl-milk-chocolate-bars-multipack-3-x-43g/": {
+    "name": "Cadbury Twirl Milk Chocolate Bars Multipack 3 x 43g",
+    "price": "\u00a31.49"
   }
 }
