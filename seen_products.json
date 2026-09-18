@@ -4169,7 +4169,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/myprotein-filled-wafer-hazelnut-12-x-24g-protein-wafer-bars/": {
     "name": "Myprotein Filled Wafer Hazelnut 12 x 24g Protein Wafer Bars | Like Kinder Bueno",
-    "price": "\u00a38.99"
+    "price": "\u00a37.49"
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/myprotein-layered-protein-bar-peanut-pretzel-24-x-60g/": {
     "name": "Myprotein Layered Protein Bar Peanut Pretzel 24 x 60g",
@@ -4181,11 +4181,11 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/myprotein-layered-bar-triple-chocolate-protein-bars-12-x-60g/": {
     "name": "Myprotein Layered Bar Triple Chocolate Protein Bars 12 x 60g",
-    "price": "\u00a312.99"
+    "price": "\u00a39.99"
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/myprotein-layered-protein-bar-peanut-pretzel-12-x-60g/": {
     "name": "Myprotein Layered Protein Bar Peanut Pretzel 12 x 60g",
-    "price": "\u00a311.99"
+    "price": "\u00a39.99"
   },
   "https://www.iwonderwhatsnext.co.uk/pet-supplies/dog/crave-chicken-marrow-grains-7kg-bag-premium-dry-dog-food-with-high-protein-grain-free/": {
     "name": "Crave Chicken, Marrow & Grains \u2013 7kg Bag, Premium High-Protein, Grain-Free Dry Dog Food",
@@ -9378,5 +9378,37 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/cosmetics-makeup/it-cosmetics-brow-power-universal-eyebrow-pencil-universal-blonde-0-16g/": {
     "name": "IT Cosmetics Brow Power Universal Eyebrow Pencil Universal Blonde 0.16g",
     "price": "\u00a313.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/carmex-strawberry-click-stick-moisturising-lip-balm-spf15-4-25g/": {
+    "name": "Carmex Strawberry Click Stick Moisturising Lip Balm SPF15 4.25g",
+    "price": "\u00a31.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/nivea-q10-energy-instant-recharge-face-sheet-mask-1-sheet/": {
+    "name": "NIVEA Q10 Energy Instant Recharge Face Sheet Mask 1 Sheet",
+    "price": "\u00a31.69"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/cosmetics-makeup/mua-makeup-academy-5-shade-eyeshadow-palette-enchantment-3-8g/": {
+    "name": "MUA Makeup Academy 5 Shade Eyeshadow Palette Enchantment 3.8g",
+    "price": "\u00a32.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/nivea-q10-vitamin-c-firming-rich-body-lotion-400ml/": {
+    "name": "NIVEA Q10 + Vitamin C Firming Rich Body Lotion 400ml",
+    "price": "\u00a34.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/stationery-gadgets/lilya-roseina-inside-2-out-coloring-book-paperback-62-pages/": {
+    "name": "Lilya Roseina Inside 2 Out Coloring Book Paperback, 62 Pages",
+    "price": "\u00a32.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/haircare/color-wow-color-security-shampoo-250ml/": {
+    "name": "Color Wow Color Security Shampoo 250ml",
+    "price": "\u00a313.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/haircare/tresemme-care-protect-heat-defence-spray-270ml/": {
+    "name": "TRESemm\u00e9 Care & Protect Heat Defence Spray 270ml",
+    "price": "\u00a33.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/la-roche-posay-cicaplast-baume-b5-repairing-balm-100ml/": {
+    "name": "La Roche-Posay Cicaplast Baume B5+ Repairing Balm 100ml",
+    "price": "\u00a312.99"
   }
 }
