@@ -684,7 +684,7 @@
     "price": "\u00a35.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/niquitin-mint-2mg-nicotine-lozenges-132-pack/": {
-    "name": "NiQuitin Mint 2mg Nicotine Lozenges 132 Pack",
+    "name": "NiQuitin Mint 2mg Nicotine Lozenges 132 Pack Damaged Outer Box",
     "price": "\u00a37.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/cosmetics-makeup/lash-fx-practice-eye-strip-lashes-set-10-pairs/": {
@@ -6009,7 +6009,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/meal-replacement/paediasure-shake-ready-to-drink-bottles-4-x-200ml-vanilla-flavour/": {
     "name": "PaediaSure Shake Ready-To-Drink Bottles 4 x 200ml Vanilla Flavour",
-    "price": "\u00a33.99"
+    "price": "\u00a35.99"
   },
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/comfort-ultra-fresh-sakura-dreams-conditioner-58-washes/": {
     "name": "Comfort Ultra Fresh Sakura Dreams Conditioner 58 Washes",
@@ -9238,5 +9238,21 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/e45-moisturising-body-lotion-for-dry-sensitive-skin-500ml/": {
     "name": "E45 Moisturising Body Lotion for Dry & Sensitive Skin 500ml Dented Bottle",
     "price": "\u00a33.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/olbas-oil-inhalant-decongestant-30ml/": {
+    "name": "Olbas Oil Inhalant Decongestant 30ml",
+    "price": "\u00a32.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/rennie-peppermint-heartburn-indigestion-chewable-tablets-96-pack/": {
+    "name": "Rennie Peppermint Heartburn & Indigestion Chewable Tablets 96 Pack",
+    "price": "\u00a33.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/femfresh-0-sensitive-intimate-wash-250ml/": {
+    "name": "Femfresh 0% Sensitive Intimate Wash 250ml",
+    "price": "\u00a31.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/omega-3-6-9-gummies-for-kids-2-months-supply-120-vegan-gummies/": {
+    "name": "Omega 3 6 9 Gummies for Kids - 2 Months Supply - 120 Vegan Gummies",
+    "price": "\u00a39.99"
   }
 }
