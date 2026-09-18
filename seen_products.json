@@ -285,7 +285,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/now-foods-potassium-iodide-30mg-60-tablets/": {
     "name": "NOW Foods Potassium Iodide 30mg 60 Tablets",
-    "price": "\u00a33.49"
+    "price": "\u00a30.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/cetraben-moisturising-cream-475ml/": {
     "name": "Cetraben Moisturising Cream 475ml",
@@ -9150,5 +9150,13 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/mrs-crimbles-double-chocolate-brownies-9-x-190g/": {
     "name": "Mrs Crimbles Double Chocolate Brownies 9 x 190g",
     "price": "\u00a37.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/amoy-straight-to-wok-udon-thick-noodles-2-x-150g/": {
+    "name": "Amoy Straight to Wok Udon Thick Noodles 2 x 150g",
+    "price": "\u00a30.79"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/safe-sound-health-assorted-washproof-plasters-20-pack/": {
+    "name": "Safe & Sound Health Assorted Washproof Plasters 20 Pack",
+    "price": "\u00a31.20"
   }
 }
