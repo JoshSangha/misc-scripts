@@ -1781,7 +1781,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/colgate-total-active-prevention-deep-clean-toothpaste-75ml/": {
     "name": "Colgate Total Active Prevention+ Deep Clean Toothpaste 75ml",
-    "price": "\u00a32.75"
+    "price": "\u00a32.49"
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/supplements/high5-zero-caffeine-hit-pink-grapefruit-electrolyte-tablets-8-x-20-tablets/": {
     "name": "HIGH5 ZERO Caffeine Hit Pink Grapefruit Electrolyte Tablets 8 x 20 Tablets | Damaged Outer Box Packaging",
@@ -9890,5 +9890,17 @@
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/bloo-power-active-clear-water-lemon-toilet-rim-blocks-3-x-50g/": {
     "name": "Bloo Power Active Clear Water Lemon Toilet Rim Blocks 3 x 50g | Damaged Outer Packaging",
     "price": "\u00a31.79"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/knoxzy-isotonic-saline-solution-0-9-sodium-chloride-nacl-inhalation-saline-solution-for-humidifying-the-airways-2-5ml-30-pack/": {
+    "name": "KNOXZY Isotonic Saline Solution 0.9% Sodium Chloride NaCl - Inhalation Saline Solution for Humidifying The Airways 2.5ml 30 Pack",
+    "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/varifocal-reading-glasses-optimised-for-near-mid-range-2-pack-spring-hinge-half-frame-1-75x/": {
+    "name": "Varifocal Reading Glasses Optimised for Near & Mid Range 2 Pack Spring Hinge Half Frame 1.75x",
+    "price": "\u00a33.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/supplements/styrkr-gel50-mixed-berry-dual-carb-energy-gel-12-x-72g/": {
+    "name": "STYRKR GEL50 Mixed Berry Dual-Carb Energy Gel 12 x 72g - Damaged Outer Box Packaging",
+    "price": "\u00a319.99"
   }
 }
