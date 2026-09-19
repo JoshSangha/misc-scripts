@@ -777,7 +777,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/supplements/fast-up-reload-mixed-berry-electrolyte-tablets-20-pack-75g/": {
     "name": "Fast&Up Reload Mixed Berry Electrolyte Tablets 20 Pack 75g",
-    "price": "\u00a33.75"
+    "price": "\u00a33.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/heathug-1-5l-wrap-around-hot-water-bottle-belt-grey/": {
     "name": "HeatHug 1.5L Wrap Around Hot Water Bottle Belt - Grey",
@@ -9966,5 +9966,21 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/berocca-immuno-orange-flavour-sugar-free-15-effervescent-tablets/": {
     "name": "Berocca Immuno Orange Flavour Sugar Free 15 Effervescent Tablets",
     "price": "\u00a33.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/lamisil-at-1-athlete-s-foot-treatment-cream-15g/": {
+    "name": "Lamisil AT 1% Athlete's Foot Treatment Cream 15g",
+    "price": "\u00a32.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/phizz-electrolytes-multivitamin-hydration-tablets-20-effervescent-tablets/": {
+    "name": "Phizz Electrolytes Multivitamin & Hydration 20 Tablets Mixed Berry",
+    "price": "\u00a33.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/nivea-dry-comfort-anti-perspirant-deodorant-roll-on-6-x-50ml/": {
+    "name": "NIVEA Dry Comfort Anti-Perspirant Deodorant Roll On 6 x 50ml",
+    "price": "\u00a36.59"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/supplements/phizz-electrolytes-multivitamin-hydration-tablets-20-effervescent-rehydration-electrolyte-tablets-18-vitamins-minerals-vitamin-c-vegan-vegetarian/": {
+    "name": "Phizz Electrolytes, Multivitamin & Hydration Tablets - 20 Effervescent Rehydration Electrolyte Tablets - 18 Vitamins & Minerals, Vitamin C, Vegan, Vegetarian",
+    "price": "\u00a34.49"
   }
 }
