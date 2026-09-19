@@ -5213,7 +5213,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/walkers-ready-salted-crisps-32-x-32-5g/": {
     "name": "Walkers Ready Salted Crisps 32 x 32.5g",
-    "price": "\u00a314.39"
+    "price": "\u00a39.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/walkers-cheese-onion-crisps-32-x-32-5g/": {
     "name": "Walkers Cheese & Onion Crisps 32 x 32.5g",
@@ -10042,5 +10042,53 @@
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/warrior-crunch-protein-bars-variety-pack-12-x-64g-low-carb-low-sugar/": {
     "name": "Warrior Crunch Protein Bars \u2013 Variety Pack (12 x 64g) | 20g Protein | Low Carb & Low Sugar | High Protein Snack Box",
     "price": "\u00a313.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/baby-care/waterwipes-sensitive-newborn-baby-wipes-18-x-60/": {
+    "name": "WaterWipes Sensitive+ Newborn & Baby Wipes 18 x 60",
+    "price": "\u00a334.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/old-india-cayenne-pepper-heat-treated-50g/": {
+    "name": "Old India Cayenne Pepper Heat Treated 50g",
+    "price": "\u00a30.25"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/old-india-asafoetida-hing-powder-100g/": {
+    "name": "Old India Asafoetida Hing Powder 100g",
+    "price": "\u00a31.25"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/jelly-babies-fruit-flavour-140g-pick-mix-sweets/": {
+    "name": "Jelly Babies Fruit Flavour 140g | Pick & Mix Sweets",
+    "price": "\u00a30.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/weetabix-oatibix-24-biscuits/": {
+    "name": "Weetabix Oatibix Wholegrain Oat Biscuits Breakfast Cereal | 24 Biscuits",
+    "price": "\u00a32.95"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/air-wick-spring-breeze-island-vanilla-plug-in-refills-10/": {
+    "name": "Air Wick Plug-In Scented Oil Refills Spring Breeze & Island Vanilla | Essential Oils | 10 Refills (5 x Twin Pack)",
+    "price": "\u00a314.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/ferrero-rocher-chocolate-3-pack/": {
+    "name": "Ferrero Rocher Chocolate | 3 Pack",
+    "price": "\u00a30.69"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/pure-via-stevia-sticks-zero-calories-zero-sugar-300-sticks-natural-alternative-to-sugar/": {
+    "name": "Pure Via Stevia Sticks - Zero Calories, Zero Sugar, 300 Sticks - Natural Alternative to Sugar",
+    "price": "\u00a37.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/fruittella-duo-stix-160g/": {
+    "name": "Fruit-tella Duo Stix Chewy Sweets Bag 160g \u2013 Natural Fruit Flavours &amp; Vegan Friendly",
+    "price": "\u00a30.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/baby-care/waterwipes-sensitive-plus-baby-wipes-720-count-12-packs/": {
+    "name": "WaterWipes Sensitive+ Baby Wipes \u2013 720 Wipes (12 Packs) \u2013 99.9% Water, Unscented & Gentle for Newborns",
+    "price": "\u00a316.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/fresh-linen-scent-booster-crystals-2kg-in-wash-fragrance-perfect-scents-bulk-buy-deal/": {
+    "name": "Fresh Linen Scent Booster Crystals \u2013 2KG \u2013 In-Wash Fragrance Beads \u2013 Bulk Buy Deal",
+    "price": "\u00a37.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/old-india-curry-powder-korma-100g-authentic-mild-flavourful-spice-blend/": {
+    "name": "Old India Curry Powder Korma, 100g \u2013 Authentic, Mild & Flavourful Spice Blend",
+    "price": "\u00a31.25"
   }
 }
