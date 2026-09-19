@@ -253,7 +253,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/supplements/high5-zero-caffeine-hit-berry-electrolyte-tablets-20-tablets-80g/": {
     "name": "HIGH5 ZERO Caffeine Hit Berry Electrolyte Tablets 20 Tablets 80g",
-    "price": "\u00a32.75"
+    "price": "\u00a32.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/weleda-children-s-tooth-gel-50ml/": {
     "name": "Weleda Children's Tooth Gel 50ml",
@@ -1941,11 +1941,11 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/supplements/high5-zero-electrolyte-tablet-hydration-tablets-enhanced-with-vitamin-c-20-tablets-berry-flavour/": {
     "name": "HIGH5 ZERO Electrolyte Tablet - Hydration Tablets Enhanced with Vitamin C 20 Tablets Berry Flavour",
-    "price": "\u00a33.99"
+    "price": "\u00a32.99"
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/supplements/high5-zero-electrolyte-tablet-hydration-tablets-enhanced-with-vitamin-c-0-calories-sugar-free-blackcurrant-flavour/": {
     "name": "HIGH5 ZERO Electrolyte Tablet - Hydration Tablets Enhanced with Vitamin C - 0 Calories & Sugar Free Blackcurrant Flavour",
-    "price": "\u00a35.99"
+    "price": "\u00a34.49"
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/supplements/high5-caffeine-energy-gels-aqua-quick-release-sports-gels-to-power-muscles-for-peak-performance-natural-fruit-juice-on-the-go-energy-boost-for-running-cycling-and-endurance-citrus-20-x-66g/": {
     "name": "HIGH5 Caffeine Energy Gels Aqua - Quick Release Sports Gels to Power Muscles for Peak Performance - Natural Fruit Juice - On The Go Energy Boost for Running, Cycling and Endurance (Citrus, 20 x 66g)",
@@ -9798,5 +9798,13 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/oral-b-pro-3d-white-clinical-intensive-whitening-toothpaste-2x75ml/": {
     "name": "Oral-B Pro-3D White Clinical Intensive Whitening Toothpaste \u2013 Bright Brilliance \u2013 75ml | NO OUTER BOX PACKAGING",
     "price": "\u00a33.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/haircare/french-concord-flat-hair-clips-hollow-curved-hair-claw-clips-black/": {
+    "name": "French Concord Flat Hair Clips Hollow Curved Hair Claw Clips Black",
+    "price": "\u00a31.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/haircare/osmo-super-ice-shampoo-black-pigment-for-brightening-blonde-hair-100ml/": {
+    "name": "OSMO Super Ice Shampoo Black Pigment for Brightening Blonde Hair 100ml",
+    "price": "\u00a32.99"
   }
 }
