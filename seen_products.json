@@ -5069,7 +5069,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/pet-supplies/dog/greenies-original-medium-dental-dog-treats-36-chews-6-x-170g/": {
     "name": "Greenies Original Medium Dental Dog Treats 36 Chews 6 x 170g",
-    "price": "\u00a319.19"
+    "price": "\u00a313.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/natural-world-smooth-almond-butter-1kg/": {
     "name": "Natural World Smooth Almond Butter \u2013 100% Almonds | 1kg Jar",
@@ -11406,5 +11406,13 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/natures-path-mesa-sunrise-organic-gluten-free-cereal-4-x-355g-vegan-high-fibre/": {
     "name": "Natures Path Mesa Sunrise Organic Gluten Free Cereal 4 x 355g Vegan High Fibre",
     "price": "\u00a37.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/pet-supplies/dog/greenies-large-dog-dental-treats-original-24-chews-6x170g/": {
+    "name": "Greenies The Smart Dental Treat 24 Chews, Daily Original Large Dog Treats, Pack of 6 (4 x 170 g)",
+    "price": "\u00a311.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/pet-supplies/dog/greenies-dental-treats-petite-small-8-11kg-6-packs-of-10-60-chews/": {
+    "name": "Greenies Original Adult Petite Dog Treats 10 x Dental Chews 170g (Pack of 6)",
+    "price": "\u00a311.99"
   }
 }
