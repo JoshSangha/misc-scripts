@@ -8361,7 +8361,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/jacobs-mini-cheddars-chipotle-lime-baked-snacks-10x150g/": {
     "name": "Jacob's Mini Cheddars Chipotle & Lime Baked Snacks 10 x 150g",
-    "price": "\u00a39.99"
+    "price": "\u00a35.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/by-amazon-aloe-vera-face-cleansing-wipes-fragrance-free-25-wipes/": {
     "name": "Aloe Vera Face Cleansing Wipes Fragrance Free 25 Wipes | Damaged Outer Packaging",
@@ -11414,5 +11414,9 @@
   "https://www.iwonderwhatsnext.co.uk/pet-supplies/dog/greenies-dental-treats-petite-small-8-11kg-6-packs-of-10-60-chews/": {
     "name": "Greenies Original Adult Petite Dog Treats 10 x Dental Chews 170g (Pack of 6)",
     "price": "\u00a311.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/pet-supplies/dog/aumuca-cat-dog-brush-with-release-button-cat-grooming-comb-for-long-or-semi-short-haired-cats-pet-brush-for-shedding-removing-loose-fur-and-massage/": {
+    "name": "aumuca Cat Dog Brush with Release Button, Cat Grooming Comb for Long or Semi-Short Haired Cats, Pet Brush for Shedding Removing Loose Fur and Massage",
+    "price": "\u00a35.99"
   }
 }
