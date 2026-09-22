@@ -6061,7 +6061,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/meal-replacement/paediasure-shake-chocolate-flavour-400g/": {
     "name": "PaediaSure Shake Chocolate Flavour Nutritional Drink Powder 400g",
-    "price": "\u00a37.99"
+    "price": "\u00a34.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/brulidine-antiseptic-and-antibacterial-cream-25g/": {
     "name": "Brulidine Antiseptic and Antibacterial Cream 25g",
@@ -12054,5 +12054,13 @@
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/myprotein-essential-whey-protein-vanilla-4x600g/": {
     "name": "Myprotein Essential Whey Protein Vanilla 600g \u2013 4 Pack Case Deal \u2013 2.4kg Total \u2013 Approx. 96 Servings",
     "price": "\u00a349.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/vieve-mixed-flavour-protein-water-10-x-500ml/": {
+    "name": "Vieve Mixed Flavour Protein Water 10 x 500ml",
+    "price": "\u00a311.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/coffee/pods-capsules/tassimo-cadbury-hot-chocolate-pods-5-packs-50-drinks-total/": {
+    "name": "Tassimo Cadbury Hot Chocolate Pods 5 Packs 50 Drinks Total",
+    "price": "\u00a311.99"
   }
 }
