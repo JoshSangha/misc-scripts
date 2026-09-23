@@ -6728,8 +6728,8 @@
     "price": "\u00a34.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/colgate-maximum-cavity-protection-toothpaste-75ml/": {
-    "name": "Colgate Maximum Cavity Protection Toothpaste 75ml | Damaged Box Packaging",
-    "price": "\u00a30.99"
+    "name": "Colgate Maximum Cavity Protection Toothpaste 75ml",
+    "price": "\u00a31.25"
   },
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/cif-infinite-clean-all-in-one-lime-lemongrass-cleaning-spray-280ml/": {
     "name": "Cif Infinite Clean All in One Lime & Lemongrass Cleaning Spray 280ml",
@@ -12278,5 +12278,9 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/sambucol-kids-gummies-30-pack-black-elderberry-immune-support-for-children/": {
     "name": "Sambucol Kids Gummies 30 Pack \u2013 Black Elderberry Immune Support for Children",
     "price": "\u00a32.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/marvis-smokers-whitening-mint-toothpaste-85ml/": {
+    "name": "Marvis Smokers Whitening Mint Toothpaste 85ml - Damaged Box Packaging",
+    "price": "\u00a34.99"
   }
 }
