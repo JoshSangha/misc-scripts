@@ -1445,7 +1445,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/vitabiotics-pregnacare-liquid-orange-flavour-200ml/": {
     "name": "Vitabiotics Pregnacare Liquid Orange Flavour 200ml",
-    "price": "\u00a31.49"
+    "price": "\u00a30.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/sirona-reusable-menstrual-cup-reusable-period-cup-heavy-flow-large/": {
     "name": "Sirona Reusable Menstrual Cup Reusable Period Cup Heavy Flow Large",
@@ -6181,7 +6181,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/meal-replacement/slimfast-strawberry-meal-replacement-shake-6-x-325ml/": {
     "name": "SlimFast Strawberry Meal Replacement Shake 6 x 325ml",
-    "price": "\u00a38.99"
+    "price": "\u00a35.99"
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/fulfil-vitamin-and-protein-bar-10-x-55-g-bars-10-bar-selection-box-20g-high-protein-9-vitamins-low-sugar/": {
     "name": "Fulfil Vitamin and Protein Bar (10 x 55 g Bars) 10 Bar Selection Box 20g High Protein, 9 Vitamins, Low Sugar",
@@ -12258,5 +12258,25 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/jungle-formula-maximum-strength-insect-repellent-aerosol-spray-125ml-missing-lid/": {
     "name": "Jungle Formula Maximum Strength Insect Repellent Aerosol Spray 125ml",
     "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/wilkinson-sword-intuition-complete-care-mini-travel-women-s-razor-with-1-blade-refill-case/": {
+    "name": "Wilkinson Sword Intuition Complete Care Mini Travel Women's Razor with 1 Blade Refill & Case - Opened Packaging Unused Item",
+    "price": "\u00a34.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/oraldene-medicated-relief-antibacterial-mouthwash-200ml/": {
+    "name": "Oraldene Relief Antibacterial Mouthwash 200ml Damaged Outer Box",
+    "price": "\u00a32.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/baby-care/johnson-s-baby-oil-500ml/": {
+    "name": "Johnson's Baby Oil 500ml - Damaged Labelling",
+    "price": "\u00a31.29"
+  },
+  "https://www.iwonderwhatsnext.co.uk/clearance/reliance-freeze-spray-150ml/": {
+    "name": "Reliance Freeze Spray 150ml",
+    "price": "\u00a32.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/sambucol-kids-gummies-30-pack-black-elderberry-immune-support-for-children/": {
+    "name": "Sambucol Kids Gummies 30 Pack \u2013 Black Elderberry Immune Support for Children",
+    "price": "\u00a32.99"
   }
 }
