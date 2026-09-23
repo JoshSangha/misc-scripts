@@ -6617,7 +6617,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/bassetts-vitamins-woman-multivitamins-multiminerals-raspberry-30-pastilles-100g/": {
     "name": "Bassetts Vitamins Woman Multivitamins & Multiminerals Raspberry 30 Pastilles 100g",
-    "price": "\u00a33.49"
+    "price": "\u00a32.49"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/potter-s-blackcurrant-glycerine-pastilles-20-pack-45g/": {
     "name": "Potter's Blackcurrant & Glycerine Pastilles 20 Pack 45g",
@@ -12226,5 +12226,9 @@
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/grenade-birthday-cake-protein-bar-12-x-60g/": {
     "name": "Grenade Birthday Cake Protein Bars 12 x 60g High Protein Low Sugar",
     "price": "\u00a313.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/magnesium-lysinate-glycinate-120-tablets/": {
+    "name": "Magnesium Lysinate Glycinate 120 Tablets",
+    "price": "\u00a37.99"
   }
 }
