@@ -6061,7 +6061,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/meal-replacement/paediasure-shake-chocolate-flavour-400g/": {
     "name": "PaediaSure Shake Chocolate Flavour Nutritional Drink Powder 400g",
-    "price": "\u00a34.99"
+    "price": "\u00a33.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/brulidine-antiseptic-and-antibacterial-cream-25g/": {
     "name": "Brulidine Antiseptic and Antibacterial Cream 25g",
@@ -7121,7 +7121,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/pip-nut-smooth-peanut-butter-1kg-natural-palm-oil-free-no-added-sugar-high-in-healthy-fats-gluten-free-vegan-dairy-free/": {
     "name": "Pip & Nut Smooth Peanut Butter 1kg | Natural, Palm Oil Free, No Added Sugar, High in Healthy Fats, Gluten Free, Vegan, Dairy Free",
-    "price": "\u00a34.99"
+    "price": "\u00a34.49"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/carbon-fiber-sport-insoles-with-arch-support-welnove-shock-absorbing-performance-insoles-size-m-5-5-6-5-imperfect-box/": {
     "name": "Carbon Fiber Sport Insoles with Arch Support - Welnove Shock Absorbing Performance Insoles Size M 5.5 - 6.5 Imperfect Box",
@@ -7136,8 +7136,8 @@
     "price": "\u00a34.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/beser-ultrasonic-retainer-cleaner-dental-ultrasonic-tooth-cleaner-machine-pod-for-aligner-nightguard/": {
-    "name": "Beser Ultrasonic Retainer Cleaner Dental Ultrasonic Tooth Cleaner Machine Pod for Aligner Nightguard",
-    "price": "\u00a322.99"
+    "name": "Beser Ultrasonic Retainer Cleaner Dental Ultrasonic Tooth Cleaner Machine Pod for Aligner Nightguard - DAMAGED OUTER BOX PACKAGING",
+    "price": "\u00a317.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/cosmetics-makeup/head-shavers-for-bald-men-7d-wet-dry-electric-bald-razor/": {
     "name": "Head Shavers for Bald Men 7D Wet Dry Electric Bald Razor",
@@ -10881,7 +10881,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/lil-lets-maternity-extra-long-maxi-pads-with-wings-3-x-10/": {
     "name": "Lil-Lets Maternity Extra Long Maxi Pads with Wings 3 x 10",
-    "price": "\u00a34.49"
+    "price": "\u00a33.75"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/intenson-psyllium-husk-1kg/": {
     "name": "Intenson Psyllium Husk 1kg",
@@ -12590,5 +12590,17 @@
   "https://www.iwonderwhatsnext.co.uk/pet-supplies/small-animal/extra-select-seed-mix-wild-bird-food-1kg/": {
     "name": "Extra Select Seed Mix Wild Bird Food 1kg",
     "price": "\u00a31.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/sensodyne-pronamel-junior-bubble-mint-toothpaste-6-12-years-50ml/": {
+    "name": "Sensodyne Pronamel Junior Bubble Mint Toothpaste 6-12 Years 50ml",
+    "price": "\u00a31.30"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/meal-replacement/paediasure-shake-chocolate-flavour-nutritional-drink-powder-400g-missing-lid/": {
+    "name": "PaediaSure Shake Chocolate Flavour Nutritional Drink Powder 400g",
+    "price": "\u00a38.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/e45-emollient-bath-oil-500ml/": {
+    "name": "E45 Emollient Bath Oil 500ml",
+    "price": "\u00a34.99"
   }
 }
