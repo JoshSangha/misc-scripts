@@ -5513,7 +5513,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/stockley-s-flyers-original-liquorice-sticks-3-x-75g/": {
     "name": "Stockley's Flyers Original Liquorice Sticks 3 x 75g",
-    "price": "\u00a33.25"
+    "price": "\u00a33.49"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/tea/lipton-peach-paradise-peach-white-hibiscus-herbal-tea-20-tea-bags-46g/": {
     "name": "Lipton Peach Paradise Peach & White Hibiscus Herbal Tea 20 Tea Bags 46g | Damaged Packaging",
@@ -12550,5 +12550,25 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/haircare/clairol-nice-n-easy-root-touch-up-6-light-brown-30ml/": {
     "name": "Clairol Nice'n Easy Root Touch-Up 6 Light Brown 30ml | Creased Box Packaging",
     "price": "\u00a33.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/c4-energy-frozen-bombsicle-zero-sugar-8-x-500ml/": {
+    "name": "C4 Energy Frozen Bombsicle Zero Sugar 8 x 500ml",
+    "price": "\u00a36.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/sacla-free-from-vegan-tomato-pesto-190g/": {
+    "name": "Sacla Free From Vegan Tomato Pesto 190g \u2013 Dairy Free, Gluten Free & Wheat Free Tomato Pesto with Basil & Cashew Nuts",
+    "price": "\u00a31.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/remedy-kombucha-mango-passion-no-sugar-250ml-can/": {
+    "name": "Remedy Kombucha Mango Passion No Sugar 250ml Can",
+    "price": "\u00a30.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/theoni-extra-virgin-olive-oil-5-litre-cold-extracted-greek-olive-oil-tin-dented-packaging/": {
+    "name": "Theoni Extra Virgin Olive Oil 5 Litre Cold Extracted Greek Olive Oil Tin | DENTED PACKAGING",
+    "price": "\u00a334.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/deliciously-ella-peanut-butter-oat-bars-48x50g/": {
+    "name": "Deliciously Ella Peanut Butter Oat Bars \u2013 48 x 50g \u2013 Vegan, Gluten Free, Healthy Snack Bars",
+    "price": "\u00a313.99"
   }
 }
