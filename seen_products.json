@@ -2633,7 +2633,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/pet-supplies/cat/fukumaru-mixed-cat-litter-sap-white-tea-2-7kg/": {
     "name": "FUKUMARU Mixed Cat Litter SAP White Tea 2.7kg",
-    "price": "\u00a37.49"
+    "price": "\u00a35.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/colgate-kids-first-smiles-0-2-years-strawberry-toothpaste-50ml/": {
     "name": "Colgate Kids First Smiles 0-2 Years Strawberry Toothpaste 50ml",
@@ -3849,7 +3849,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/snickers-high-protein-milk-drink-12x250ml-20g-protein/": {
     "name": "Snickers High Protein Milk Drink 12 x 250ml | 20g Protein Bottles",
-    "price": "\u00a310.79"
+    "price": "\u00a38.99"
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/bounty-hi-protein-bars-12x52g-18g-protein/": {
     "name": "Bounty Hi Protein Bars 12 x 52g | 18g Protein Coconut & Milk Chocolate",
@@ -4093,7 +4093,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/pet-supplies/cat/purina-pro-plan-veterinary-diets-en-gastrointestinal-dry-cat-food-1-5kg/": {
     "name": "Purina PRO PLAN Veterinary Diets EN Gastrointestinal Dry Cat Food 1.5kg",
-    "price": "\u00a38.99"
+    "price": "\u00a37.49"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/island-sun-fine-cornmeal-500g-fine-ground-corn-meal-for-baking-cooking-caribbean-recipes/": {
     "name": "Island Sun Fine Cornmeal 500g | Fine Ground Corn Meal for Baking, Cooking & Caribbean Recipes",
@@ -12574,5 +12574,13 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/baby-care/naty-bamboo-viscose-training-pants-size-6-4-packs-68-pants/": {
     "name": "Naty Bamboo Viscose Training Pants Size 6 - 4 Packs, 68 Pants",
     "price": "\u00a321.00"
+  },
+  "https://www.iwonderwhatsnext.co.uk/pet-supplies/dog/purina-pro-plan-small-and-mini-adult-light-sterilised-dry-dog-food-with-chicken-3kg/": {
+    "name": "Purina Pro Plan Small & Mini Adult Light Sterilised Dry Dog Food with Chicken 3kg",
+    "price": "\u00a36.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/pet-supplies/cat/crave-adult-cat-dry-food-with-chicken-and-beef-7kg-grain-free-high-protein/": {
+    "name": "Crave Adult Cat Dry Food with Chicken & Beef 7kg Grain Free High Protein",
+    "price": "\u00a324.99"
   }
 }
