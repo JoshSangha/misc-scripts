@@ -12834,5 +12834,33 @@
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/yubi-choc-orange-12-pack-protein-bars-99-calories-high-protein/": {
     "name": "Yubi Choc Orange - 12 Pack - Protein Bars - 99 Calories, High Protein",
     "price": "\u00a39.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/mcvities-milk-chocolate-digestives-to-go-24-x-33-3g/": {
+    "name": "McVitie's Milk Chocolate Digestives To Go 24 x 33.3g",
+    "price": "\u00a36.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/jacobs-salt-cracked-black-pepper-flatbread-crackers-150g/": {
+    "name": "Jacob's Salt & Cracked Black Pepper Flatbread Crackers 150g",
+    "price": "\u00a30.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/lucozade-energy-zero-sugar-tropical-6-x-330ml/": {
+    "name": "Lucozade Energy Zero Sugar Tropical 6 x 330ml",
+    "price": "\u00a32.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/cadbury-white-chocolate-giant-buttons-100g/": {
+    "name": "Cadbury White Chocolate Giant Buttons 100g",
+    "price": "\u00a30.79"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/cadbury-dairy-milk-caramel-nibbles-big-share-bag-175g/": {
+    "name": "Cadbury Dairy Milk Caramel Nibbles Big Share Bag 175g",
+    "price": "\u00a30.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/alpro-soya-growing-up-drink-15-x-250ml/": {
+    "name": "Alpro Soya Growing Up Drink 15 x 250ml",
+    "price": "\u00a37.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/walkers-french-fries-worcester-sauce-crisps-multipack-6-x-18g/": {
+    "name": "Walkers French Fries Worcester Sauce Crisps Multipack 6 x 18g",
+    "price": "\u00a31.25"
   }
 }
