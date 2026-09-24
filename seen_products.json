@@ -1965,7 +1965,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/oatly-vanilla-oat-drink-6x1l/": {
     "name": "Oatly Vanilla Oat Drink 6 x 1L",
-    "price": "\u00a37.19"
+    "price": "\u00a35.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/colmans-sausage-casserole-recipe-mix-39g/": {
     "name": "Colman's Sausage Casserole Recipe Mix 39g",
@@ -12602,5 +12602,13 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/e45-emollient-bath-oil-500ml/": {
     "name": "E45 Emollient Bath Oil 500ml",
     "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/nature-valley-protein-salted-caramel-nut-cereal-bar-40g/": {
+    "name": "Nature Valley Protein Salted Caramel Nut Cereal Bar 40g | SEE DESCRIPTION",
+    "price": "\u00a30.40"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/science-in-sport-beta-gels-apple-30x60ml/": {
+    "name": "Science in Sport Beta Apple Gel Sachets 30 x 60ml",
+    "price": "\u00a314.99"
   }
 }
