@@ -6893,7 +6893,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/smith-nephew-opsite-post-op-dressings-12-x-10cm-pack-of-10/": {
     "name": "Smith & Nephew OPSITE Post-Op Dressings 12 x 10cm Pack of 10",
-    "price": "\u00a36.99"
+    "price": "\u00a34.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/sensodyne-rapid-relief-original-mint-toothpaste-75ml/": {
     "name": "Sensodyne Rapid Relief Original Mint Toothpaste 75ml",
@@ -11073,7 +11073,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/colgate-max-white-purple-teeth-whitening-serum-40ml/": {
     "name": "Colgate Max White Purple Teeth Whitening Serum 40ml",
-    "price": "\u00a34.99"
+    "price": "\u00a36.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/splat-professional-ultracomplex-toothpaste-100ml/": {
     "name": "SPLAT Professional Ultracomplex Toothpaste 100ml",
@@ -13030,5 +13030,13 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/trip-cbd-gummies-wild-strawberry-300mg/": {
     "name": "TRIP CBD Gummies Wild Strawberry CBD Infused Gummies 30 Gummies 10mg CBD",
     "price": "\u00a37.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/voltarol-joint-back-pain-relief-2-32-gel-50g/": {
+    "name": "Voltarol Joint & Back Pain Relief 2.32% Gel 50g",
+    "price": "\u00a35.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/scholl-fresh-step-antiperspirant-spray-96g/": {
+    "name": "Scholl Fresh Step Antiperspirant Spray 96g",
+    "price": "\u00a32.49"
   }
 }
