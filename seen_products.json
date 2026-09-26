@@ -2733,7 +2733,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/biona-organic-young-jackfruit-kg/": {
     "name": "Biona Organic Young Jackfruit in Salted Water 2.8kg \u2013 Vegan, High Fibre",
-    "price": "\u00a37.19"
+    "price": "\u00a35.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/biona-organic-vegetable-pressed-juice-12x500ml/": {
     "name": "Biona Organic Vegetable Pressed Juice 12 x 500ml \u2013 Not From Concentrate",
@@ -4073,7 +4073,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/bobs-red-mill-gluten-free-1-to-1-baking-flour-624g/": {
     "name": "Bob's Red Mill Gluten Free 1 to 1 Baking Flour 624g",
-    "price": "\u00a34.79"
+    "price": "\u00a33.49"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/swizzels-big-party-mix-assorted-sweets-900g/": {
     "name": "Swizzels Big Party Mix Assorted Sweets Bag 900g",
@@ -8445,7 +8445,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/supplements/science-in-sport-go-isotonic-energy-gel-fruit-salad-15-x-60ml/": {
     "name": "Science in Sport GO Isotonic Energy Gel Fruit Salad 15 x 60ml",
-    "price": "\u00a33.99"
+    "price": "\u00a32.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/haircare/bulldog-original-beard-shampoo-conditioner-200ml-4-pack/": {
     "name": "Bulldog Skincare Original Beard Shampoo & Conditioner 200ml | Pack of 4",
@@ -13090,5 +13090,9 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/barratt-anglo-bubbly-bubble-gum-49g-childhood-retro-sweets/": {
     "name": "Barratt Anglo Bubbly Bubble Gum 49g \u2013 Retro Childhood Sweet \u2013 Classic Chew",
     "price": "\u00a30.00"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/maxinutrition-creamy-core-protein-bars-chocolate-peanut-caramel-12-x-45g/": {
+    "name": "MaxiNutrition Creamy Core Protein Bars Chocolate Peanut Caramel 12 x 45g | Plant Based Vegan Protein Snack | Low Sugar | 8.3g Protein Per Bar",
+    "price": "\u00a314.39"
   }
 }
