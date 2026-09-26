@@ -3693,7 +3693,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/aquafresh-toothpaste-triple-protection-fresh-minty-3-in-1-protection-pack-of-2-x-75ml/": {
     "name": "Aquafresh Toothpaste Triple Protection Fresh & Minty 3 in 1 Protection 75ml",
-    "price": "\u00a31.30"
+    "price": "\u00a30.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/breakfast-bars/belvita-soft-bakes-apricot-filled-5-x-50g/": {
     "name": "belVita Soft Bakes Apricot Filled Biscuits 5 x 50g Wholegrain Soft Baked Biscuits 250g",
@@ -6440,8 +6440,8 @@
     "price": "\u00a33.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/tea/new-english-teas-vintage-england-english-breakfast-tea-tin-40-teabags-80g/": {
-    "name": "New English Teas Vintage England English Breakfast Tea Tin 40 Teabags 80g | DENTED TIN",
-    "price": "\u00a32.49"
+    "name": "New English Teas Vintage England English Breakfast Tea Tin 40 Teabags 80g",
+    "price": "\u00a32.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/rita-farhi-dark-chocolate-coated-crystallised-gingers-250g/": {
     "name": "Rita Farhi Dark Chocolate Coated Crystallised Gingers 250g",
@@ -13013,6 +13013,10 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/oral-b-pro-expert-gentle-whitening-toothpaste-125ml/": {
     "name": "Oral-B Pro-Expert Gentle Whitening Toothpaste 125ml | Damaged Box Packaging",
+    "price": "\u00a32.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/motusol-max-2-32-w-w-diclofenac-pain-relief-gel-50g/": {
+    "name": "Motusol Max 2.32% w/w Diclofenac Pain Relief Gel 50g",
     "price": "\u00a32.99"
   }
 }
