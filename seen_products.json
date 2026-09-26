@@ -3837,15 +3837,15 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/tribe-protein-focus-flapjack-bars-peanut-butter-choc-chip-12x60g/": {
     "name": "TRIBE Protein + Focus Flapjack Bars Peanut Butter Choc Chip 12 x 60g Vegan High Protein High Fibre Gluten Free Snack with Lion's Mane & Ginseng",
-    "price": "\u00a313.99"
+    "price": "\u00a311.99"
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/tribe-protein-focus-flapjack-bars-peanut-butter-blondie-12x60g/": {
     "name": "TRIBE Protein + Focus Peanut Butter Blondie Vegan Protein Flapjack Bars 12 x 60g",
-    "price": "\u00a313.99"
+    "price": "\u00a39.99"
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/tribe-protein-focus-choc-brownie-vegan-protein-bars-12x60g/": {
     "name": "TRIBE Protein + Focus Choc Brownie Vegan Protein Flapjack Bars 12 x 60g",
-    "price": "\u00a313.99"
+    "price": "\u00a311.99"
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/snickers-high-protein-milk-drink-12x250ml-20g-protein/": {
     "name": "Snickers High Protein Milk Drink 12 x 250ml | 20g Protein Bottles",
@@ -8009,7 +8009,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/coffee/pods-capsules/caffe-borbone-crema-superiore-dolce-gusto-compatible-coffee-pods-64-x-6-5g/": {
     "name": "Caff\u00e8 Borbone Crema Superiore - 64 Coffee Capsules - Powerful and Refined - Compatible with Nescaf\u00e8 Dolce Gusto Coffee Machines",
-    "price": "\u00a39.99"
+    "price": "\u00a37.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/fushi-organic-ashwagandha-fresh-ground-60-vegan-capsules/": {
     "name": "Fushi Organic Ashwagandha Fresh-Ground 60 Vegan Capsules",
@@ -13058,5 +13058,37 @@
   "https://www.iwonderwhatsnext.co.uk/fitness/meal-replacement/more-nutrition-protein-porridge-original-taste-10-x-62g/": {
     "name": "MORE Nutrition Protein Porridge Original Taste 10 x 62g",
     "price": "\u00a312.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/flash-dust-magnet-refills-5-pack/": {
+    "name": "Flash Dust Magnet Refills 5 Pack",
+    "price": "\u00a32.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/double-roasted-chickpeas-1kg/": {
+    "name": "Double Roasted Chickpeas Snack \u2013 Natural Roasted Chickpeas \u2013 1kg",
+    "price": "\u00a34.50"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/trek-power-protein-bar-biscoff-2x20x44g/": {
+    "name": "TREK Power Bar with Lotus Biscoff \u2013 40 x 44g (2 Boxes) | High Protein | Vegan | Plant-Based | High Fibre",
+    "price": "\u00a327.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/breakfast-bars/nakd-strawberry-raspberry-fruit-fibre-bars-16x44g/": {
+    "name": "Nakd Fruit & Fibre Bars \u2013 Strawberry & Raspberry \u2013 16 x 44g | Vegan | Gluten Free | High Fibre | No Added Sugar",
+    "price": "\u00a34.90"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/trek-high-protein-low-sugar-choc-peanut-butter-12x55g/": {
+    "name": "TREK High Protein Low Sugar Choc Peanut Butter Bars | 12 x 55g | Plant-Based Protein | High Fibre | Natural Ingredients",
+    "price": "\u00a37.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/trek-high-protein-low-sugar-choc-caramel-12x55g/": {
+    "name": "TREK High Protein Low Sugar Choc Caramel Bars | 12 x 55g | Plant-Based Protein Snack | High Fibre | Natural Ingredients",
+    "price": "\u00a37.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/protein-bar-variety-selection-12-x-40g-bars-random-selection/": {
+    "name": "Protein Bar Variety Selection 12 X 40g Bars Random Selection",
+    "price": "\u00a311.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/barratt-anglo-bubbly-bubble-gum-49g-childhood-retro-sweets/": {
+    "name": "Barratt Anglo Bubbly Bubble Gum 49g \u2013 Retro Childhood Sweet \u2013 Classic Chew",
+    "price": "\u00a30.00"
   }
 }
