@@ -7864,8 +7864,8 @@
     "price": "\u00a323.99"
   },
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/andrex-ultimate-quilts-3-ply-toilet-tissue-9-rolls/": {
-    "name": "Andrex Ultimate Quilts 3-Ply Toilet Tissue 9 Rolls | Damaged Outer Plastic Packaging",
-    "price": "\u00a34.25"
+    "name": "Andrex Ultimate Quilts 3-Ply Toilet Tissue 9 Rolls",
+    "price": "\u00a34.49"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/vicks-inhaler-nasal-stick-0-5ml/": {
     "name": "Vicks Inhaler Nasal Stick 0.5ml",
@@ -13050,5 +13050,9 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/baby-care/calpol-vapour-plug-refills-xl-10-pack/": {
     "name": "Calpol Vapour Plug Refills XL 10 Pack",
     "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/meal-replacement/bol-blueberry-power-shake-6-x-410ml/": {
+    "name": "BOL Blueberry Power Shake 6 x 410ml",
+    "price": "\u00a39.99"
   }
 }
