@@ -12061,7 +12061,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/coffee/pods-capsules/tassimo-cadbury-hot-chocolate-pods-5-packs-50-drinks-total/": {
     "name": "Tassimo Cadbury Hot Chocolate Pods 5 Packs 50 Drinks Total",
-    "price": "\u00a311.99"
+    "price": "\u00a313.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/scholl-antifungal-disinfectant-shoe-spray-250ml/": {
     "name": "Scholl Antifungal Disinfectant Shoe Spray 250ml",
@@ -13124,7 +13124,19 @@
     "price": "\u00a37.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/mcvities-jamaica-ginger-sticky-pudding-cake-232g/": {
-    "name": "McVitie's Jamaica Ginger Sticky Pudding Cake 232g",
-    "price": "\u00a30.75"
+    "name": "McVitie's Jamaica Ginger Sticky Pudding Cake 232g - SQUASHED CAKE",
+    "price": "\u00a30.00"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/fuel10k-peanut-crunch-protein-granola-pots-8-x-70g/": {
+    "name": "FUEL10K Peanut Crunch Protein Granola Pots 8 x 70g | Damaged Outer Packaging",
+    "price": "\u00a35.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/coffee/pods-capsules/tassimo-kenco-americano-grande-xl-pods-80-drinks/": {
+    "name": "Tassimo Kenco Americano Grande XL Pods 80 Drinks",
+    "price": "\u00a321.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/kind-protein-bars-crunchy-peanut-butter-12x50g/": {
+    "name": "KIND Protein Bars \u2013 Crunchy Peanut Butter \u2013 12 x 50g Multipack | High Protein, Gluten Free, No Artificial Flavours",
+    "price": "\u00a39.99"
   }
 }
