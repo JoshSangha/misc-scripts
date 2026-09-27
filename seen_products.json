@@ -5485,7 +5485,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/oatly-the-original-oat-drink-barista-edition-1-5l/": {
     "name": "Oatly The Original Oat Drink Barista Edition 1.5L",
-    "price": "\u00a32.49"
+    "price": "\u00a31.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/werther-s-original-salted-caramel-cream-soft-caramels-125g/": {
     "name": "Werther's Original Salted Caramel Cream Soft Caramels 125g",
@@ -13138,5 +13138,9 @@
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/kind-protein-bars-crunchy-peanut-butter-12x50g/": {
     "name": "KIND Protein Bars \u2013 Crunchy Peanut Butter \u2013 12 x 50g Multipack | High Protein, Gluten Free, No Artificial Flavours",
     "price": "\u00a39.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/mcvitie-s-jaffa-cakes-mega-value-80-cakes-box-4-packs-of-20-cakes-vegetarian-friendly-sweet-zesty-snack/": {
+    "name": "McVitie's Jaffa Cakes, Mega Value 80 Cakes Box (4 Packs of 20 Cakes) | Vegetarian Friendly, Sweet Zesty Snack",
+    "price": "\u00a33.99"
   }
 }
