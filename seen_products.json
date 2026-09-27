@@ -5933,7 +5933,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/lindt-dubai-style-pistachio-kadayif-milk-chocolate-bar-145g/": {
     "name": "Lindt Dubai Style Pistachio & Kadayif Milk Chocolate Bar 145g | Damaged Outer Sleeve Packaging",
-    "price": "\u00a35.99"
+    "price": "\u00a34.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/cadbury-double-decker-chocolate-bars-7-x-37-3g/": {
     "name": "Cadbury Double Decker Chocolate Bars 7 x 37.3g",
@@ -13102,5 +13102,9 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/tyrrells-sweet-chilli-red-pepper-sharing-crisps-150-g/": {
     "name": "Tyrrells Sweet Chilli & Red Pepper Sharing Crisps 150 g",
     "price": "\u00a31.29"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/lotus-biscoff-sandwich-biscuits-variety-pack-6-x-150g/": {
+    "name": "Lotus Biscoff Sandwich Biscuits Variety Pack 6 x 150g | 90 Filled Biscuits | 3 Flavours",
+    "price": "\u00a35.99"
   }
 }
