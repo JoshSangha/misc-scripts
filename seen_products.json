@@ -3193,7 +3193,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/robinsons-double-strength-blackcurrant-no-added-sugar-squash-750ml/": {
     "name": "Robinsons Double Strength Blackcurrant No Added Sugar Squash 750ml",
-    "price": "\u00a31.22"
+    "price": "\u00a30.90"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/biona-organic-apple-puree-6-x-700g/": {
     "name": "Biona Organic Apple Puree 6 x 700g",
@@ -13634,5 +13634,9 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/cosmetics-makeup/rimmel-london-thrill-seeker-extreme-black-mascara-001-8ml/": {
     "name": "Rimmel London Thrill Seeker Extreme Black Mascara 001 8ml",
     "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/pet-supplies/cat/perfect-fit-senior-7-chicken-cat-food-3x2-8kg/": {
+    "name": "Perfect Fit Senior 7+ Complete Dry Cat Food Rich in Chicken 3 x 2.8kg \u2013 8.4kg",
+    "price": "\u00a321.99"
   }
 }
