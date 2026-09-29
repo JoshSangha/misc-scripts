@@ -14293,7 +14293,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/byoma-hydrating-serum-40ml/": {
     "name": "BYOMA Hydrating Serum 40ml",
-    "price": "\u00a35.99"
+    "price": "\u00a37.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/cosmetics-makeup/l-oreal-paris-true-match-blush-160-peach-5g/": {
     "name": "L'Or\u00e9al Paris True Match Blush 160 Peach 5g",
@@ -14374,5 +14374,17 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/colman-s-classic-mint-sauce-mint-seasoning-sauce-for-lamb-salad-dressing-guacamole-1-x-165g/": {
     "name": "Colman's Classic Mint Sauce | Mint Seasoning Sauce for Lamb, Salad Dressing, Guacamole (1 x 165g)",
     "price": "\u00a31.25"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/vimto-no-added-sugar-real-fruit-squash-1l/": {
+    "name": "Vimto No Added Sugar Real Fruit Squash 1L",
+    "price": "\u00a31.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/robinsons-barley-water-lemon-squash-850ml/": {
+    "name": "Robinsons Barley Water Lemon Squash 850ml",
+    "price": "\u00a31.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/vimto-original-real-fruit-squash-1l/": {
+    "name": "Vimto Original Real Fruit Squash 1L",
+    "price": "\u00a31.75"
   }
 }
