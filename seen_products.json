@@ -14346,5 +14346,33 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/baxters-favourites-cream-of-tomato-soup-400g/": {
     "name": "Baxters Favourites Cream of Tomato Soup 400g",
     "price": "\u00a30.90"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/joe-sephs-espresso-martini-caramel-truffles-100g/": {
+    "name": "Joe & Sephs Espresso Martini Caramel Truffles 100g",
+    "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/fruit-shoot-hydro-apple-raspberry-kids-water-drink-7x275ml/": {
+    "name": "Fruit Shoot Hydro Apple & Raspberry Kids Water Drink 7x275ml",
+    "price": "\u00a32.25"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/maynards-bassetts-murray-mints-sweets-bag-193g/": {
+    "name": "Maynards Bassetts Murray Mints Sweets Bag 193g",
+    "price": "\u00a30.80"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/pme-magic-sparkles-dreamy-unicorn-edible-glitter-3g/": {
+    "name": "PME Magic Sparkles Dreamy Unicorn Edible Glitter 3g",
+    "price": "\u00a32.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/quaker-protein-strawberries-cream-porridge-pots-6-x-59-1g/": {
+    "name": "Quaker Protein Strawberries & Cream Porridge Pots 6 x 59.1g",
+    "price": "\u00a33.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/pme-chantilly-cream-mix-450g/": {
+    "name": "PME Chantilly Cream Mix 450g",
+    "price": "\u00a33.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/colman-s-classic-mint-sauce-mint-seasoning-sauce-for-lamb-salad-dressing-guacamole-1-x-165g/": {
+    "name": "Colman's Classic Mint Sauce | Mint Seasoning Sauce for Lamb, Salad Dressing, Guacamole (1 x 165g)",
+    "price": "\u00a31.25"
   }
 }
