@@ -2737,7 +2737,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/biona-organic-vegetable-pressed-juice-12x500ml/": {
     "name": "Biona Organic Vegetable Pressed Juice 12 x 500ml \u2013 Not From Concentrate",
-    "price": "\u00a316.79"
+    "price": "\u00a39.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/biona-organic-dark-chocolate-covered-brazil-nuts-80g/": {
     "name": "Biona Organic Dark Chocolate Covered Brazil Nuts 80g \u2013 Vegetarian, GMO Free",
@@ -2881,11 +2881,11 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/fuel10k-strawberry-high-protein-breakfast-milk-drink-8-x-330ml/": {
     "name": "FUEL10K Strawberry High Protein Breakfast Milk Drink 8 x 330ml",
-    "price": "\u00a37.99"
+    "price": "\u00a36.99"
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/fuel10k-cookies-cream-protein-shake-8x330ml/": {
     "name": "FUEL10K Cookies & Cream High Protein Shake 8 x 330ml \u2013 25g Protein, Gluten Free",
-    "price": "\u00a310.79"
+    "price": "\u00a38.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/the-breath-co-healthy-smile-sparkle-mint-mouthwash-500ml/": {
     "name": "The Breath Co Healthy Smile Sparkle Mint Mouthwash 500ml",
@@ -13658,5 +13658,9 @@
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/deliciously-ella-apple-raisin-oat-bars-48x50g/": {
     "name": "Deliciously Ella Apple & Raisin Oat Bars \u2013 48 x 50g \u2013 Vegan, Gluten Free, Healthy Snack Bars",
     "price": "\u00a314.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/maltesers-white-chocolate-bars-25-pack/": {
+    "name": "Maltesers White Chocolate Balls with Honeycomb Centre | 25 x 30g",
+    "price": "\u00a38.99"
   }
 }
