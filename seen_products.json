@@ -6932,7 +6932,7 @@
     "price": "\u00a31.30"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/marvis-aquatic-mint-toothpaste-85ml/": {
-    "name": "Marvis Aquatic Mint Toothpaste 85ml",
+    "name": "Marvis Aquatic Mint Toothpaste 85ml - Damaged Box Packaging",
     "price": "\u00a33.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/bassetts-vitamins-adult-vitamin-d-apple-raspberry-30-pastilles/": {
@@ -14794,5 +14794,21 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/aquafresh-complete-care-whitening-toothpaste-75ml/": {
     "name": "Aquafresh Complete Care Whitening Toothpaste 75ml",
     "price": "\u00a31.25"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/biotechusa-vegan-protein-hazelnut-500g-damaged-outer-packaging/": {
+    "name": "BioTechUSA Vegan Protein Hazelnut 500g - DAMAGED OUTER PACKAGING",
+    "price": "\u00a37.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/supplements/maxinutrition-max-charge-berry-blast-pre-workout-300g/": {
+    "name": "MaxiNutrition Max Charge Berry Blast Pre-Workout 300g",
+    "price": "\u00a311.37"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/colour-catcher-protection-sheets-22-sheets/": {
+    "name": "Colour Catcher Protection Sheets 22 sheets",
+    "price": "\u00a31.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/baby-care/sudocrem-antiseptic-healing-cream-125g/": {
+    "name": "Sudocrem Antiseptic Healing Cream 125g",
+    "price": "\u00a31.99"
   }
 }
