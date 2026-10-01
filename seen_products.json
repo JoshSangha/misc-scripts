@@ -6916,7 +6916,7 @@
     "price": "\u00a38.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/paediasure-shake-strawberry-nutritional-supplement-powder-400g/": {
-    "name": "PaediaSure Shake Strawberry Nutritional Supplement Powder 400g",
+    "name": "PaediaSure Shake Strawberry Nutritional Supplement Powder 400g DENTED TIN PACKAGING",
     "price": "\u00a34.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/alka-seltzer-xs-double-action-effervescent-tablets-20-pack/": {
@@ -10528,7 +10528,7 @@
     "price": "\u00a32.49"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/vagisil-daily-soothe-protect-cream-with-prebiotic-oatmeal-30g/": {
-    "name": "Vagisil Daily Soothe & Protect Cream with Prebiotic Oatmeal 30g",
+    "name": "Vagisil Daily Soothe & Protect Cream with Prebiotic Oatmeal 30g - DAMAGED PACKAGING",
     "price": "\u00a32.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/blink-intensive-tears-protective-eye-drops-10ml/": {
@@ -10777,7 +10777,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/glade-lavender-solid-gel-air-freshener-8-x-150g/": {
     "name": "Glade Lavender Solid Gel Air Freshener 8 x 150g | Opened Outer Box",
-    "price": "\u00a39.99"
+    "price": "\u00a37.99"
   },
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/calgon-3-in-1-antibacterial-washing-machine-water-softener-gel-4-x-750ml/": {
     "name": "Calgon 3-in-1 Antibacterial Washing Machine Water Softener Gel 4 x 750ml",
@@ -12636,7 +12636,7 @@
     "price": "\u00a322.79"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/tena-discreet-protect-maxi-night-incontinence-pads-8-x-6-48-pads/": {
-    "name": "TENA Discreet Protect+ Maxi Night Incontinence Pads 8 x 6 (48 Pads)",
+    "name": "TENA Discreet Protect+ Maxi Night Incontinence Pads 8 x 6 (48 Pads) DAMAGED PACKAGING",
     "price": "\u00a314.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/c4-performance-energy-millions-strawberry-zero-sugar-energy-drink-12-x-500ml/": {
@@ -14818,5 +14818,9 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/cosmetics-makeup/lamisil-once-single-dose-4g/": {
     "name": "Lamisil Once Single Dose 4g",
     "price": "\u00a33.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/cosmetics-makeup/imodium-instants-6-tablets/": {
+    "name": "Imodium Instants 6 Tablets",
+    "price": "\u00a31.99"
   }
 }
