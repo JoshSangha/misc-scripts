@@ -12104,7 +12104,7 @@
     "price": "\u00a39.49"
   },
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/non-bio-3-in-1-laundry-capsules-24-washes/": {
-    "name": "Non-Bio 3-in-1 Laundry Capsules 24 Washes",
+    "name": "Non-Bio 3-in-1 Laundry Capsules 24 Washes - Damaged Outer Box Packaging",
     "price": "\u00a32.25"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/friendly-soap-fragrance-free-shaving-bar-95g/": {
@@ -12476,8 +12476,8 @@
     "price": "\u00a311.99"
   },
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/persil-wonder-wash-dazzling-white-liquid-laundry-detergent-31-washes-837ml/": {
-    "name": "Persil Wonder Wash Dazzling White Liquid Laundry Detergent 31 Washes 837ml",
-    "price": "\u00a36.99"
+    "name": "Persil Wonder Wash Dazzling White Liquid Laundry Detergent 31 Washes 837ml - Imperfect Packaging",
+    "price": "\u00a35.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/hypaplast-pink-washproof-plasters-100-x-72mm-x-25mm/": {
     "name": "HypaPlast Pink Washproof Plasters 100 x 72mm x 25mm",
@@ -14762,5 +14762,25 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/myhalos-blackout-sleep-mask-eye-mask-for-sleeping-zero-pressure/": {
     "name": "MyHalos Blackout Sleep Mask Eye Mask for Sleeping Zero Pressure - Imperfect Outer Packaging",
     "price": "\u00a36.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/duck-colouring-toilet-rim-block-duo-watermelon-whirlwind-36g-2-packs-damaged-outer-box-packaging/": {
+    "name": "Duck Colouring Toilet Rim Block Duo, Watermelon Whirlwind - 36g (2 Packs) Damaged Outer Box Packaging",
+    "price": "\u00a31.25"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/by-amazon-all-in-1-lemon-dishwasher-tablets-40-x-14g/": {
+    "name": "by Amazon All-in-1 Lemon Dishwasher Tablets 40 x 14g Imperfect Box",
+    "price": "\u00a32.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/hypaplast-pink-washproof-plasters-assorted-sizes-100-pack/": {
+    "name": "HypaPlast Pink Washproof Plasters Assorted Sizes 100 Pack",
+    "price": "\u00a32.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/red-nose-day-facial-tissues-3-ply-90-sheets/": {
+    "name": "Red Nose Day Facial Tissues 3-ply 90 Sheets",
+    "price": "\u00a30.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/balance-active-formula-gold-marine-collagen-hydrogel-under-eye-masks-3-x-6g/": {
+    "name": "Balance Active Formula Gold + Marine Collagen Hydrogel Under Eye Masks 3 x 6g",
+    "price": "\u00a30.75"
   }
 }
