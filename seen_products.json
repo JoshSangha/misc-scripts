@@ -4109,7 +4109,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/estathe-lemon-tea-drink-12-x-400ml-ready-to-drink-lemon-iced-tea/": {
     "name": "Estath\u00e9 Lemon Tea Drink 12 x 400ml Ready to Drink Lemon Iced Tea",
-    "price": "\u00a311.99"
+    "price": "\u00a38.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/dr-oetker-easter-pastel-baking-cases-50/": {
     "name": "Dr. Oetker Easter Pastel Baking 50 Cases",
@@ -5037,7 +5037,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/wellkid-vitabiotics-multivitamin-liquid-150ml/": {
     "name": "Vitabiotics Wellkid Multivitamin Liquid for Children 4\u201312 Years \u2013 Orange Flavour \u2013 150ml",
-    "price": "\u00a31.68"
+    "price": "\u00a32.49"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/sorme-gel-off-gel-based-eye-lip-and-face-makeup-remover-99ml/": {
     "name": "Sorme GEL OFF Gel based Eye, Lip and Face Makeup Remover 99ml",
@@ -13701,7 +13701,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/baby-care/sensitive-baby-wipes-60-pack-without-plastic/": {
     "name": "Sensitive Baby Wipes, 60 Pack Without Plastic",
-    "price": "\u00a30.69"
+    "price": "\u00a30.60"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/enroush-organic-cotton-night-pads-with-wings-8-pack/": {
     "name": "ENROUSH Organic Cotton Night Pads with Wings 8 Pack",
@@ -15966,5 +15966,13 @@
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/kiwi-shoe-laces-sport-flat-cord-black-60cm-2-pairs/": {
     "name": "Kiwi Sport Shoe Laces 60cm \u2013 Flat Black Cord \u2013 2 Pairs \u2013 Durable & Secure Fit",
     "price": "\u00a30.06"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/breakfast-bars/adonis-keto-vanilla-coconut-nut-bar-35g/": {
+    "name": "Adonis Keto Vanilla & Coconut Nut Bar 35g",
+    "price": "\u00a30.36"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/meal-replacement/slimfast-meal-replacement-shake-for-weight-loss-balanced-diet-vitamins-and-minerals-low-calorie-high-protein-banana-flavour-16-servings-584-g/": {
+    "name": "SlimFast Meal Replacement Shake for Weight Loss & Balanced Diet, Vitamins and Minerals, Low Calorie, High Protein, Banana Flavour, 16 servings, 584 g",
+    "price": "\u00a38.75"
   }
 }
