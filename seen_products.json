@@ -15353,11 +15353,11 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/mars-hiprotein-low-sugar-white-chocolate-bars-24-pack/": {
     "name": "Mars HiProtein Low Sugar White Chocolate Bars | High Protein Snack Bars | 24 x 57g",
-    "price": "\u00a325.99"
+    "price": "\u00a321.99"
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/mars-hiprotein-low-sugar-white-chocolate-bars-12-pack/": {
     "name": "Mars HiProtein Low Sugar Bar White Chocolate | High Protein Snack Bars | 12 x 57g",
-    "price": "\u00a313.99"
+    "price": "\u00a311.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/red-bull-ruby-edition-spiced-pear-energy-drink-12-x-250ml/": {
     "name": "Red Bull Ruby Edition Spiced Pear Energy Drink 12 x 250ml",
@@ -16074,5 +16074,33 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/panadol-actifast-paracetamol-500mg-tablets-10-pack/": {
     "name": "Panadol ActiFast Paracetamol 500mg Tablets 10 Pack | Imperfect Packaging",
     "price": "\u00a31.19"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/mars-hi-protein-low-sugar-orange-smash-protein-bars-12-x-55g/": {
+    "name": "Mars Hi-Protein Low Sugar Orange Smash Protein Bars 12 x 55g",
+    "price": "\u00a311.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/biotene-oralbalance-dry-mouth-saliva-replacement-gel-50g/": {
+    "name": "Biotene Oralbalance Dry Mouth Saliva Replacement Gel 50g | Imperfect Packaging",
+    "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/dr-beckmann-intensive-black-3in1-laundry-sheets-8-pack/": {
+    "name": "Dr. Beckmann Intensive Black 3in1 Laundry Sheets 8 Pack | Damaged Packaging",
+    "price": "\u00a32.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/cosmetics-makeup/stylfile-2-curved-3-in-1-s-shape-nail-file/": {
+    "name": "STYLFILE 2 Curved 3-in-1 S-Shape Nail File | Damaged Packaging",
+    "price": "\u00a32.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/scholl-party-feet-ball-of-foot-gel-cushions-1-pair/": {
+    "name": "Scholl Party Feet Ball of Foot Gel Cushions 1 Pair",
+    "price": "\u00a33.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/triplewax-pink-bowl-rinse-2-5l/": {
+    "name": "Triplewax Pink Bowl Rinse 2.5L | Imperfect Packaging",
+    "price": "\u00a38.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/renu-advanced-multi-purpose-contact-lens-solution-360ml/": {
+    "name": "ReNu Advanced Multi-Purpose Contact Lens Solution 360ml",
+    "price": "\u00a36.99"
   }
 }
