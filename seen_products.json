@@ -16422,5 +16422,37 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/monin-lime-syrup-70cl/": {
     "name": "Monin Lime Syrup 70cl",
     "price": "\u00a37.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/bobs-red-mill-classic-yellow-cake-mix-440g/": {
+    "name": "Bob's Red Mill Classic Yellow Cake Mix 440g",
+    "price": "\u00a35.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/mcvities-digestives-caramel-millionaire-slices-5-x-22g/": {
+    "name": "McVitie's Digestives Caramel Millionaire Slices 5 x 22g",
+    "price": "\u00a30.80"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/cadbury-dairy-milk-chocolate-fingers-biscuits-189g/": {
+    "name": "Cadbury Dairy Milk Chocolate Fingers Biscuits 189g",
+    "price": "\u00a31.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/joe-seph-s-cheddar-cheese-chilli-popcorn-1x250g/": {
+    "name": "Joe & Seph's Cheddar Cheese & Chilli Popcorn (1x250g)",
+    "price": "\u00a36.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/maynards-bassetts-jelly-babies-carton-350g/": {
+    "name": "Maynards Bassetts Jelly Babies Carton 350g",
+    "price": "\u00a32.25"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/tea/tetley-pure-camomile-herbal-tea-20-tea-bags-30g-single/": {
+    "name": "Tetley Pure Camomile Herbal Tea 20 Tea Bags 30g",
+    "price": "\u00a30.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/nikwax-tech-wash-waterproof-clothing-cleaner-300ml/": {
+    "name": "Nikwax Tech Wash Waterproof Clothing Cleaner 300ml",
+    "price": "\u00a37.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/aksoy-ultra-pure-distilled-water-1-5l/": {
+    "name": "Aksoy Ultra Pure Distilled Water 1.5L",
+    "price": "\u00a33.99"
   }
 }
