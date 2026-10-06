@@ -16482,5 +16482,33 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/joe-sephs-mature-cheddar-cheese-popcorn-250g/": {
     "name": "Joe & Seph's Mature Cheddar Cheese Popcorn 250g",
     "price": "\u00a36.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/veloforte-mocha-natural-vegan-protein-bars-9-x-70g/": {
+    "name": "Veloforte Mocha Natural Vegan Protein Bars 9 x 70g",
+    "price": "\u00a39.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/funcakes-denim-blue-sugar-paste-fondant-250g/": {
+    "name": "FunCakes Denim Blue Sugar Paste Fondant 250g",
+    "price": "\u00a31.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/mcvities-mini-gingerbread-men-biscuits-6-x-19g/": {
+    "name": "McVitie's Mini Gingerbread Men Biscuits 6 x 19g",
+    "price": "\u00a30.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/marukome-ryotei-no-aji-wakame-instant-miso-soup-8-servings-156g/": {
+    "name": "Marukome Ryotei No Aji Wakame Instant Miso Soup 8 Servings 156g",
+    "price": "\u00a31.60"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/coffee/pods-capsules/lor-barista-double-barista-selection-xxl-coffee-capsules-5-x-10-50-capsules/": {
+    "name": "L'OR Barista Double Barista Selection XXL Coffee Capsules 5 x 10 (50 Capsules)",
+    "price": "\u00a322.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/nandos-peri-ketchup-mild-280g/": {
+    "name": "Nando's PERi-Ketchup Mild 280g",
+    "price": "\u00a31.40"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/carapelli-il-nobile-100-italian-extra-virgin-olive-oil-500ml/": {
+    "name": "Carapelli Il Nobile 100% Italian Extra Virgin Olive Oil 500ml",
+    "price": "\u00a37.99"
   }
 }
