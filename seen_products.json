@@ -6916,8 +6916,8 @@
     "price": "\u00a38.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/paediasure-shake-strawberry-nutritional-supplement-powder-400g/": {
-    "name": "PaediaSure Shake Strawberry Nutritional Supplement Powder 400g DENTED TIN PACKAGING",
-    "price": "\u00a34.99"
+    "name": "PaediaSure Shake Strawberry Nutritional Supplement Powder 400g",
+    "price": "\u00a37.49"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/alka-seltzer-xs-double-action-effervescent-tablets-20-pack/": {
     "name": "Alka-Seltzer XS Double Action Effervescent Tablets 20 Pack",
@@ -16806,5 +16806,9 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/centrum-advance-multivitamin-mineral-supplements-24-essential-nutrients-including-vitamin-d-c-180-tablets/": {
     "name": "Centrum Advance Multivitamin & Mineral Supplements 24 essential nutrients including vitamin D, C 180 Tablets",
     "price": "\u00a37.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/lil-lets-maternity-pads-10-extra-long-maxi-pads-with-wings/": {
+    "name": "Lil-Lets Maternity Pads 10 Extra Long Maxi Pads with Wings",
+    "price": "\u00a30.99"
   }
 }
