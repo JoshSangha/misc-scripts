@@ -17597,7 +17597,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/tropical-sun-peanut-butter-no-added-sugar-454g/": {
     "name": "Tropical Sun Peanut Butter No Added Sugar 454g",
-    "price": "\u00a31.75"
+    "price": "\u00a32.50"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/heinz-curry-chickpeas-with-coconut-and-spinach-250g/": {
     "name": "Heinz Curry Chickpeas with Coconut and Spinach 250g",
@@ -17605,7 +17605,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/reese-s-jumbo-cup-milk-chocolate-peanut-butter-cup-79g/": {
     "name": "Reese's Jumbo Cup Milk Chocolate Peanut Butter Cup 79g",
-    "price": "\u00a31.60"
+    "price": "\u00a30.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/lindt-hello-salted-caramel-milk-chocolate-bar-100g/": {
     "name": "Lindt HELLO Salted Caramel Milk Chocolate Bar 100g",
@@ -17698,5 +17698,65 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/garnier-ambre-solaire-soothing-after-sun-lotion-400ml/": {
     "name": "Garnier Ambre Solaire Soothing After Sun Lotion 400ml",
     "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/lindt-lindor-silver-assorted-chocolate-truffles-1kg-bag/": {
+    "name": "Lindt LINDOR Silver Assorted Chocolate Truffles 1kg Bag",
+    "price": "\u00a39.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/spontex-washups-non-scratch-sponge-scourers-4-pack/": {
+    "name": "Spontex Washups Non-Scratch Sponge Scourers 4 Pack",
+    "price": "\u00a30.90"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/garden-diy/beko-tkf1330a-tumble-dryer-capacitor-2807960400/": {
+    "name": "Beko 8\u00b5F TKF1330A Tumble Dryer Capacitor 2807960400",
+    "price": "\u00a36.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/jsdoin-hydrocolloid-pimple-patches-variety-pack-370-count/": {
+    "name": "Jsdoin Hydrocolloid Pimple Patches Variety Pack 370 Count",
+    "price": "\u00a31.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/cosmetics-makeup/maybelline-dream-radiant-liquid-hydrating-foundation-10-ivory-30ml/": {
+    "name": "Maybelline Dream Radiant Liquid Hydrating Foundation 10 Ivory 30ml",
+    "price": "\u00a35.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/cosmetics-makeup/loreal-paris-plump-ambition-hyaluron-lip-oil-101-cristal-clear-5ml/": {
+    "name": "L'Or\u00e9al Paris Plump Ambition Hyaluron Lip Oil 101 Cristal Clear 5ml",
+    "price": "\u00a35.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/byrokko-after-sun-original-tan-preserving-cream-180ml/": {
+    "name": "BYROKKO After Sun Original Tan Preserving Cream 180ml",
+    "price": "\u00a36.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/simple-smooth-10-niacinamide-serum-with-vitamin-b3-b5-30ml/": {
+    "name": "Simple Smooth+ 10% Niacinamide Serum with Vitamin B3 & B5 30ml",
+    "price": "\u00a33.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/plantifique-kojic-acid-turmeric-cleansing-pads-60-pads/": {
+    "name": "Plantifique Kojic Acid & Turmeric Cleansing Pads 60 Pads",
+    "price": "\u00a39.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/piz-buin-allergy-sun-sensitive-skin-lotion-spf30-200ml/": {
+    "name": "Piz Buin Allergy Sun Sensitive Skin Lotion SPF30 200ml",
+    "price": "\u00a33.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/haircare/garnier-keratin-sleek-diamond-sleek-smoothing-spray-150ml/": {
+    "name": "Garnier Keratin Sleek Diamond Sleek Smoothing Spray 150ml",
+    "price": "\u00a37.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/dove-turmeric-milk-lemon-drop-beauty-bar-141g/": {
+    "name": "Dove Turmeric Milk & Lemon Drop Beauty Bar 141g",
+    "price": "\u00a31.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/cosmetics-makeup/narz-professional-precision-tweezers-black-set-4-piece/": {
+    "name": "NARZ Professional Precision Tweezers Black Set 4 Piece",
+    "price": "\u00a33.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/brn-factory-mens-factory-food-supplement-16-tablets/": {
+    "name": "BRN Factory Men's Factory Food Supplement 16 Tablets",
+    "price": "\u00a38.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/garnier-hyaluron-fresh-plump-hydrating-sorbet-cream-85ml/": {
+    "name": "Garnier Hyaluron Fresh & Plump Hydrating Sorbet Cream 85ml",
+    "price": "\u00a33.99"
   }
 }
