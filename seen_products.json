@@ -5529,7 +5529,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/lindt-excellence-milk-sea-salt-caramel-chocolate-bar-100g/": {
     "name": "Lindt Excellence Milk Sea Salt & Caramel Chocolate Bar 100g | Broken Bar/Creased Packaging",
-    "price": "\u00a31.49"
+    "price": "\u00a31.75"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/coffee/instant/kenco-millicano-smooth-latte-instant-coffee-220g/": {
     "name": "Kenco Millicano Smooth Latte Instant Coffee 220g | Dented Tin",
@@ -17394,5 +17394,9 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/old-india-mambra-puffed-rice-50g/": {
     "name": "Old India Mambra Puffed Rice 50g",
     "price": "\u00a30.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/coffee/instant/nescafe-espresso-concentrate-iced-classic-unsweetened-500ml-short-dated/": {
+    "name": "Nescaf\u00e9 Espresso Concentrate Iced Classic Unsweetened 500ml - Short Dated",
+    "price": "\u00a32.99"
   }
 }
