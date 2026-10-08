@@ -17330,5 +17330,13 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/simply-roasted-classic-mixed-crisps-24-x-21-5g-50-less-fat/": {
     "name": "Simply Roasted - Classic Mixed Crisps | 24 x 21.5g | 50% Less Fat",
     "price": "\u00a311.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/ritter-sport-caramel-biscuit-milk-chocolate-bar-100g/": {
+    "name": "Ritter Sport Caramel & Biscuit Milk Chocolate Bar 100g",
+    "price": "\u00a31.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/ritter-sport-fine-milk-chocolate-35-cocoa-100g/": {
+    "name": "Ritter Sport Fine Milk Chocolate 35% Cocoa 100g",
+    "price": "\u00a31.49"
   }
 }
