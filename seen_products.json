@@ -17338,5 +17338,13 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/ritter-sport-fine-milk-chocolate-35-cocoa-100g/": {
     "name": "Ritter Sport Fine Milk Chocolate 35% Cocoa 100g",
     "price": "\u00a31.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/haircare/l-oreal-paris-elvive-glycolic-gloss-sulphate-free-shampoo-200ml/": {
+    "name": "L'Or\u00e9al Paris Elvive Glycolic Gloss Sulphate-Free Shampoo 200ml",
+    "price": "\u00a33.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/dove-summer-revived-medium-to-dark-gradual-tanning-lotion-200ml/": {
+    "name": "Dove Summer Revived Medium to Dark Gradual Tanning Lotion 200ml",
+    "price": "\u00a32.99"
   }
 }
