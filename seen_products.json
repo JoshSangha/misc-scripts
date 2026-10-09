@@ -2657,7 +2657,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/walkers-crispy-roast-chicken-flavour-potato-crisps-6-pack-6x25g/": {
     "name": "Walkers Crispy Roast Chicken Flavour Potato Crisps 6 Pack | 6 x 25g Multipack | Made with 100% British Potatoes",
-    "price": "\u00a31.43"
+    "price": "\u00a30.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/robinsons-mini-apple-blackcurrant-squash-6-x-66ml/": {
     "name": "Robinsons Mini Apple & Blackcurrant Squash 6 x 66ml",
@@ -2961,7 +2961,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/mai-thai-aaa-jasmine-fragrant-rice-6-x-2kg/": {
     "name": "Mai Thai AAA Jasmine Fragrant Rice 6 x 2kg",
-    "price": "\u00a313.82"
+    "price": "\u00a311.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/teisseire-fraise-strawberry-syrup-1l/": {
     "name": "Teisseire Fraise Strawberry Syrup 1L",
@@ -3305,7 +3305,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/grenade-oreo-12x60g/": {
     "name": "Grenade OREO High Protein Low Sugar Bars 12 x 60g",
-    "price": "\u00a315.99"
+    "price": "\u00a314.99"
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/nicks-caramel-chocolate-protein-bars-12-x-50g/": {
     "name": "NICKS Caramel Chocolate Protein Bars 12 x 50g",
@@ -18166,5 +18166,9 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/error-finding-product-29/": {
     "name": "Error Finding Product 29",
     "price": "\u00a30.00"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/phd-smart-bar-white-choc-blondie-12-x-64g-high-protein-low-sugar/": {
+    "name": "PhD Smart Bar White Choc Blondie 12 x 64g High Protein Low Sugar",
+    "price": "\u00a311.99"
   }
 }
