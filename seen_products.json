@@ -12508,7 +12508,7 @@
     "price": "\u00a321.00"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/aidapt-rigid-sock-stocking-helper-vm947a/": {
-    "name": "Aidapt Rigid Sock & Stocking Helper VM947A | Creased Box Packaging",
+    "name": "Aidapt Rigid Sock & Stocking Helper VM947A",
     "price": "\u00a38.99"
   },
   "https://www.iwonderwhatsnext.co.uk/clearance/oral-b-pro-sensitive-clean-replacement-brush-heads-11-pack-individually-sealed-brush-heads-no-outer-box-packaging/": {
@@ -18126,5 +18126,45 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/biona-organic-spelt-tagliatelle-spinach-250g/": {
     "name": "Biona Organic Spelt Tagliatelle Spinach 250g",
     "price": "\u00a32.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/supplements/high5-energy-gel-aqua-caffeine-berry-20-x-66g-long-dated/": {
+    "name": "HIGH5 Energy Gel Aqua Caffeine Berry 20 x 66g - long dated",
+    "price": "\u00a312.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/chewy-vites-kids-magnesium-citrate-berry-flavour-60-gummies/": {
+    "name": "Chewy Vites Kids Magnesium Citrate Berry Flavour 60 Gummies",
+    "price": "\u00a36.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/airpure-lime-basil-mandarin-reed-diffuser-100ml/": {
+    "name": "Airpure Lime, Basil & Mandarin Reed Diffuser 100ml",
+    "price": "\u00a32.40"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/baby-care/aveeno-baby-calming-comfort-bedtime-lotion150ml/": {
+    "name": "Aveeno Baby Calming Comfort Bedtime Lotion150ml",
+    "price": "\u00a33.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/wilkinson-sword-intuition-2-in-1-ultra-moisture-razor-blade-refills-3-pack/": {
+    "name": "Wilkinson Sword Intuition 2-in-1 Ultra Moisture Razor Blade Refills 3 Pack",
+    "price": "\u00a33.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/corsodyl-daily-gum-care-cool-mint-alcohol-free-mouthwash-500ml/": {
+    "name": "Corsodyl Daily Gum Care Cool Mint Alcohol-Free Mouthwash 500ml",
+    "price": "\u00a31.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/supplements/high5-energy-gel-orange-20x40g/": {
+    "name": "HIGH5 Energy Gels Orange 20 x 40g",
+    "price": "\u00a312.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/bulk-zero-calorie-barista-syrup-white-chocolate-1-litre-perfect-for-protein-shakes-coffee-tea-desserts-pancakes-and-waffles-vegan-no-sugar-fat-or-calories/": {
+    "name": "Bulk Zero Calorie Barista Syrup, White Chocolate, 1 Litre, Perfect for Protein Shakes, Coffee, Tea, Desserts, Pancakes and Waffles, Vegan, No Sugar, Fat, or Calories",
+    "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/i-sushi-premium-sushi-rice-10kg/": {
+    "name": "I-Sushi Premium Sushi Rice | Short Grain Sticky Rice | 10kg Bag",
+    "price": "\u00a315.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/error-finding-product-29/": {
+    "name": "Error Finding Product 29",
+    "price": "\u00a30.00"
   }
 }
