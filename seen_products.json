@@ -2069,7 +2069,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/pet-supplies/cat/harringtons-senior-cat-food-chicken-8kg/": {
     "name": "Harringtons Complete Dry Senior Cat Food Chicken 8kg \u2013 4 x 2kg",
-    "price": "\u00a317.49"
+    "price": "\u00a314.99"
   },
   "https://www.iwonderwhatsnext.co.uk/pet-supplies/dog/good-boy-chicken-mini-knots-10x60g/": {
     "name": "Good Boy Tough & Tasty Chicken Mini Knots Dog Treats 10 x 60g \u2013 Rawhide Alternative",
@@ -3597,7 +3597,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/avant-natural-mineral-water-12-x-200ml/": {
     "name": "Avant Natural Mineral Water 12 x 200ml Eco Bottles Still Water Multipack 2.4L",
-    "price": "\u00a33.99"
+    "price": "\u00a33.25"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/monin-classic-cocktail-syrup-collection-gift-set-3-x-5cl/": {
     "name": "MONIN Classic Cocktail Syrup Collection Gift Set 3 x 5cl Mini Syrups \u2013 Pink Grapefruit, Cucumber & Blood Orange",
@@ -4461,7 +4461,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/maryland-swich-choc-creme-chocolate-sandwich-cookies-20-x-150g/": {
     "name": "Maryland S\u2019wich Choc Creme Chocolate Sandwich Cookies 20 x 150g",
-    "price": "\u00a310.79"
+    "price": "\u00a36.99"
   },
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/double-sided-cleaning-sponges-5-pack-reusable-machine-washable-scratch-resistant-non-scratch-scrubbing-pads-multi-colour-11-x-17-cm/": {
     "name": "Double Sided Cleaning Sponges 5 Pack Reusable, Machine Washable, Scratch Resistant Non-Scratch Scrubbing Pads \u2013 Multi-Colour 11 x 17 cm",
@@ -18170,5 +18170,17 @@
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/phd-smart-bar-white-choc-blondie-12-x-64g-high-protein-low-sugar/": {
     "name": "PhD Smart Bar White Choc Blondie 12 x 64g High Protein Low Sugar",
     "price": "\u00a311.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/tea/lipton-a-moment-to-balance-green-tea-200-tea-bags/": {
+    "name": "Lipton A Moment to Balance Green Tea \u2013 200 Enveloped Tea Bags (2 x 100 Packs) \u2013 Individually Wrapped",
+    "price": "\u00a35.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/tea/lipton-balance-green-tea-100-enveloped-tea-bags/": {
+    "name": "Lipton A Moment to Balance Green Tea \u2013 100 Enveloped Tea Bags \u2013 Herbal Feel Good Blend for Daily Wellness",
+    "price": "\u00a32.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/s-pellegrino-sparkling-natural-mineral-water-6-x-1l/": {
+    "name": "S.Pellegrino Sparkling Natural Mineral Water 6 x 1L",
+    "price": "\u00a33.70"
   }
 }
