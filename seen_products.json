@@ -3785,7 +3785,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/seabrook-cheese-onion-flavour-6x25g/": {
     "name": "Seabrook Cheese & Onion Crinkle Cut Potato Crisps 6 x 25g | Gluten Free Vegetarian Multipack",
-    "price": "\u00a30.90"
+    "price": "\u00a30.75"
   },
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/stationery-gadgets/samsung-galaxy-z-fold5-front-protection-film-official-2-pack/": {
     "name": "Samsung Galaxy Z Fold5 Front Protection Film | Official Samsung Screen Protector | 2-Pack",
@@ -5328,7 +5328,7 @@
     "price": "\u00a37.49"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/coffee/pods-capsules/nescafe-dolce-gusto-cortado-espresso-macchiato-coffee-pods-16-capsules/": {
-    "name": "Nescafe Dolce Gusto Cortado Espresso Macchiato Coffee Pods 16 Capsules - DAMAGED PACKAGING",
+    "name": "Nescafe Dolce Gusto Cortado Espresso Macchiato Coffee Pods 16 Capsules",
     "price": "\u00a32.99"
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/supplements/high5-energy-gel-apple-20-x-40g-running-cycling-energy-gels/": {
@@ -15361,7 +15361,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/red-bull-ruby-edition-spiced-pear-energy-drink-12-x-250ml/": {
     "name": "Red Bull Ruby Edition Spiced Pear Energy Drink 12 x 250ml",
-    "price": "\u00a38.49"
+    "price": "\u00a37.49"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/ferrero-rocher-original-milk-chocolate-pralines-42-pieces-525g/": {
     "name": "Ferrero Rocher Original Milk Chocolate Pralines 42 Pieces 525g",
@@ -18666,5 +18666,9 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/wrigleys-extra-refreshers-peppermint-chewing-gum-16-pack/": {
     "name": "Wrigley\u2019s Extra Refreshers Peppermint Chewing Gum | 16 x 7 Pieces (112 Total)",
     "price": "\u00a35.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/tvp-dark-textured-soya-protein-mince-1kg/": {
+    "name": "TVP Dark Textured Soya Protein Mince | High Protein Plant-Based Meat Alternative | 1kg",
+    "price": "\u00a34.99"
   }
 }
