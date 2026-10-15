@@ -3180,7 +3180,7 @@
     "price": "\u00a33.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/aloedent-fluoride-free-whitening-aloe-vera-toothpaste-100ml/": {
-    "name": "AloeDent Fluoride Free Whitening Aloe Vera Toothpaste 100ml - Imperfect Box Packaging",
+    "name": "AloeDent Fluoride Free Whitening Aloe Vera Toothpaste 100ml",
     "price": "\u00a32.49"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/veet-oriental-warm-wax-essential-oils-floral-vanilla-250ml/": {
@@ -6028,7 +6028,7 @@
     "price": "\u00a33.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/sensodyne-daily-care-sensitive-toothpaste-original-mint-75ml/": {
-    "name": "Sensodyne Daily Care Sensitive Toothpaste Original Mint 75ml - Damaged Outer Box Packaging",
+    "name": "Sensodyne Daily Care Sensitive Toothpaste Original Mint 75ml",
     "price": "\u00a31.75"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/oral-b-pro-3d-white-clinical-intensive-whitening-radiant-white-toothpaste-1-x-75ml/": {
@@ -9029,7 +9029,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/true-mints-mixed-6-flavours-sugar-free-pastilles-12-x-13g/": {
     "name": "True Mints Mixed 6 Flavours Sugar-Free Pastilles 12 x 13g",
-    "price": "\u00a36.99"
+    "price": "\u00a39.99"
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/fuel10k-strawberry-high-protein-breakfast-milk-drink-330ml/": {
     "name": "FUEL10K Strawberry High Protein Breakfast Milk Drink 330ml",
@@ -9185,7 +9185,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/always-platinum-normal-size-1-sanitary-towels-with-wings-22-pads/": {
     "name": "Always Platinum Normal Size 1 Sanitary Towels with Wings 22 Pads",
-    "price": "\u00a31.99"
+    "price": "\u00a31.49"
   },
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/dylon-ultra-whitener-laundry-whitening-sachets-5-x-30g/": {
     "name": "Dylon Ultra Whitener Laundry Whitening Sachets 5 x 30g Imperfect Box",
@@ -10032,8 +10032,8 @@
     "price": "\u00a30.75"
   },
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/bloo-2in1-in-cistern-limescale-prevention-toilet-blocks-2-x-50g/": {
-    "name": "Bloo 2in1 In-Cistern Limescale Prevention Toilet Blocks 2 x 50g | Damaged Outer Packaging",
-    "price": "\u00a30.90"
+    "name": "Bloo 2in1 In-Cistern Limescale Prevention Toilet Blocks 2 x 50g",
+    "price": "\u00a30.99"
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/optimum-nutrition-gold-standard-whey-vanilla-900g/": {
     "name": "Optimum Nutrition Gold Standard Whey Vanilla 900g",
@@ -18445,7 +18445,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/deep-heat-muscle-massage-roll-on-lotion-50ml/": {
     "name": "Deep Heat Muscle Massage Roll-On Lotion 50ml",
-    "price": "\u00a33.99"
+    "price": "\u00a31.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/breakfast-bars/kind-white-chocolate-raspberry-nut-bars-12-x-40g/": {
     "name": "KIND White Chocolate Raspberry Nut Bars 12 x 40g",
@@ -19106,5 +19106,25 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/sensodyne-daily-care-deep-clean-gel-sensitive-toothpaste-75ml-no-outer-box/": {
     "name": "Sensodyne Daily Care Deep Clean Gel Sensitive Toothpaste 75ml - No Outer Box",
     "price": "\u00a31.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/spencer-fleetwood-penis-pasta-200g/": {
+    "name": "Spencer & Fleetwood Penis Pasta 200g",
+    "price": "\u00a33.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/pet-supplies/cat/purina-pro-plan-kitten-healthy-start-turkey-in-gravy-10-x-85g/": {
+    "name": "Purina Pro Plan Kitten Healthy Start Turkey in Gravy 10 x 85g",
+    "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/kikkoman-less-salt-soy-sauce-150ml/": {
+    "name": "Kikkoman Less Salt Soy Sauce 150ml",
+    "price": "\u00a32.00"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/toblerone-milk-100g/": {
+    "name": "Toblerone Milk 100g",
+    "price": "\u00a30.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/laundry-detergent-strips-32-loads-eco-ultra-concentrated-non-bio-sheets/": {
+    "name": "Laundry Detergent Strips 32 Loads - Eco Ultra Concentrated Non-Bio Sheets",
+    "price": "\u00a34.99"
   }
 }
