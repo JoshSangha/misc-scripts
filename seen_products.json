@@ -5932,8 +5932,8 @@
     "price": "\u00a31.75"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/lindt-dubai-style-pistachio-kadayif-milk-chocolate-bar-145g/": {
-    "name": "Lindt Dubai Style Pistachio & Kadayif Milk Chocolate Bar 145g | Damaged Outer Sleeve Packaging",
-    "price": "\u00a34.99"
+    "name": "Lindt Dubai Style Pistachio & Kadayif Milk Chocolate Bar 145g",
+    "price": "\u00a33.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/cadbury-double-decker-chocolate-bars-7-x-37-3g/": {
     "name": "Cadbury Double Decker Chocolate Bars 7 x 37.3g",
@@ -17853,7 +17853,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/mars-family-favourites-fun-size-chocolate-multipack-20-bars-bags-358g/": {
     "name": "Mars Family Favourites Fun Size Chocolate Multipack 20 Bars & Bags 358g",
-    "price": "\u00a32.49"
+    "price": "\u00a33.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/kallo-organic-three-nut-crunch-granola-360g/": {
     "name": "Kallo Organic Three Nut Crunch Granola 360g",
@@ -20262,5 +20262,37 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/unidentified-product-ean-5055640247983/": {
     "name": "Unidentified Product \u2013 EAN 5055640247983",
     "price": "\u00a30.00"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/nutella-hazelnut-chocolate-spread-200g/": {
+    "name": "Nutella Hazelnut Chocolate Spread 200g",
+    "price": "\u00a31.47"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/garden-peas-in-water-400g/": {
+    "name": "Garden Peas in Water 400g",
+    "price": "\u00a30.35"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/baby-care/aveeno-baby-daily-care-moisturising-lotion-250ml-imperfect-bottle/": {
+    "name": "Aveeno Baby Daily Care Moisturising Lotion 250ml",
+    "price": "\u00a32.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/ferrero-rocher-chocolate-gift-box-16-piece-200g/": {
+    "name": "Ferrero Rocher Chocolate Gift Box 16 Pieces 200g | Hazelnut Milk Chocolates",
+    "price": "\u00a34.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/st-dalfour-la-reserve-ginger-fruit-spread-170g-jar/": {
+    "name": "St. Dalfour La Reserve Ginger Fruit Spread 170g Jar",
+    "price": "\u00a33.25"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/supplements/bioglan-superfoods-superberries-70g/": {
+    "name": "Bioglan Superfoods Superberries 70g \u2013 Natural Antioxidant Superfood Blend for Smoothies, Breakfasts & Baking | Vegan & High Fibre",
+    "price": "\u00a33.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/cadbury-chomp-treat-size-bars-11-7g-pack-of-100-bulk-buy-chocolate-deal-over-1kg/": {
+    "name": "Cadbury Milk Chocolate CHOMP Treat Size Bars 11.7g (Pack of 100) \u2013 Bulk Buy Deal OVER 1KG",
+    "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/cadbury-animals-mini-biscuits-99-5g-approx-5-snack-packs-best-before-date-12-11-2024/": {
+    "name": "Cadbury Animals Mini Biscuits, 99.5g | Approx 5 Snack Packs",
+    "price": "\u00a30.70"
   }
 }
