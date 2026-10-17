@@ -17200,7 +17200,7 @@
     "price": "\u00a313.99"
   },
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/dryel-at-home-dry-cleaner-starter-kit-4-loads/": {
-    "name": "Dryel At-Home Dry Cleaner Starter Kit 4 Loads | Damaged Outer Packaging",
+    "name": "Dryel At-Home Dry Cleaner Starter Kit 4 Loads",
     "price": "\u00a319.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/life-healthcare-adult-drinking-cup-with-spout-travel-lid-300ml/": {
@@ -19805,7 +19805,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/lindt-lindor-blue-assorted-chocolate-truffles-337g/": {
     "name": "Lindt LINDOR Blue Assorted Chocolate Truffles 337g",
-    "price": "\u00a36.99"
+    "price": "\u00a35.75"
   },
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/buster-bathroom-drain-unblocker-2-x-300ml/": {
     "name": "Buster Bathroom Drain Unblocker 2 x 300ml",
@@ -20136,7 +20136,7 @@
     "price": "\u00a32.20"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/walkers-classic-variety-multipack-crisps-20-x-25g/": {
-    "name": "Walkers Classic Variety Multipack Crisps 20 x 25g IMPERFECT BOX",
+    "name": "Walkers Classic Variety Multipack Crisps 20 x 25g",
     "price": "\u00a31.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/breakfast-bars/pip-nut-peanut-butter-stuffed-apple-cinnamon-oat-bars-15-x-48g/": {
@@ -20294,5 +20294,25 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/cadbury-animals-mini-biscuits-99-5g-approx-5-snack-packs-best-before-date-12-11-2024/": {
     "name": "Cadbury Animals Mini Biscuits, 99.5g | Approx 5 Snack Packs",
     "price": "\u00a30.70"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/mcvitie-s-jamaica-ginger-sticky-pudding-cake-232g/": {
+    "name": "McVitie's Jamaica Ginger Sticky Pudding Cake 232g",
+    "price": "\u00a30.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/haircare/color-wow-raise-the-root-thicken-lift-spray-150ml/": {
+    "name": "Color Wow Raise the Root Thicken + Lift Spray 150ml",
+    "price": "\u00a310.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/natural-chia-seeds-350g/": {
+    "name": "Natural Chia Seeds 350g",
+    "price": "\u00a31.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/e45-cream-50g-moisturiser-for-dry-sensitive-skin/": {
+    "name": "E45 Cream 50g Moisturiser for Dry & Sensitive Skin",
+    "price": "\u00a32.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/biona-organic-millet-500-g-ancient-grain-grown-organically-in-ukraine-mild-taste-and-light-fluffy-texture-sustainable-100-recyclable-paper-packaging-store-cupboard-essentials/": {
+    "name": "Biona Organic Millet, 500 g - Ancient Grain Grown Organically in Ukraine - Mild Taste and Light Fluffy Texture - Sustainable 100% Recyclable Paper Packaging - Store Cupboard Essentials",
+    "price": "\u00a31.69"
   }
 }
