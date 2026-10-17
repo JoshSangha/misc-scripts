@@ -16513,7 +16513,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/bear-gently-baked-cherries-8-x-75g/": {
     "name": "BEAR Gently Baked Cherries 8 x 75g",
-    "price": "\u00a311.99"
+    "price": "\u00a38.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/swizzels-sweet-shop-favourites-assorted-sweets-gift-box-500g/": {
     "name": "Swizzels Sweet Shop Favourites Assorted Sweets Gift Box 500g",
@@ -19041,7 +19041,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/coffee/pods-capsules/tassimo-costa-latte-coffee-pods-5-x-223-2g/": {
     "name": "Tassimo Costa Latte Medium Roast Coffee Pods, Pack of 5, Total 40 Servings",
-    "price": "\u00a321.99"
+    "price": "\u00a318.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/green-orangeade-low-calorie-soft-drinks-sparkling-orange-flavour-with-20-natural-juice-no-added-sugar-sweetened-with-stevia-no-aspartame-alternative-fizzy-drink-bulk-pack-24-cans-x-330ml/": {
     "name": "Green Orangeade - Low Calorie Soft Drinks - Sparkling Orange Flavour with 20% Natural Juice - No Added Sugar, Sweetened with Stevia, No Aspartame - Alternative Fizzy Drink - Bulk Pack 24 Cans x 330ml",
@@ -19861,7 +19861,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/baby-care/kiddylicious-strawberry-fruity-puffs-12-x-10g/": {
     "name": "Kiddylicious Strawberry Fruity Puffs 12 x 10g",
-    "price": "\u00a32.49"
+    "price": "\u00a31.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/coffee/beans/illy-classico-medium-roast-coffee-beans-250g/": {
     "name": "illy Classico Medium Roast Coffee Beans 250g",
@@ -20438,5 +20438,13 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/zovirax-cold-sore-treatment-cream-5-aciclovir-tube-2g/": {
     "name": "Zovirax Cold Sore Treatment Cream 5% Aciclovir Tube 2g",
     "price": "\u00a32.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/organix-barbeque-gruffalo-claws-toddler-corn-puffs-12-x-15g/": {
+    "name": "Organix Barbeque Gruffalo Claws Toddler Corn Puffs 12 x 15g",
+    "price": "\u00a31.50"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/hovis-extra-wheatgerm-crackers-150g/": {
+    "name": "Hovis Extra Wheatgerm Crackers 150g",
+    "price": "\u00a30.99"
   }
 }
