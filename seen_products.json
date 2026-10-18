@@ -2885,7 +2885,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/fuel10k-cookies-cream-protein-shake-8x330ml/": {
     "name": "FUEL10K Cookies & Cream High Protein Shake 8 x 330ml \u2013 25g Protein, Gluten Free",
-    "price": "\u00a38.99"
+    "price": "\u00a35.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/the-breath-co-healthy-smile-sparkle-mint-mouthwash-500ml/": {
     "name": "The Breath Co Healthy Smile Sparkle Mint Mouthwash 500ml",
@@ -3873,7 +3873,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/usn-protein-fuel-40-banana-high-protein-shakes-24-x-500ml/": {
     "name": "USN Protein Fuel 40 Banana High Protein Shakes 24 x 500ml",
-    "price": "\u00a325.99"
+    "price": "\u00a321.99"
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/supplements/usn-instant-hydrator-peach-lemonade-electrolyte-drink-sachets-20-x-76g/": {
     "name": "USN Instant Hydrator Peach Lemonade Electrolyte Drink Sachets 20 x 7.6g",
@@ -12857,7 +12857,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/alpro-soya-growing-up-drink-15-x-250ml/": {
     "name": "Alpro Soya Growing Up Drink 15 x 250ml",
-    "price": "\u00a37.49"
+    "price": "\u00a35.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/walkers-french-fries-worcester-sauce-crisps-multipack-6-x-18g/": {
     "name": "Walkers French Fries Worcester Sauce Crisps Multipack 6 x 18g",
@@ -13661,7 +13661,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/maltesers-white-chocolate-bars-25-pack/": {
     "name": "Maltesers White Chocolate Balls with Honeycomb Centre | 25 x 30g",
-    "price": "\u00a38.99"
+    "price": "\u00a35.99"
   },
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/pledge-dust-it-fluffy-duster-starter-pack-1-handle-2-refills/": {
     "name": "Pledge Dust It Fluffy Duster Starter Pack \u2013 1 Handle & 2 Refills",
@@ -21050,5 +21050,9 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/allevia-fexofenadine-120mg-hayfever-allergy-relief-15-tablets/": {
     "name": "Allevia Fexofenadine 120mg Hayfever & Allergy Relief 15 Tablets",
     "price": "\u00a31.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/pet-supplies/cat/scrumbles-wet-cat-food-mixed-pate-selection-36x80g/": {
+    "name": "Scrumbles Wet Cat Food Mixed P\u00e2t\u00e9 Selection | Adult & Senior Cats | 36 x 80g (Packaging May Vary)",
+    "price": "\u00a324.99"
   }
 }
