@@ -1917,7 +1917,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/nicorette-invisipatch-nicotine-patches-step-1-25mg-7-patches/": {
     "name": "Nicorette InvisiPatch Nicotine Patches Step 1  25mg 7 Patches",
-    "price": "\u00a34.99"
+    "price": "\u00a33.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/haircare/old-spice-original-3-in-1-multi-purpose-shampoo-for-hair-face-and-body-250ml/": {
     "name": "Old Spice Original 3-in-1 Multi-Purpose Shampoo for Hair Face and Body 250ml",
@@ -7357,7 +7357,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/niquitin-mint-4mg-nicotine-lozenges-132-pack/": {
     "name": "NiQuitin Mint 4mg Nicotine Lozenges 132 Pack",
-    "price": "\u00a36.99"
+    "price": "\u00a34.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/haircare/milva-pine-tar-shampoo-for-seborrheic-dermatitis-500ml/": {
     "name": "Milva Pine Tar Shampoo for Seborrheic Dermatitis 500ml",
@@ -12197,7 +12197,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/nicotinell-tts30-step-1-21mg-24-hour-nicotine-patches-7-pack/": {
     "name": "Nicotinell TTS30 Step 1 21mg/24 Hour Nicotine Patches 7 Pack",
-    "price": "\u00a35.99"
+    "price": "\u00a34.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/nicotinell-fruit-2mg-medicated-nicotine-gum-96-pieces/": {
     "name": "Nicotinell Fruit 2mg Medicated Nicotine Gum 96 Pieces",
@@ -16157,7 +16157,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/nicorette-invisipatch-step-1-25mg-nicotine-patches-14-pack/": {
     "name": "Nicorette InvisiPatch Step 1 25mg Nicotine Patches 14 Pack | Imperfect Packaging",
-    "price": "\u00a38.99"
+    "price": "\u00a36.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/coffee/beans/starbucks-blonde-espresso-roast-whole-bean-coffee-4-x-450g/": {
     "name": "Starbucks Blonde Espresso Roast Whole Bean Coffee 4 x 450g",
@@ -18489,7 +18489,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/nicorette-cools-icy-mint-4mg-nicotine-lozenges-80-pack/": {
     "name": "Nicorette Cools Icy Mint 4mg Nicotine Lozenges 80 Pack",
-    "price": "\u00a36.99"
+    "price": "\u00a35.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/allsett-health-disposable-instant-ice-packs-100-x-6-x-4-5-inch/": {
     "name": "AllSett Health Disposable Instant Ice Packs 100 x 6 x 4.5 Inch",
@@ -20545,7 +20545,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/nicorette-fruitfusion-4mg-nicotine-gum-105-pieces/": {
     "name": "Nicorette Fruitfusion 4mg Nicotine Gum 105 Pieces",
-    "price": "\u00a35.99"
+    "price": "\u00a33.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/tea/health-embassy-hazel-leaf-corylus-l-herbal-tea-50g/": {
     "name": "Health Embassy Hazel Leaf (Corylus L.) Herbal Tea 50g",
@@ -21353,7 +21353,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/clearance/sudafed-blocked-nose-sinus-capsules-16-pack/": {
     "name": "Sudafed Blocked Nose & Sinus Capsules 16 Pack",
-    "price": "\u00a32.25"
+    "price": "\u00a31.99"
   },
   "https://www.iwonderwhatsnext.co.uk/clearance/pyrocalm-control-omeprazole-20mg-gastro-resistant-tablets-14-pack/": {
     "name": "Pyrocalm Control Omeprazole 20mg Gastro-Resistant Tablets 14 Pack",
@@ -21362,5 +21362,13 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/imodium-dual-action-relief-tablets-6-tablets/": {
     "name": "Imodium Dual Action Relief Tablets 6 Tablets",
     "price": "\u00a32.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/clearance/initiv-non-medicated-pain-relief-patches-4-pack/": {
+    "name": "Initiv Non-Medicated Pain Relief Patches for Back, Neck & Shoulder \u2013 4 Pack",
+    "price": "\u00a30.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/clearance/sudafed-sinus-max-strength-capsules-16-pack/": {
+    "name": "Sudafed Sinus Max Strength Capsules 16 Pack",
+    "price": "\u00a31.99"
   }
 }
