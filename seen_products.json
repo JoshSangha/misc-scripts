@@ -22318,5 +22318,69 @@
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/science-in-sport-go-isotonic-energy-gel-lemon-lime-15-x-60ml-vegan/": {
     "name": "Science in Sport GO Isotonic Energy Gel Lemon & Lime 15 x 60ml Vegan",
     "price": "\u00a32.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/trek-cocoa-oat-protein-flapjacks-16-x-50g/": {
+    "name": "TREK Cocoa Oat Protein Flapjacks 16 x 50g",
+    "price": "\u00a314.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/nakd-cocoa-hazelnut-protein-bars-16-x-45g/": {
+    "name": "Nakd Cocoa Hazelnut Protein Bars 16 x 45g",
+    "price": "\u00a39.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/the-natural-candy-shop-peppermint-candy-canes-12-x-168g/": {
+    "name": "The Natural Candy Shop Peppermint Candy Canes 12 x 168g",
+    "price": "\u00a35.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/rowntree-s-randoms-juicers-sweets-sharing-bags-9-x-140g/": {
+    "name": "Rowntree's Randoms Juicers Sweets Sharing Bags 9 x 140g",
+    "price": "\u00a37.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/emma-basic-crispy-bean-curd-roll-180g/": {
+    "name": "Emma Basic Crispy Bean Curd Roll 180g",
+    "price": "\u00a31.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/sproud-vanilla-pea-protein-drink-6-x-1l/": {
+    "name": "Sproud Vanilla Pea Protein Drink 6 x 1L",
+    "price": "\u00a37.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/alpro-almond-no-sugars-plant-based-drink-8-x-1l/": {
+    "name": "Alpro Almond No Sugars Plant-Based Drink 8 x 1L",
+    "price": "\u00a36.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/hellmanns-real-mayonnaise-2l-tub-1-85kg/": {
+    "name": "Hellmann's Real Mayonnaise 2L Tub (1.85kg)",
+    "price": "\u00a35.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/goodrays-30mg-cbd-drinks-mixed-flavour-pack-12-x-250ml/": {
+    "name": "Goodrays 30mg CBD Drinks Mixed Flavour Pack 12 x 250ml",
+    "price": "\u00a313.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/colmans-cottage-pie-recipe-mix-45g/": {
+    "name": "Colman's Cottage Pie Recipe Mix 45g",
+    "price": "\u00a30.40"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/kohinoor-mumbai-kolhapuri-masala-cooking-sauce-375g/": {
+    "name": "Kohinoor Mumbai Kolhapuri Masala Cooking Sauce 375g",
+    "price": "\u00a31.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/aunt-bessies-golden-crumble-mix-400g/": {
+    "name": "Aunt Bessie's Golden Crumble Mix 400g",
+    "price": "\u00a31.25"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/mcvities-hobnobs-oaty-creams-chocolate-biscuits-160g/": {
+    "name": "McVitie's Hobnobs Oaty Creams Chocolate Biscuits 160g",
+    "price": "\u00a30.60"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/snyders-honey-mustard-onion-pretzel-pieces-110g/": {
+    "name": "Snyder's Honey Mustard & Onion Pretzel Pieces 110g",
+    "price": "\u00a31.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/kaitatuya-roasted-seaweed-silver-10-sheets/": {
+    "name": "Kaitatuya Roasted Seaweed Silver 10 Sheets",
+    "price": "\u00a31.25"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/vimto-no-added-sugar-mixed-fruit-squash-6-x-2l/": {
+    "name": "Vimto No Added Sugar Mixed Fruit Squash 6 x 2L",
+    "price": "\u00a312.99"
   }
 }
