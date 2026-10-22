@@ -23290,5 +23290,13 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/jacob-s-cheddars-red-leicester-flavour-cheese-biscuits-150g/": {
     "name": "Jacob's Cheddars Red Leicester Flavour Cheese Biscuits 150g",
     "price": "\u00a31.20"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/oshee-high-protein-coconut-caramel-bars-12-x-48g/": {
+    "name": "OSHEE High Protein Coconut & Caramel Bars 12 x 48g",
+    "price": "\u00a39.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/oshee-high-protein-vanilla-caramel-protein-bars-12-x-49g/": {
+    "name": "OSHEE High Protein Vanilla & Caramel Protein Bars 12 x 49g",
+    "price": "\u00a39.99"
   }
 }
