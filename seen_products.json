@@ -5384,7 +5384,7 @@
     "price": "\u00a31.49"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/robinsons-double-strength-orange-no-added-sugar-squash-1-75l/": {
-    "name": "Robinsons Double Strength Orange No Added Sugar Squash 1.75L - DENTED LID",
+    "name": "Robinsons Double Strength Orange No Added Sugar Squash 1.75L",
     "price": "\u00a31.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/robinsons-double-strength-apple-blackcurrant-no-added-sugar-squash-1-75l/": {
@@ -19253,7 +19253,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/kinder-happy-moments-assorted-mini-chocolates-167-pieces-1039g/": {
     "name": "Kinder Happy Moments Assorted Mini Chocolates 167 Pieces 1039g",
-    "price": "\u00a37.99"
+    "price": "\u00a38.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/breakfast-bars/deliciously-ella-raisin-chocolate-topped-oat-bars-30-x-50g/": {
     "name": "Deliciously Ella Raisin Chocolate Topped Oat Bars 30 x 50g",
@@ -19865,7 +19865,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/coffee/beans/illy-classico-medium-roast-coffee-beans-250g/": {
     "name": "illy Classico Medium Roast Coffee Beans 250g",
-    "price": "\u00a35.99"
+    "price": "\u00a34.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/baby-care/pampers-sensitive-baby-wipes-1-x-80-wipes/": {
     "name": "Pampers Sensitive Baby Wipes 1 x 80 Wipes",
@@ -21913,7 +21913,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/starburst-original-fruit-chews-138g/": {
     "name": "Starburst Original Fruit Chews 138g",
-    "price": "\u00a30.90"
+    "price": "\u00a30.75"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/oreo-choco-brownie-sandwich-biscuits-154g/": {
     "name": "Oreo Choco Brownie Sandwich Biscuits 154g",
@@ -22897,7 +22897,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/breakfast-bars/pip-nut-original-peanut-butter-stuffed-oat-bars-15-x-48g/": {
     "name": "Pip & Nut Original Peanut Butter Stuffed Oat Bars 15 x 48g",
-    "price": "\u00a38.99"
+    "price": "\u00a37.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/oshee-vitamin-hydration-vitamins-minerals-orange-sparkling-drink-6-x-250ml/": {
     "name": "OSHEE Vitamin Hydration Vitamins + Minerals Orange Sparkling Drink 6 x 250ml",
@@ -23326,5 +23326,41 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/robinsons-mini-orange-squash-no-added-sugar-66ml-bottle-pack-of-6-on-the-go-refreshment/": {
     "name": "Robinsons Mini Orange Squash | No Added Sugar | 66ml Bottle (Pack of 6) | On-the-Go Refreshment",
     "price": "\u00a36.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/tyrrells-smoked-paprika-sharing-crisps-150g/": {
+    "name": "Tyrrells Smoked Paprika Sharing Crisps 150g | Squashed Packet Crisps Are Affected Inside",
+    "price": "\u00a30.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/mcvitie-s-digestives-milk-chocolate-slices-5-x-24-8g/": {
+    "name": "McVitie's Digestives Milk Chocolate Slices 5 x 24.8g",
+    "price": "\u00a30.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/metcalfe-s-sweet-n-salt-popcorn-8-x-80g/": {
+    "name": "Metcalfe's Sweet n Salt Popcorn 8 x 80g",
+    "price": "\u00a38.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/pot-noodle-flame-grilled-steak-12-x-90g/": {
+    "name": "Pot Noodle Flame Grilled Steak Flavour Instant Noodles 12 x 90g Vegan Instant Snack Pots",
+    "price": "\u00a38.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/snickers-hiprotein-crisp-bars-24-pack/": {
+    "name": "Snickers HiProtein Crisp Bars | High Protein Chocolate Snack Bars | 24 x 55g",
+    "price": "\u00a324.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/snickers-hiprotein-crisp-bars-12-pack/": {
+    "name": "Snickers HiProtein Crisp Bars | High Protein Chocolate Snack Bars | 12 x 55g",
+    "price": "\u00a312.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/toffifee-hazelnut-caramel-chocolate-15-piece-box/": {
+    "name": "Toffifee Hazelnut Caramel Nougat & Chocolate Cups \u2013 15 Pieces | Indulgent Treat Box | Storck Branded Chocolate Sweets Multipack",
+    "price": "\u00a30.79"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/walkers-ready-salted-multipack-crisps-6x25g/": {
+    "name": "Walkers Ready Salted Multipack Crisps 6x25g",
+    "price": "\u00a30.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/breakfast-bars/kind-dark-chocolate-nuts-sea-salt-bars-12x40g/": {
+    "name": "KIND Bars \u2013 Dark Chocolate Nuts & Sea Salt \u2013 12 \u00d7 40g \u2013 Gluten-Free Snack Bar \u2013 High Fibre with Real Ingredients & No Artificial Additives",
+    "price": "\u00a311.99"
   }
 }
