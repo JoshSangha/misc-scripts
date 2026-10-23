@@ -18677,11 +18677,11 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/activit-mango-passion-fruit-sparkling-vitamin-water-12-x-500ml/": {
     "name": "Activit Mango & Passion Fruit Sparkling Vitamin Water 12 x 500ml",
-    "price": "\u00a39.99"
+    "price": "\u00a38.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/sparkling-ice-cloudy-lemon-sparkling-water-12-x-500ml/": {
     "name": "Sparkling Ice Cloudy Lemon Sparkling Water 12 x 500ml",
-    "price": "\u00a38.99"
+    "price": "\u00a37.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/smiths-bacon-flavour-fries-24-x-24g/": {
     "name": "Smiths Bacon Flavour Fries 24 x 24g | PAST BBE DATE",
@@ -23818,5 +23818,25 @@
   "https://www.iwonderwhatsnext.co.uk/pet-supplies/cat/premium-wet-cat-food-mixed-pack-6x800g/": {
     "name": "Premium Wet Cat Food \u2013 Mixed Pack I (6 x 800g) \u2013 Chicken, Beef & Hearts \u2013 Grain-Free",
     "price": "\u00a317.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/pet-supplies/dog/forthglade-complete-senior-lamb-with-brown-rice-vegetables-wet-dog-food-18-x-395g/": {
+    "name": "Forthglade Complete Senior Lamb with Brown Rice & Vegetables Wet Dog Food 18 x 395g",
+    "price": "\u00a317.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/pet-supplies/dog/scrumbles-softies-chicken-duck-training-treats-8x90g/": {
+    "name": "Scrumbles Softies Chicken & Duck Training Treats | Gut Friendly Dog Treats | 8 x 90g",
+    "price": "\u00a39.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/pet-supplies/small-animal/microwave-heat-pad-pets/": {
+    "name": "Snugglesafe Microwave Heat Pad for Pets \u2013 Chew-Resistant, Waterproof Warming Disc | Up to 10 Hours Heat",
+    "price": "\u00a39.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/pet-supplies/dog/earth-rated-unscented-poop-bags-120/": {
+    "name": "Earth Rated Dog Poo Bags 120 Pack \u2013 Unscented, Leak-Proof & Extra Strong Waste Bags",
+    "price": "\u00a32.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/pet-supplies/cat/scrumbles-all-natural-dry-cat-food-chicken-salmon-750g/": {
+    "name": "Scrumbles All Natural Dry Cat Food \u2013 75% Chicken & Fresh Salmon \u2013 High Protein Complete Food for Adult & Senior Cats \u2013 750g",
+    "price": "\u00a33.75"
   }
 }
