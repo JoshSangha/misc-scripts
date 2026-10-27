@@ -10792,7 +10792,7 @@
     "price": "\u00a31.69"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/baby-care/bambo-nature-breathable-disposable-changing-mats-60-x-60cm-10-pack/": {
-    "name": "Bambo Nature Breathable Disposable Changing Mats 60 x 60cm 10 Pack | Damaged/Opened Outer Packaging",
+    "name": "Bambo Nature Breathable Disposable Changing Mats 60 x 60cm 10 Pack",
     "price": "\u00a32.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/life-extension-super-omega-3-epa-dha-with-sesame-lignans-olive-extract-240-softgels/": {
@@ -11156,8 +11156,8 @@
     "price": "\u00a33.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/vitabiotics-feroglobin-b12-slow-release-iron-30-capsules/": {
-    "name": "Vitabiotics Feroglobin B12 Slow Release Iron 30 Capsules Imperfect Box",
-    "price": "\u00a32.49"
+    "name": "Vitabiotics Feroglobin B12 Slow Release Iron 30 Capsules",
+    "price": "\u00a32.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/natures-aid-mini-drops-vitamin-d3-400iu-50ml/": {
     "name": "Natures Aid Mini Drops Vitamin D3 400iu 50ml",
@@ -16068,7 +16068,7 @@
     "price": "\u00a317.49"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/haircare/friendly-soap-peppermint-eucalyptus-shampoo-bar-95g/": {
-    "name": "Friendly Soap Peppermint & Eucalyptus Shampoo Bar 95g | Imperfect Packaging/Bar",
+    "name": "Friendly Soap Peppermint & Eucalyptus Shampoo Bar 95g",
     "price": "\u00a31.95"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/panadol-actifast-paracetamol-500mg-tablets-10-pack/": {
@@ -16361,7 +16361,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/osavi-collagen-peptides-joints-bones-153g/": {
     "name": "Osavi Collagen Peptides Joints & Bones 153g",
-    "price": "\u00a311.99"
+    "price": "\u00a39.99"
   },
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/febreze-3volution-blossom-breeze-plug-in-air-freshener-refill-20ml/": {
     "name": "Febreze 3Volution Blossom & Breeze Plug-In Air Freshener Refill 20ml",
@@ -25258,5 +25258,29 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/haircare/viviscal-hair-supplement-for-men-180-tablets-3-month-supply-for-hair-growth/": {
     "name": "Viviscal Hair Supplement for Men \u2013 180 Tablets | 3-Month Supply for Hair Growth",
     "price": "\u00a311.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/haircare/regaine-for-men-extra-strength-5-minoxidil-scalp-foam-3-x-73ml/": {
+    "name": "Regaine for Men Extra Strength 5% Minoxidil Scalp Foam 3 x 73ml",
+    "price": "\u00a340.00"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/bausch-lomb-boston-advance-contact-lens-cleaner-30ml/": {
+    "name": "Bausch + Lomb Boston Advance Contact Lens Cleaner 30ml",
+    "price": "\u00a34.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/bulk-krill-oil-softgels-1000mg-krill-oil-with-omega-3-astaxanthin/": {
+    "name": "Bulk Krill Oil Softgels 1000mg Krill Oil with Omega 3 & Astaxanthin",
+    "price": "\u00a38.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/slimfast-meal-replacement-snack-bar-salted-caramel-flavour-15g-protein-4-x-60g-bars/": {
+    "name": "SlimFast Meal Replacement Snack Bar Salted Caramel Flavour 15g Protein  4 x 60g Bars",
+    "price": "\u00a32.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/massage-oil-500ml-professional-massage-oil-for-physiotherapy-sports-deep-tissue-massage/": {
+    "name": "Massage Cream 500ml Professional Massage Cream for Physiotherapy, Sports & Deep Tissue Massage",
+    "price": "\u00a39.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/protein-works-vegan-protein-360-gold-vanilla-creme-1kg-33-servings/": {
+    "name": "Protein Works Vegan Protein 360 Gold Vanilla Cr\u00e8me 1kg 33 Servings",
+    "price": "\u00a313.99"
   }
 }
