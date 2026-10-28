@@ -1253,7 +1253,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/supplements/usn-b4-bomb-blue-raspberry-crush-pre-workout-powder-300g/": {
     "name": "USN B4 Bomb Blue Raspberry Crush Pre-Workout Powder 300g",
-    "price": "\u00a311.99"
+    "price": "\u00a39.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/47-skin-anti-blemish-scar-repair-daily-moisturiser-60ml/": {
     "name": "47 Skin Anti-Blemish & Scar Repair Daily Moisturiser 60ml",
@@ -4065,7 +4065,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/vicks-vapodrops-tripleaction-sugar-free-blackcurrant-lozenges-42g/": {
     "name": "Vicks VapoDrops TripleAction Sugar Free Blackcurrant Lozenges 42g",
-    "price": "\u00a30.49"
+    "price": "\u00a30.40"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/oral-b-pro-junior-fluoride-toothpaste-75ml-mild-flavour-anti-cavity/": {
     "name": "Oral-B Pro Junior Fluoride Toothpaste 75ml Mild Flavour Anti Cavity",
@@ -25502,5 +25502,17 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/omega-3-fish-oil-2000mg-240-softgels-past-bbe-date/": {
     "name": "Omega-3 Fish Oil 2000mg 240 Softgels",
     "price": "\u00a311.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/phd-smart-plant-bar-vanilla-fudge-24x64g-high-protein-low-sugar-vegan/": {
+    "name": "PhD Smart Plant Bar Vanilla Fudge 24 x 64g High Protein Low Sugar Vegan",
+    "price": "\u00a324.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/phd-smart-plant-bar-vanilla-fudge-12-x-64g-high-protein-low-sugar-vegan/": {
+    "name": "PhD Smart Plant Bar Vanilla Fudge 12 x 64g High Protein Low Sugar Vegan",
+    "price": "\u00a312.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/coffee/pods-capsules/starbucks-toffee-nut-flavoured-coffee-by-nespresso-blonde-roast-10-pods/": {
+    "name": "STARBUCKS Toffee Nut Flavoured Coffee by Nespresso Blonde Roast 10 Pods",
+    "price": "\u00a31.99"
   }
 }
