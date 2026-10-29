@@ -23585,7 +23585,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/kinder-bueno-classic-milk-chocolate-hazelnut-bars-30-x-43g/": {
     "name": "Kinder Bueno Classic Milk Chocolate & Hazelnut Bars 30 x 43g",
-    "price": "\u00a39.99"
+    "price": "\u00a311.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/pip-nut-dark-chocolate-almond-butter-cups-15-x-31g/": {
     "name": "Pip & Nut Dark Chocolate Almond Butter Cups 15 x 31g",
@@ -25514,5 +25514,9 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/coffee/pods-capsules/starbucks-toffee-nut-flavoured-coffee-by-nespresso-blonde-roast-10-pods/": {
     "name": "STARBUCKS Toffee Nut Flavoured Coffee by Nespresso Blonde Roast 10 Pods",
     "price": "\u00a31.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/pepsi-max-cherry-no-sugar-cola-24-x-330ml-cans-low-calorie-cherry-cola/": {
+    "name": "Pepsi Max Cherry No Sugar Cola 24 x 330ml Cans Low Calorie Cherry Cola",
+    "price": "\u00a37.49"
   }
 }
