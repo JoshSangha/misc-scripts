@@ -6344,7 +6344,7 @@
     "price": "\u00a30.75"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/coffee/instant/nescafe-2in1-original-instant-coffee-sachets-12-x-9g/": {
-    "name": "NESCAF\u00c9 2in1 Original Instant Coffee Sachets 12 x 9g | Damaged Box Packaging",
+    "name": "NESCAF\u00c9 2in1 Original Instant Coffee Sachets 12 x 9g",
     "price": "\u00a31.15"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/charbonnel-et-walker-billionaire-s-shortbread-truffles-8-pack-125g/": {
@@ -14416,7 +14416,7 @@
     "price": "\u00a32.49"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/kelloggs-krave-caramelised-biscuit-white-chocolate-flavour-breakfast-cereal-375g/": {
-    "name": "Kellogg's Krave Caramelised Biscuit & White Chocolate Flavour Breakfast Cereal 375g | Damaged Outer Box Packaging",
+    "name": "Kellogg's Krave Caramelised Biscuit & White Chocolate Flavour Breakfast Cereal 375g",
     "price": "\u00a31.75"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/funcakes-marzipan-grass-green-250g/": {
@@ -20749,7 +20749,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/crazy-candy-factory-pizza-slices-fruit-flavour-gummy-sweets-24-x-21g/": {
     "name": "Crazy Candy Factory Pizza Slices Fruit Flavour Gummy Sweets 24 x 21g",
-    "price": "\u00a38.99"
+    "price": "\u00a35.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/manilife-deep-roast-crunchy-peanut-butter-900g/": {
     "name": "ManiLife Deep Roast Crunchy Peanut Butter 900g",
@@ -20801,7 +20801,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/hula-hoops-variety-multipack-crisps-6-x-24g/": {
     "name": "Hula Hoops Variety Multipack Crisps 6 x 24g",
-    "price": "\u00a31.60"
+    "price": "\u00a30.99"
   },
   "https://www.iwonderwhatsnext.co.uk/pet-supplies/dog/hollings-unfilled-smoked-shank-bone-for-adult-dogs-healthy-long-lasting-dog-bone-made-with-100-natural-ingredients-1-count/": {
     "name": "Hollings Unfilled Smoked Shank Bone For Adult Dogs, Healthy & Long Lasting Dog Bone, Made with 100% Natural Ingredients (1 Count)",
@@ -25518,5 +25518,9 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/pepsi-max-cherry-no-sugar-cola-24-x-330ml-cans-low-calorie-cherry-cola/": {
     "name": "Pepsi Max Cherry No Sugar Cola 24 x 330ml Cans Low Calorie Cherry Cola",
     "price": "\u00a37.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/pet-supplies/cat/applaws-complete-balanced-chicken-senior-dry-cat-food-7-5kg/": {
+    "name": "Applaws Complete & Balanced Chicken Senior Dry Cat Food 7.5kg",
+    "price": "\u00a340.00"
   }
 }
