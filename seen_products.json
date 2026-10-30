@@ -3221,7 +3221,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/yutaka-sushi-nori-11g-5-sheets-4-pack/": {
     "name": "Yutaka Sushi Nori Roasted Seaweed 11g (5 Sheets) x 4 Packs \u2013 Vegan Sushi Wraps",
-    "price": "\u00a33.49"
+    "price": "\u00a32.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/old-india-damiana-herb-dried-leaves-250g/": {
     "name": "Old India Damiana Herb Dried Leaves 250g",
@@ -14444,8 +14444,8 @@
     "price": "\u00a33.49"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/cadbury-white-oreo-chocolate-bar-120g/": {
-    "name": "Cadbury White Oreo Chocolate Bar 120g | Broken Bar",
-    "price": "\u00a30.75"
+    "name": "Cadbury White Oreo Chocolate Bar 120g",
+    "price": "\u00a31.30"
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/kind-protein-caramel-nut-protein-bar-50g/": {
     "name": "KIND Protein Caramel Nut Protein Bar 50g",
@@ -15365,7 +15365,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/ferrero-rocher-original-milk-chocolate-pralines-42-pieces-525g/": {
     "name": "Ferrero Rocher Original Milk Chocolate Pralines 42 Pieces 525g",
-    "price": "\u00a39.99"
+    "price": "\u00a37.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/major-barbecue-mari-base-marinade-1-x-1-25l/": {
     "name": "Major Barbecue Mari Base Marinade 1 x 1.25L",
@@ -18181,7 +18181,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/s-pellegrino-sparkling-natural-mineral-water-6-x-1l/": {
     "name": "S.Pellegrino Sparkling Natural Mineral Water 6 x 1L",
-    "price": "\u00a33.70"
+    "price": "\u00a34.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/veet-pure-hair-removal-cream-legs-amp-body-sensitive-200ml-no-box-issue/": {
     "name": "Veet Pure Hair Removal Cream Legs &amp; Body Sensitive 200ml - No Box Issue",
@@ -21553,7 +21553,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/oreo-original-vanilla-sandwich-biscuits-twin-pack-2-x-154g/": {
     "name": "Oreo Original Vanilla Sandwich Biscuits Twin Pack 2 x 154g",
-    "price": "\u00a31.25"
+    "price": "\u00a31.69"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/funcakes-stone-grey-sugar-paste-fondant-250g/": {
     "name": "FunCakes Stone Grey Sugar Paste Fondant 250g",
@@ -24253,7 +24253,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/natural-pine-nuts-100g/": {
     "name": "Natural Pine Nuts 100g",
-    "price": "\u00a32.99"
+    "price": "\u00a31.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/raisins-200g-resealable-pack/": {
     "name": "Raisins 200g Resealable Pack",
@@ -25770,5 +25770,17 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/coffee/pods-capsules/costa-signature-blend-nespresso-pods-100-pack/": {
     "name": "Costa Coffee Signature Blend Espresso Pods \u2013 100 Aluminium Capsules (10 x 10 Packs) | Nespresso Compatible | Medium Roast",
     "price": "\u00a315.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/cadbury-dairy-milk-caramel-nibbles-100g/": {
+    "name": "Cadbury Dairy Milk Caramel Nibbles Chocolate Bag 100g Soft Caramel Filled Milk Chocolate Bites",
+    "price": "\u00a31.25"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/biona-organic-cranberry-juice-750ml-damaged-label/": {
+    "name": "Biona Organic Cranberry Juice \u2013 750ml | DAMAGED LABEL",
+    "price": "\u00a37.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/oreo-spooky-vanilla-sandwich-biscuits-6x154g/": {
+    "name": "Oreo Spooky Vanilla Sandwich Biscuits Halloween Edition 6 x 154g Packs",
+    "price": "\u00a32.90"
   }
 }
