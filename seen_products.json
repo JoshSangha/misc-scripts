@@ -23508,7 +23508,7 @@
     "price": "\u00a314.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/lindt-lindor-silver-assorted-chocolate-truffles-600g/": {
-    "name": "Lindt LINDOR Silver Assorted Chocolate Truffles 600g \u2013 4 Flavours | Damaged Box",
+    "name": "Lindt LINDOR Silver Assorted Chocolate Truffles 600g \u2013 4 Flavours",
     "price": "\u00a39.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/minton-donello-caramelised-pecan-nuts-1kg/": {
@@ -25782,5 +25782,145 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/oreo-spooky-vanilla-sandwich-biscuits-6x154g/": {
     "name": "Oreo Spooky Vanilla Sandwich Biscuits Halloween Edition 6 x 154g Packs",
     "price": "\u00a32.90"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/walkers-max-chunky-cheese-onion-crisps-24x42-5g/": {
+    "name": "Walkers MAX Chunky Cheese & Onion Crisps 24 x 42.5g \u2013 Full Box Multipack",
+    "price": "\u00a311.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/pet-supplies/dog/cesar-natural-goodness-chicken-loaf-wet-dog-food-6-x-400g/": {
+    "name": "Cesar Natural Goodness Chicken Loaf Wet Dog Food 6 x 400g",
+    "price": "\u00a39.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/kettle-tortilla-mature-cheddar-red-onion-8x140g/": {
+    "name": "Kettle Tortilla Chips Mature Cheddar & Red Onion 8 x 140g \u2013 Sharing Crisps Multipack",
+    "price": "\u00a39.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/walkers-max-strong-hot-chicken-wings-sharing-crisps-9-x-140g/": {
+    "name": "Walkers MAX Strong Hot Chicken Wings Sharing Crisps 9 x 140g",
+    "price": "\u00a311.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/walkers-wotsits-crunchy-sweet-spicy-15x60g/": {
+    "name": "Walkers Wotsits Crunchy Sweet & Spicy Corn Snacks 15 x 60g \u2013 Sharing Crisps Multipack",
+    "price": "\u00a39.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/mcvities-jaffa-original-cake-bars-10-x-24-5g/": {
+    "name": "McVitie's Jaffa Original Cake Bars 10 x 24.5g",
+    "price": "\u00a31.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/cadbury-delights-orange-caramel-soft-nougat-bars-5-x-22g/": {
+    "name": "Cadbury Delights Orange & Caramel Soft Nougat Bars 5 x 22g",
+    "price": "\u00a30.90"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/walkers-meaty-variety-multipack-crisps-20-x-25g/": {
+    "name": "Walkers Meaty Variety Multipack Crisps 20 x 25g",
+    "price": "\u00a32.25"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/cadbury-white-mega-buttons-chocolate-sharing-bag-192g/": {
+    "name": "Cadbury White Mega Buttons Chocolate Sharing Bag 192g",
+    "price": "\u00a31.50"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/tea/sucralose-sweetener-tablets-300/": {
+    "name": "Sucralose Sweetener Tablets 300 Pack \u2013 Zero Calorie Sugar Alternative",
+    "price": "\u00a30.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/ocean-spray-pink-cranberry-sparkling-water-1l/": {
+    "name": "Ocean Spray Pink Cranberry Sparkling Water 1L",
+    "price": "\u00a30.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/breakfast-bars/go-ahead-forest-fruit-crispy-fruit-slices-4-x-43-6g/": {
+    "name": "Go Ahead Forest Fruit Crispy Fruit Slices 4 x 43.6g",
+    "price": "\u00a30.80"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/breakfast-bars/kind-hazelnut-butter-milk-chocolate-snack-bars-12-x-40g/": {
+    "name": "KIND Hazelnut Butter Milk Chocolate Snack Bars 12 x 40g",
+    "price": "\u00a312.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/tilda-pure-basmati-rice-5kg/": {
+    "name": "Tilda Pure Basmati Rice 5kg",
+    "price": "\u00a37.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/green-cola-green-lemonade-24-x-330ml/": {
+    "name": "Green Cola Green Lemonade 24 x 330ml",
+    "price": "\u00a311.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/organix-apple-rice-cake-clouds-7-months-40g/": {
+    "name": "Organix Apple Rice Cake Clouds 7+ Months 40g",
+    "price": "\u00a30.60"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/maynards-bassetts-wine-gums-mega-sharing-bag-1kg/": {
+    "name": "Maynards Bassetts Wine Gums Mega Sharing Bag 1kg",
+    "price": "\u00a34.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/toblerone-milk-chocolate-diamond-truffles-gift-box-180g/": {
+    "name": "Toblerone Milk Chocolate Diamond Truffles Gift Box 180g",
+    "price": "\u00a33.69"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/kinder-bueno-christmas-eggs-80g/": {
+    "name": "Kinder Bueno Christmas Eggs 80g",
+    "price": "\u00a30.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/tea/typhoo-everyday-black-tea-bags-440-pack-1kg/": {
+    "name": "Typhoo Everyday Black Tea Bags 440 Pack 1kg",
+    "price": "\u00a34.90"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/wrigleys-extra-white-sugar-free-mint-chewing-gum-6-x-64g/": {
+    "name": "Wrigley's Extra White Sugar Free Mint Chewing Gum 6 x 64g",
+    "price": "\u00a311.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/heinz-my-first-oat-porridge-baby-food-6-months-125g/": {
+    "name": "Heinz My First Oat Porridge Baby Food 6+ Months 125g",
+    "price": "\u00a30.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/walkers-pure-butter-shortbread-fingers-250g/": {
+    "name": "Walker's Pure Butter Shortbread Fingers 250g",
+    "price": "\u00a32.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/baby-care/organix-raspberry-apple-soft-oaty-bars-36-x-23g/": {
+    "name": "Organix Raspberry & Apple Soft Oaty Bars 36 x 23g",
+    "price": "\u00a39.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/charbonnel-et-walker-dark-sea-salt-caramel-truffles-120g/": {
+    "name": "Charbonnel et Walker Dark Sea Salt Caramel Truffles 120g",
+    "price": "\u00a38.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/warrior-raw-strawberry-cheesecake-protein-oat-bars-12-x-75g/": {
+    "name": "Warrior RAW Strawberry Cheesecake Protein Oat Bars 12 x 75g",
+    "price": "\u00a311.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/sodastream-pepsi-syrup-drink-mix-6-x-440ml/": {
+    "name": "SodaStream Pepsi Syrup Drink Mix 6 x 440ml",
+    "price": "\u00a327.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/pepsi-max-no-sugar-cola-bottle-2l/": {
+    "name": "Pepsi Max No Sugar Cola Bottle 2L",
+    "price": "\u00a31.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/kitkat-hazelnut-chocolate-sharing-bar-99g/": {
+    "name": "KitKat Hazelnut Chocolate Sharing Bar 99g",
+    "price": "\u00a30.90"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/mars-super-fun-size-mix-assorted-chocolate-bars-71-x-mixed-bars-1-425kg/": {
+    "name": "Mars Super Fun Size Mix Assorted Chocolate Bars 71 x Mixed Bars 1.425kg",
+    "price": "\u00a39.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/joe-sephs-chocolate-lovers-gourmet-popcorn-selection-box-105g/": {
+    "name": "Joe & Seph's Chocolate Lovers Gourmet Popcorn Selection Box 105g",
+    "price": "\u00a33.25"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/intralabs-citric-acid-100-pure-food-grade-fine-crystals-1kg/": {
+    "name": "Intralabs Citric Acid 100% Pure Food Grade Fine Crystals 1kg",
+    "price": "\u00a33.50"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/pineapple-juice-1l/": {
+    "name": "100% Pineapple Juice 1L From Concentrate",
+    "price": "\u00a30.90"
+  },
+  "https://www.iwonderwhatsnext.co.uk/pet-supplies/cat/perfect-fit-senior-7-rich-in-chicken-dry-cat-food-7kg/": {
+    "name": "Perfect Fit Senior 7+ Rich in Chicken Dry Cat Food 7kg",
+    "price": "\u00a321.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/pet-supplies/dog/pedigree-ranchos-reward-cubes-duck-dog-treats-7-x-70g/": {
+    "name": "Pedigree Ranchos Reward Cubes Duck Dog Treats 7 x 70g",
+    "price": "\u00a39.99"
   }
 }
