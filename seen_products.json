@@ -8341,7 +8341,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/gran-luchito-lightly-salted-tortilla-chips-10-x-170g/": {
     "name": "Gran Luchito Lightly Salted Tortilla Chips 10 x 170g",
-    "price": "\u00a39.99"
+    "price": "\u00a37.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/gran-luchito-lightly-salted-tortilla-chips-170g/": {
     "name": "Gran Luchito Lightly Salted Tortilla Chips 170g",
@@ -9129,7 +9129,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/walkers-squares-variety-multipack-crisps-6-x-22g/": {
     "name": "Walkers Squares Variety Multipack Crisps 6 x 22g",
-    "price": "\u00a31.75"
+    "price": "\u00a31.60"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/jacob-s-twiglets-original-sharing-bag-150g/": {
     "name": "Jacob's Twiglets Original Sharing Bag 150g",
@@ -13693,7 +13693,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/mutti-classic-tomato-ketchup-300g/": {
     "name": "Mutti Classic Tomato Ketchup 300g Italian Tomato Ketchup",
-    "price": "\u00a31.79"
+    "price": "\u00a31.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/neostrata-skin-active-triple-firming-neck-cream-80g/": {
     "name": "NeoStrata Skin Active Triple Firming Neck Cream 80g - Imperfect Packaging",
@@ -27038,5 +27038,9 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/oxipro-bp1-blood-pressure-monitor-with-22-42cm-cuff/": {
     "name": "OxiPro BP1 Blood Pressure Monitor with 22-42cm Cuff",
     "price": "\u00a314.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/aw-root-beer-12-x-355ml-cans/": {
+    "name": "A&W Root Beer 12 x 355ml Cans",
+    "price": "\u00a38.99"
   }
 }
