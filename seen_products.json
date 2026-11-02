@@ -27042,5 +27042,53 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/aw-root-beer-12-x-355ml-cans/": {
     "name": "A&W Root Beer 12 x 355ml Cans",
     "price": "\u00a38.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/breakfast-bars/kind-maple-pecan-almond-bars-12x40g/": {
+    "name": "KIND Maple Pecan Almond Nut Bars 12 x 40g \u2013 Gluten Free, High Fibre, Over 80% Nuts",
+    "price": "\u00a38.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/lotus-biscoff-original-caramelised-biscuits-10-x-250g/": {
+    "name": "Lotus Biscoff Original Caramelised Biscuits 10 x 250g",
+    "price": "\u00a39.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/filippo-berio-pure-classico-olive-oil-500ml/": {
+    "name": "Filippo Berio Pure Classico Olive Oil 500ml",
+    "price": "\u00a33.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/poppets-salted-caramel-fudge-milk-chocolate-sweets-36-x-40g/": {
+    "name": "Poppets Salted Caramel Fudge Milk Chocolate Sweets 36 x 40g",
+    "price": "\u00a39.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/robinsons-blackberry-blueberry-ready-to-drink-juice-drink-12-x-500ml/": {
+    "name": "Robinsons Blackberry & Blueberry Ready to Drink Juice Drink 12 x 500ml",
+    "price": "\u00a37.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/twix-hazelnut-flavour-twin-chocolate-bars-30-x-46g/": {
+    "name": "Twix Hazelnut Flavour Twin Chocolate Bars 30 x 46g",
+    "price": "\u00a314.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/bear-fruit-minis-strawberry-apple-18-x-20g/": {
+    "name": "BEAR Fruit Minis Strawberry & Apple 18 x 20g",
+    "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/pepsi-max-cherry-no-sugar-cola-cans-24-x-330ml/": {
+    "name": "Pepsi Max Cherry No Sugar Cola Cans 24 x 330ml",
+    "price": "\u00a35.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/pepsi-max-lime-no-sugar-cola-bottles-12-x-500ml/": {
+    "name": "Pepsi Max Lime No Sugar Cola Bottles 12 x 500ml",
+    "price": "\u00a37.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/acti-shake-chocolate-high-protein-dairy-drink-8-x-380g/": {
+    "name": "Acti-Shake Chocolate High Protein Dairy Drink 8 x 380g",
+    "price": "\u00a37.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/ribena-no-added-sugar-strawberry-juice-drink-24-x-250ml/": {
+    "name": "Ribena No Added Sugar Strawberry Juice Drink 24 x 250ml",
+    "price": "\u00a36.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/teisseire-zero-strawberry-cordial-6x600ml/": {
+    "name": "Teisseire Zero Strawberry Cordial 6 x 600ml \u2013 No Added Sugar, Low Calorie Fruit Squash",
+    "price": "\u00a319.99"
   }
 }
