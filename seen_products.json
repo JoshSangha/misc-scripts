@@ -1572,7 +1572,7 @@
     "price": "\u00a38.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/cosmetics-makeup/human-kind-signature-blend-body-souffle-250ml/": {
-    "name": "Human+Kind Signature Blend Body Souffle 250ml",
+    "name": "Human + Kind Signature Blend Body Souffle 250ml",
     "price": "\u00a32.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/cosmetics-makeup/joseph-joseph-viva-tiered-cosmetic-organiser-shell/": {
@@ -2165,7 +2165,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/halloween-fruit-flavour-mallow-pop-pink-35g/": {
     "name": "Halloween Fruit Flavour Mallow Pop PINK 35g",
-    "price": "\u00a30.75"
+    "price": "\u00a30.49"
   },
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/stationery-gadgets/on-stage-lpt6000-multi-purpose-adjustable-laptop-stand-black/": {
     "name": "On-Stage LPT6000 Multi-Purpose Adjustable Laptop Stand Black",
@@ -2173,7 +2173,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/halloween-fruit-flavour-mallow-pop-orange-35g/": {
     "name": "Halloween Fruit Flavour Mallow Pop ORANGE 35g",
-    "price": "\u00a30.75"
+    "price": "\u00a30.49"
   },
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/stationery-gadgets/roland-rmidi-g10-gold-series-midi-cable-3m/": {
     "name": "Roland RMIDI-G10 Gold Series MIDI Cable 3m",
@@ -2181,7 +2181,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/fruit-flavour-mallow-pop-white-35g/": {
     "name": "Halloween Fruit Flavour Mallow Pop WHITE 35g",
-    "price": "\u00a30.75"
+    "price": "\u00a30.49"
   },
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/stationery-gadgets/efel-ergo-5-viola-shoulder-rest/": {
     "name": "Efel ERGO 5 Viola Shoulder Rest",
@@ -19325,7 +19325,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/monin-premium-green-mint-syrup-1l/": {
     "name": "MONIN Premium Green Mint Syrup 1L",
-    "price": "\u00a33.49"
+    "price": "\u00a32.99"
   },
   "https://www.iwonderwhatsnext.co.uk/pet-supplies/extra-select-red-mite-powder-200g/": {
     "name": "Extra Select Red Mite Powder 200g",
@@ -27122,5 +27122,81 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/gourmico-paprika-50g/": {
     "name": "Gourmico Paprika 50g",
     "price": "\u00a31.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/pringles-hot-kickin-sour-cream-flavour-crisps-160g/": {
+    "name": "Pringles Hot Kickin' Sour Cream Flavour Crisps 160g",
+    "price": "\u00a31.80"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/coffee/instant/kenco-decaff-instant-coffee-paper-refill-5-x-150g/": {
+    "name": "Kenco Decaff Instant Coffee Paper Refill 5 x 150g",
+    "price": "\u00a319.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/hula-hoops-puft-salted-multipack-crisps-6-x-15g/": {
+    "name": "Hula Hoops Puft Salted Multipack Crisps 6 x 15g",
+    "price": "\u00a30.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/lipton-kombucha-strawberry-mint-4-x-250ml/": {
+    "name": "Lipton Kombucha Strawberry & Mint 4 x 250ml",
+    "price": "\u00a32.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/wrigleys-extra-white-bubblemint-sugar-free-chewing-gum-46-pieces-64g/": {
+    "name": "Wrigley's Extra White Bubblemint Sugar Free Chewing Gum 46 Pieces 64g",
+    "price": "\u00a31.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/mcvities-hobnobs-milk-chocolate-biscuits-262g/": {
+    "name": "McVitie's Hobnobs Milk Chocolate Biscuits 262g",
+    "price": "\u00a31.35"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/breakfast-bars/kelloggs-rice-krispies-squares-caramel-chocolate-snack-bars-4-x-36g/": {
+    "name": "Kellogg's Rice Krispies Squares Caramel & Chocolate Snack Bars 4 x 36g",
+    "price": "\u00a31.50"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/messino-rose-balsamic-cream-2x250ml/": {
+    "name": "Messino Greek Ros\u00e9 Balsamic Cream 2 x 250ml \u2013 Vegan, Gluten-Free, No Added Sugar",
+    "price": "\u00a37.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/deans-extra-mature-cheddar-caramelised-red-onion-bites-100g/": {
+    "name": "Dean's Extra Mature Cheddar & Caramelised Red Onion Bites 100g",
+    "price": "\u00a31.55"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/tea/clipper-organic-after-dinner-mints-double-mint-fennel-infusion-20-tea-bags-38g/": {
+    "name": "Clipper Organic After Dinner Mints Double Mint & Fennel Infusion 20 Tea Bags 38g",
+    "price": "\u00a31.90"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/philips-oneblade-first-shave-qp1324-20-electric-shaver/": {
+    "name": "Philips OneBlade First Shave QP1324/20 Electric Shaver | Badly Damaged Outer Box Packaging",
+    "price": "\u00a313.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/pme-burnt-umbre-edible-powder-colour-2g/": {
+    "name": "PME Burnt Umbre Edible Powder Colour 2g",
+    "price": "\u00a30.60"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/califia-farms-organic-oat-barista-blend-1l/": {
+    "name": "Califia Farms Organic Oat Barista Blend 1L",
+    "price": "\u00a30.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/oshee-vitamin-water-red-grape-dragonfruit-6-x-555ml/": {
+    "name": "OSHEE Vitamin Water Red Grape & Dragonfruit 6 x 555ml",
+    "price": "\u00a33.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/opulize-ora-reading-sunglasses-brown-tortoiseshell-150/": {
+    "name": "OPULIZE ORA Reading Sunglasses +1.50 \u2013 Brown Tortoiseshell, Grey Tinted UV400 Lenses",
+    "price": "\u00a32.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/cutiderm-sterile-adhesive-wound-dressings-5cm-x-7-5cm-pack-of-50/": {
+    "name": "Cutiderm Sterile Adhesive Wound Dressings 5cm x 7.5cm Pack of 50",
+    "price": "\u00a33.75"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/pme-essentials-liquid-glucose-syrup-325g/": {
+    "name": "PME Essentials Liquid Glucose Syrup 325g",
+    "price": "\u00a32.69"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/baby-care/burts-bees-baby-oil-pack-of-2/": {
+    "name": "Burt\u2019s Bees Baby Nourishing Baby Oil with Apricot Oil 2 x 147.8ml",
+    "price": "\u00a310.79"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/qa-niacinamide-daily-toner-100ml/": {
+    "name": "Q+A Niacinamide Daily Toner 100ml",
+    "price": "\u00a33.99"
   }
 }
