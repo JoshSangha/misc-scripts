@@ -5980,7 +5980,7 @@
     "price": "\u00a32.49"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/montezuma-s-absolute-black-100-cocoa-dark-chocolate-bar-90g/": {
-    "name": "Montezuma's Absolute Black 100% Cocoa Dark Chocolate Bar 90g | Broken Bar/Creased Packaging",
+    "name": "Montezuma's Absolute Black 100% Cocoa Dark Chocolate Bar 90g",
     "price": "\u00a32.75"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/halls-soothers-honey-lemon-lozenges-45g/": {
@@ -6385,10 +6385,10 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/morrisons-the-best-hollandaise-sauce-165g-glass-jar/": {
     "name": "Morrisons The Best Hollandaise Sauce 165g Glass Jar",
-    "price": "\u00a31.69"
+    "price": "\u00a31.29"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/carrs-table-water-cracked-black-pepper-crackers-125g/": {
-    "name": "Carr's Table Water Cracked Black Pepper Crackers 125g | Damaged Box Packaging",
+    "name": "Carr's Table Water Cracked Black Pepper Crackers 125g",
     "price": "\u00a30.69"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/always-discreet-postpartum-pants-large-2-x-8/": {
@@ -9564,7 +9564,7 @@
     "price": "\u00a37.49"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/coffee/instant/nescafe-vanilla-latte-instant-coffee-7-x-18-5g-sachets/": {
-    "name": "NESCAF\u00c9 Vanilla Latte Instant Coffee 7 x 18.5g Sachets | Damaged Packaging",
+    "name": "NESCAF\u00c9 Vanilla Latte Instant Coffee 7 x 18.5g Sachets",
     "price": "\u00a31.25"
   },
   "https://www.iwonderwhatsnext.co.uk/pet-supplies/cat/dreamies-creamy-chicken-cat-treats-4-x-10g/": {
@@ -14253,7 +14253,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/lee-kum-kee-ramen-noodles-360g/": {
     "name": "Lee Kum Kee Ramen Noodles 360g",
-    "price": "\u00a31.69"
+    "price": "\u00a31.25"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/king-of-shaves-antibacterial-shave-gel-aloe-tea-tree-175ml/": {
     "name": "King of Shaves Antibacterial Shave Gel Aloe + Tea Tree 175ml",
@@ -16269,7 +16269,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/bonne-maman-pure-butter-french-madeleines-12-x-25g/": {
     "name": "Bonne Maman Pure Butter French Madeleines 12 x 25g",
-    "price": "\u00a31.99"
+    "price": "\u00a32.49"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/mcvities-hobnobs-oaty-crunch-creams-chocolate-flavour-100g/": {
     "name": "McVitie's Hobnobs Oaty Crunch Creams Chocolate Flavour 100g",
@@ -23793,7 +23793,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/breakfast-bars/nakd-apple-cinnamon-fruit-fibre-bars-36-x-44g/": {
     "name": "Nakd Apple & Cinnamon Fruit & Fibre Bars 36 x 44g",
-    "price": "\u00a319.99"
+    "price": "\u00a324.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/walkers-french-fries-ready-salted-multipack-crisps-6-x-18g/": {
     "name": "Walkers French Fries Ready Salted Multipack Crisps 6 x 18g",
@@ -27118,5 +27118,9 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/jacobs-cheddars-red-leicester-flavour-cheese-biscuits-150g/": {
     "name": "Jacob's Cheddars Red Leicester Flavour Cheese Biscuits 150g",
     "price": "\u00a31.20"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/gourmico-paprika-50g/": {
+    "name": "Gourmico Paprika 50g",
+    "price": "\u00a31.49"
   }
 }
