@@ -609,7 +609,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/vitabiotics-wellkid-multi-vitamin-smart-chewable-30-tablets/": {
     "name": "Vitabiotics Wellkid Multi-Vitamin Smart Chewable 30 Tablets | Food Supplement",
-    "price": "\u00a31.75"
+    "price": "\u00a30.99"
   },
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/air-wick-active-fresh-autospray-kit-eucalyptus-freesia-228ml/": {
     "name": "Air Wick Active Fresh Autospray Kit Eucalyptus & Freesia 228ml",
@@ -5221,7 +5221,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/biona-organic-rye-bread-original-sourdough-7-x-500g/": {
     "name": "Biona Organic Rye Bread Original Sourdough 7 x 500g",
-    "price": "\u00a311.99"
+    "price": "\u00a37.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/cadbury-dairy-milk-caramel-nibbles-big-share-bags-9-x-175g/": {
     "name": "Cadbury Dairy Milk Caramel Nibbles Big Share Bags 9 x 175g",
@@ -24133,7 +24133,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/cheetos-twisted-original-cheese-corn-puffs-125g/": {
     "name": "Cheetos Twisted Original Cheese Corn Puffs 125g",
-    "price": "\u00a31.20"
+    "price": "\u00a31.25"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/minton-donello-organic-coconut-chips-6-x-125g/": {
     "name": "Minton & Donello Organic Coconut Chips 6 x 125g",
@@ -24405,7 +24405,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/pet-supplies/dog/peamutt-butter-peanut-butter-for-dogs-700g/": {
     "name": "Peamutt Butter Peanut Butter for Dogs 700g",
-    "price": "\u00a32.50"
+    "price": "\u00a31.99"
   },
   "https://www.iwonderwhatsnext.co.uk/pet-supplies/dog/lilys-kitchen-beef-goulash-wet-dog-food-400g/": {
     "name": "Lily's Kitchen Beef Goulash Wet Dog Food 400g",
@@ -28097,6 +28097,30 @@
   },
   "https://www.iwonderwhatsnext.co.uk/pet-supplies/dog/responsible-owner-doggy-waste-bags-3-pack-240/": {
     "name": "Responsible Owner Doggy Waste Bags with Handles \u2013 Leak Proof, Eco Friendly | 3 Pack (240 Bags)",
+    "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/soya-beans-3kg/": {
+    "name": "Soya Beans 3kg",
+    "price": "\u00a39.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/tea/cadbury-highlights-milk-chocolate-hot-drink-6-jars-low-calorie/": {
+    "name": "Cadbury Highlights Milk Chocolate Hot Drink 6 x 154g Jars Low Calorie",
+    "price": "\u00a38.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/daewoo-kensington-pyramid-kettle-cream/": {
+    "name": "Daewoo Kensington Pyramid Kettle Stainless Steel Cream | 1.7L 3000W",
+    "price": "\u00a317.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/seasonal-products/shorthand-notebook-80-sheet-pack-20-kf31003/": {
+    "name": "Q-Connect Shorthand Notebook Feint Ruled White | 8 x 5 in | 80 Sheets | Pack of 20",
+    "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/pet-supplies/cat/felix-goody-bag-seaside-cat-treats-8x60g/": {
+    "name": "Felix Goody Bag Cat Treats Seaside Flavours Salmon Pollock Trout | 8 \u00d7 60g Packs",
+    "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/pet-supplies/cat/felix-goody-bag-original-cat-treats-8x60g/": {
+    "name": "Felix Goody Bag Cat Treats Original Flavours Chicken Liver Turkey | 8 \u00d7 60g Packs",
     "price": "\u00a34.99"
   }
 }
