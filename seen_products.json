@@ -8817,7 +8817,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/twix-twin-caramel-milk-chocolate-biscuit-bars-9-x-40g/": {
     "name": "Twix Twin Caramel & Milk Chocolate Biscuit Bars 9 x 40g",
-    "price": "\u00a31.75"
+    "price": "\u00a31.69"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/maldon-original-sea-salt-flakes-250g/": {
     "name": "Maldon Original Sea Salt Flakes 250g",
@@ -27085,7 +27085,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/ribena-no-added-sugar-strawberry-juice-drink-24-x-250ml/": {
     "name": "Ribena No Added Sugar Strawberry Juice Drink 24 x 250ml",
-    "price": "\u00a36.99"
+    "price": "\u00a36.49"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/teisseire-zero-strawberry-cordial-6x600ml/": {
     "name": "Teisseire Zero Strawberry Cordial 6 x 600ml \u2013 No Added Sugar, Low Calorie Fruit Squash",
@@ -28142,5 +28142,45 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/lo-bros-kombucha-variety-pack-12x250ml/": {
     "name": "Lo Bros Kombucha Variety Pack 12 x 250ml \u2013 5 Flavours, Low Sugar, Vegan, Live Cultures",
     "price": "\u00a39.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/versa-lasai-industrial-coat-rack-with-2-shelves-black-150-x-75-x-45cm/": {
+    "name": "Versa Lasai Industrial Coat Rack with 2 Shelves Black 150 x 75 x 45cm",
+    "price": "\u00a324.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/kelloggs-krave-milk-chocolate-breakfast-cereal-750g/": {
+    "name": "Kellogg's Krave Milk Chocolate Breakfast Cereal 750g",
+    "price": "\u00a32.69"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/rude-health-organic-coconut-drink-6-x-1l/": {
+    "name": "Rude Health Organic Coconut Drink 6 x 1L",
+    "price": "\u00a39.50"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/weetabix-original-wholegrain-cereal-48-biscuits-900g/": {
+    "name": "Weetabix Original Wholegrain Cereal 48 Biscuits 900g",
+    "price": "\u00a35.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/tea/decaf-original-black-tea-160-bags/": {
+    "name": "Decaf Original Black Tea Bags 2 x 80 \u2013 160 Decaffeinated Teabags \u2013 Rainforest Alliance Certified",
+    "price": "\u00a31.90"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/mccambridge-bread-tin-bakery-gluten-free-irish-soda-bread-kit-6-x-360g/": {
+    "name": "McCambridge Bread Tin Bakery Gluten Free Irish Soda Bread Kit 6 x 360g",
+    "price": "\u00a311.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/coffee/pods-capsules/starbucks-by-nespresso-discovery-variety-pack-10-x-10-coffee-capsules-100-capsules-551g/": {
+    "name": "Starbucks by Nespresso Discovery Variety Pack 10 x 10 Coffee Capsules (100 Capsules) 551g",
+    "price": "\u00a319.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/cleaning-housewares/swiffer-dry-wet-floor-mop-starter-kit-with-8-dry-cloths-3-wet-cloths/": {
+    "name": "Swiffer Dry & Wet Floor Mop Starter Kit with 8 Dry Cloths + 3 Wet Cloths",
+    "price": "\u00a38.50"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/lily-obriens-desserts-collection-16-chocolates-210g/": {
+    "name": "Lily O'Brien's Desserts Collection 16 Chocolates 210g",
+    "price": "\u00a33.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/ribena-blackcurrant-juice-drink-cartons-24-x-250ml/": {
+    "name": "Ribena Blackcurrant Juice Drink Cartons 24 x 250ml",
+    "price": "\u00a36.99"
   }
 }
