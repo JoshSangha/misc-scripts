@@ -2053,7 +2053,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/pulsin-unflavoured-vegan-pea-protein-powder-1kg/": {
     "name": "Pulsin Pea Protein Powder | Natural & Unflavoured Vegan Protein | 1kg | 80% Protein | Gluten Free | Dairy Free | Plant Based | No Added Sugar",
-    "price": "\u00a38.99"
+    "price": "\u00a311.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/chef-william-sage-and-onion-stuffing-mix-3kg-catering-pack/": {
     "name": "Chef William Sage and Onion Stuffing Mix 3kg Catering Pack",
@@ -28290,5 +28290,13 @@
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/snack-a-jacks-minis-lightly-salted-caramel-rice-corn-cakes-5-x-19g/": {
     "name": "Snack A Jacks Minis Lightly Salted Caramel Rice & Corn Cakes 5 x 19g | Popped Snack Multipack | 83 Calories Per Bag",
     "price": "\u00a31.25"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/rajah-balti-mix-200g-a-spicy-crunchy-delight-rajah-snacks/": {
+    "name": "Rajah Balti Mix 200g | A Spicy & Crunchy Delight! | Rajah Snacks",
+    "price": "\u00a30.69"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/lily-obriens-milk-chocolate-orange-truffles-100g/": {
+    "name": "Lily O\u2019Brien\u2019s Milk Chocolate Orange Truffles Bag | Smooth Orange Truffle Filling | 100g",
+    "price": "\u00a31.40"
   }
 }
