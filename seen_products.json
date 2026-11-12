@@ -1105,7 +1105,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/applied-nutrition-critical-mass-original-vanilla-mass-gainer-6kg/": {
     "name": "Applied Nutrition Critical Mass Original Vanilla Mass Gainer 6kg",
-    "price": "\u00a349.99"
+    "price": "\u00a340.00"
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/applied-nutrition-critical-mass-professional-strawberry-lean-mass-gainer-6kg/": {
     "name": "Applied Nutrition Critical Mass Professional Strawberry Lean Mass Gainer 6kg",
@@ -28962,5 +28962,9 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/oral-care-iwwn/oral-b-cavity-defense-charcoal-medium-toothbrushes-pack-of-4/": {
     "name": "Oral-B Cavity Defense Charcoal Medium Toothbrushes Pack of 4",
     "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/pepsi-max-no-sugar-cola-24x330ml-cans/": {
+    "name": "Pepsi Max No Sugar Cola 24 x 330ml Cans | Zero Sugar Carbonated Soft Drink Multipack",
+    "price": "\u00a37.99"
   }
 }
