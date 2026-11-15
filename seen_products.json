@@ -5849,7 +5849,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/ritter-sport-cashew-milk-chocolate-100g/": {
     "name": "Ritter Sport Cashew Milk Chocolate 100g",
-    "price": "\u00a30.99"
+    "price": "\u00a31.20"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/joe-seph-s-salted-caramel-popcorn-snack-pack-30g/": {
     "name": "Joe & Seph's Salted Caramel Popcorn Snack Pack 30g",
@@ -18417,7 +18417,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/7up-zero-sugar-lemon-lime-cans-24-x-330ml/": {
     "name": "7UP Zero Sugar Lemon & Lime Cans 24 x 330ml",
-    "price": "\u00a35.99"
+    "price": "\u00a37.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/coca-cola-zero-sugar-zero-caffeine-8-x-330ml/": {
     "name": "Coca-Cola Zero Sugar Zero Caffeine 8 x 330ml",
@@ -22493,7 +22493,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/breakfast-bars/belvita-strawberry-filled-soft-bakes-breakfast-biscuits-5-x-50g/": {
     "name": "Belvita Strawberry Filled Soft Bakes Breakfast Biscuits 5 x 50g",
-    "price": "\u00a31.20"
+    "price": "\u00a30.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/heinz-original-sandwich-spread-300g/": {
     "name": "Heinz Original Sandwich Spread 300g",
@@ -27832,8 +27832,8 @@
     "price": "\u00a30.60"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/ocean-spray-cranberry-pomegranate-juice-drink-1l/": {
-    "name": "Ocean Spray Cranberry & Pomegranate Juice Drink 1L",
-    "price": "\u00a31.30"
+    "name": "Ocean Spray Blueberry Juice Drink 1L",
+    "price": "\u00a30.80"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/breakfast-bars/belvita-soft-bakes-blueberry-cereal-snack-bars-5-x-50g/": {
     "name": "belVita Soft Bakes Blueberry Cereal Snack Bars 5 x 50g",
@@ -30726,5 +30726,29 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/panadol-paracetamol-500mg-liquid-capsules-16-pack/": {
     "name": "Panadol Paracetamol 500mg Liquid Capsules 16 Pack",
     "price": "\u00a31.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/lindt-gold-milk-hazelnut-chocolate-bar-300g/": {
+    "name": "Lindt Gold Milk Hazelnut Chocolate Bar 300g",
+    "price": "\u00a33.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/diet-coke-cola-soft-drink-cans-24x330ml/": {
+    "name": "Diet Coke Cola Soft Drink Cans 24 x 330ml",
+    "price": "\u00a38.50"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/coffee/ground/illy-classico-filter-ground-coffee-250g/": {
+    "name": "illy Classico Filter Ground Coffee 250g",
+    "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/mcvitie-s-jaffa-cakes-the-original-twin-pack-18-cakes-198g/": {
+    "name": "McVitie's Jaffa Cakes The Original Twin Pack 18 Cakes 198g",
+    "price": "\u00a31.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/savoury/sunbites-wholegrain-snack-lightly-salted-crisps-95g-case-of-12/": {
+    "name": "Sunbites Wholegrain Snack Lightly Salted Crisps 95g (Case of 12)",
+    "price": "\u00a39.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/error-finding-product-95/": {
+    "name": "Error Finding Product 95",
+    "price": "\u00a30.00"
   }
 }
