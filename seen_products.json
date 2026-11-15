@@ -16877,7 +16877,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/ensure-nutrivigor-strawberry-flavour-nutritional-shake-400g/": {
     "name": "Ensure NutriVigor Strawberry Flavour Nutritional Shake 400g",
-    "price": "\u00a35.99"
+    "price": "\u00a36.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/cosmetics-makeup/poderm-color-care-mens-nail-polish-151-illusion-men-8ml/": {
     "name": "Poderm Color Care Men's Nail Polish 151 Illusion Men 8ml",
@@ -17617,7 +17617,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/maynards-bassetts-wine-gums-carton-350g/": {
     "name": "Maynards Bassetts Wine Gums Carton 350g",
-    "price": "\u00a32.50"
+    "price": "\u00a32.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/pot-noodle-bombay-bad-boy-instant-noodles-90g/": {
     "name": "Pot Noodle Bombay Bad Boy Instant Noodles 90g",
@@ -18413,7 +18413,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/pepsi-regular-cola-cans-24-x-330ml/": {
     "name": "Pepsi Regular Cola Cans 24 x 330ml",
-    "price": "\u00a39.99"
+    "price": "\u00a310.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/7up-zero-sugar-lemon-lime-cans-24-x-330ml/": {
     "name": "7UP Zero Sugar Lemon & Lime Cans 24 x 330ml",
@@ -26341,7 +26341,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/coffee/pods-capsules/nescafe-dolce-gusto-americano-intenso-coffee-pods-48-x-8-3g/": {
     "name": "Nescaf\u00e9 Dolce Gusto Americano Intenso Coffee Pods 48 x 8.3g",
-    "price": "\u00a39.99"
+    "price": "\u00a310.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/vita-coco-original-coconut-water-12-x-330ml/": {
     "name": "Vita Coco Original Coconut Water 12 x 330ml",
@@ -27253,7 +27253,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/lucozade-energy-cherry-drink-900ml/": {
     "name": "Lucozade Energy Cherry Drink 900ml",
-    "price": "\u00a30.80"
+    "price": "\u00a31.10"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/oreo-double-creme-chocolate-sandwich-biscuits-157g/": {
     "name": "Oreo Double Creme Chocolate Sandwich Biscuits 157g",
@@ -30750,5 +30750,9 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/error-finding-product-95/": {
     "name": "Error Finding Product 95",
     "price": "\u00a30.00"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/mcvities-jamaica-ginger-pineapple-coconut-cake-232g/": {
+    "name": "McVitie's Jamaica Ginger Sticky Pudding Cake 232g \u2013 Pineapple & Coconut Flavour",
+    "price": "\u00a30.75"
   }
 }
