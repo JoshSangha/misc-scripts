@@ -13137,7 +13137,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/kind-protein-bars-crunchy-peanut-butter-12x50g/": {
     "name": "KIND Protein Bars \u2013 Crunchy Peanut Butter \u2013 12 x 50g Multipack | High Protein, Gluten Free, No Artificial Flavours",
-    "price": "\u00a314.99"
+    "price": "\u00a39.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/mcvitie-s-jaffa-cakes-mega-value-80-cakes-box-4-packs-of-20-cakes-vegetarian-friendly-sweet-zesty-snack/": {
     "name": "McVitie's Jaffa Cakes, Mega Value 80 Cakes Box (4 Packs of 20 Cakes) | Vegetarian Friendly, Sweet Zesty Snack",
@@ -31026,5 +31026,33 @@
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/optimum-nutrition-gold-standard-100-whey-double-rich-chocolate-2-27kg/": {
     "name": "Optimum Nutrition Gold Standard 100% Whey Double Rich Chocolate 2.27kg",
     "price": "\u00a379.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/meal-replacement/usn-liv-smart-strawberry-meal-replacement-6-550g/": {
+    "name": "USN Liv.Smart Slim Shake Strawberry Meal Replacement 6 \u00d7 550g \u2013 3.3kg, 60 Servings",
+    "price": "\u00a329.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/supplements/usn-b4-bomb-cherry-punch-pre-workout-6-300g/": {
+    "name": "USN B4 Bomb Cherry Punch Pre-Workout 6 \u00d7 300g \u2013 1.8kg, 120 Servings",
+    "price": "\u00a340.00"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/supplements/usn-pro-enduro-orange-drink-powder-6-400g/": {
+    "name": "USN Pro Enduro Orange Endurance Drink Powder 6 \u00d7 400g \u2013 2.4kg",
+    "price": "\u00a329.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/usn-select-double-chocolate-protein-cookies-12-60g/": {
+    "name": "USN Select Double Chocolate Protein Cookies 12 \u00d7 60g",
+    "price": "\u00a39.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/byoma-creamy-jelly-cleanser-175ml-1/": {
+    "name": "BYOMA Creamy Jelly Cleanser 175m",
+    "price": "\u00a36.59"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/kind-protein-bars-crunchy-peanut-butter-24x50g/": {
+    "name": "KIND Protein Bars \u2013 Crunchy Peanut Butter \u2013 24 x 50g (2 x 12 Packs) | High Protein, Gluten Free, No Artificial Flavours",
+    "price": "\u00a318.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/ribena-pineapple-passion-fruit-light-12-x-500ml/": {
+    "name": "Ribena Pineapple & Passion Fruit Light 12 x 500ml",
+    "price": "\u00a38.99"
   }
 }
