@@ -1269,7 +1269,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/cosmetics-makeup/kiko-milano-lasting-mousse-eyeshadow-07-purple-4-5ml/": {
     "name": "KIKO Milano Lasting Mousse Eyeshadow 07 Purple 4.5ml",
-    "price": "\u00a35.99"
+    "price": "\u00a34.50"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/cosmetics-makeup/kiko-milano-high-pigment-eyeshadow-shade-54-black-1-5g/": {
     "name": "KIKO Milano High Pigment Eyeshadow Shade 54 Black 1.5g",
@@ -31238,5 +31238,65 @@
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/stationery-gadgets/premium-quality-compatible-hp-05x-ce505x-black-toner-cartridge/": {
     "name": "Premium Quality Compatible HP 05X CE505X Black Toner Cartridge",
     "price": "\u00a37.50"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/phd-diet-whey-banana-2kg/": {
+    "name": "PhD Diet Whey Protein Powder Banana 2kg \u2013 80 Servings, 16g Protein",
+    "price": "\u00a329.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/phd-diet-whey-salted-caramel-2kg/": {
+    "name": "PhD Diet Whey Protein Powder Salted Caramel 2kg \u2013 80 Servings, 16g Protein",
+    "price": "\u00a329.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/phd-diet-whey-strawberry-delight-2kg/": {
+    "name": "PhD Diet Whey Protein Powder Strawberry Delight 2kg \u2013 80 Servings, 17g Protein",
+    "price": "\u00a329.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/phd-smart-breakfast-chocolate-cereal-milk-600g/": {
+    "name": "PhD Smart Breakfast Meal Replacement Chocolate Cereal Milk 600g \u2013 10 Servings",
+    "price": "\u00a37.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/pet-supplies/dog/crave-adult-pate-mixed-wet-dog-food-24-x-400g/": {
+    "name": "CRAVE Adult P\u00e2t\u00e9 Mixed Wet Dog Food 24 x 400g \u2013 Grain-Free, 3 Recipes, 9.6kg",
+    "price": "\u00a327.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/pet-supplies/dog/cesar-natural-goodness-chicken-loaf-dog-food-24-x-400g/": {
+    "name": "Cesar Natural Goodness Chicken Loaf Wet Dog Food 24 x 400g \u2013 9.6kg Bulk Pack",
+    "price": "\u00a329.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/cadbury-crunchie-bits-chocolate-chunks-3-2kg-box/": {
+    "name": "Cadbury Crunchie Bits Chocolate Chunks 3.2kg Box \u2013 Individually Wrapped Bulk Case",
+    "price": "\u00a323.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/cadbury-dairy-milk-white-chocolate-chunks-3-2kg-box/": {
+    "name": "Cadbury Dairy Milk & White Chocolate Chunks 3.2kg Box \u2013 Individually Wrapped Bulk Mix",
+    "price": "\u00a322.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/cadbury-dairy-milk-lotus-biscoff-chunks-2-5kg-box/": {
+    "name": "Cadbury Dairy Milk Lotus Biscoff Chocolate Chunks 2.5kg Box \u2013 Individually Wrapped Bulk Case",
+    "price": "\u00a318.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/cadbury-roses-hazel-whirl-chocolates-3-5kg-box/": {
+    "name": "Cadbury Roses Hazel Whirl Chocolates 3.5kg Box \u2013 Individually Wrapped Bulk Case",
+    "price": "\u00a321.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/cadbury-dairy-milk-wholenut-chunks-4kg-box/": {
+    "name": "Cadbury Dairy Milk Wholenut Chocolate Chunks 4kg Box \u2013 Individually Wrapped Bulk Case",
+    "price": "\u00a324.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/galaxy-dairy-free-vegan-hazelnut-praline-chocolate-bar-100g/": {
+    "name": "Galaxy Dairy Free Vegan Hazelnut Pralin\u00e9 Chocolate Bar 100g",
+    "price": "\u00a31.25"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/weleda-skin-food-body-lotion-250ml/": {
+    "name": "WELEDA Skin Food Body Lotion 250ml",
+    "price": "\u00a38.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/baylis-harding-men-s-shower-gel-500ml-bergamot-clary-sage/": {
+    "name": "Baylis & Harding Men's Shower Gel 500ml Bergamot & Clary Sage",
+    "price": "\u00a32.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/minimalist-2-salicylic-acid-lha-body-wash-shower-gel-200-ml/": {
+    "name": "Minimalist 2% Salicylic Acid + LHA Body Wash Shower Gel 200 ml",
+    "price": "\u00a37.99"
   }
 }
