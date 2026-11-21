@@ -1221,7 +1221,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/charbonnel-et-walker-pink-marc-de-champagne-chocolate-truffles-135g/": {
     "name": "Charbonnel et Walker Pink Marc de Champagne Chocolate Truffles 135g",
-    "price": "\u00a39.99"
+    "price": "\u00a37.49"
   },
   "https://www.iwonderwhatsnext.co.uk/pet-supplies/cat/whiskas-kitten-chicken-dry-cat-food-300g/": {
     "name": "Whiskas Kitten Chicken Dry Cat Food 6 x 300g",
@@ -8021,7 +8021,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/coffee/instant/classic-cappuccino-instant-coffee-200g/": {
     "name": "Classic Cappuccino Instant Coffee 200g",
-    "price": "\u00a30.99"
+    "price": "\u00a30.85"
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/supplements/the-protein-works-bcaa-ultra-5-1-1-90-tablets/": {
     "name": "The Protein Works BCAA Ultra 5:1:1 90 Tablets",
@@ -31654,5 +31654,17 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/minton-donello-caramelised-cashew-nuts-1kg/": {
     "name": "Minton & Donello Caramelised Cashew Nuts 1kg",
     "price": "\u00a37.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/fuel10k-high-protein-mexican-bean-chilli-protein-bowl-6-x-220g/": {
+    "name": "FUEL10K High Protein Mexican Bean Chilli Protein Bowl 6 x 220g",
+    "price": "\u00a310.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/old-india-urad-whole-1kg/": {
+    "name": "Urad Whole 1kg | Premium Quality Whole Black Gram | 100% Natural & Additive-Free",
+    "price": "\u00a31.43"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/coffee/ground/starbucks-veranda-blend-blonde-roast-ground-coffee-200g-pack-of-6/": {
+    "name": "STARBUCKS Veranda Blend Blonde Roast Ground Coffee | 200g Pack of 6",
+    "price": "\u00a317.99"
   }
 }
