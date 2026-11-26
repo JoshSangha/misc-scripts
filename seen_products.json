@@ -14716,7 +14716,7 @@
     "price": "\u00a35.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/la-roche-posay-effaclar-purifying-foaming-gel-cleanser-400ml/": {
-    "name": "La Roche-Posay Effaclar Purifying Foaming Gel Cleanser 400ml | Damaged Packaging",
+    "name": "La Roche-Posay Effaclar Purifying Foaming Gel Cleanser 400ml",
     "price": "\u00a312.49"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/cosmetics-makeup/erborian-cc-red-correct-anti-redness-cc-cream-spf30-15ml/": {
@@ -16405,7 +16405,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/berocca-immuno-multivitamin-60-gummies-orange-flavour/": {
     "name": "Berocca Immuno Multivitamin 60 Gummies Orange Flavour",
-    "price": "\u00a31.99"
+    "price": "\u00a36.99"
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/coffee/pods-capsules/tassimo-costa-caramel-latte-coffee-pods-5-x-8-drinks/": {
     "name": "Tassimo Costa Caramel Latte Coffee Pods 5 x 8 Drinks | 40 Servings",
@@ -32538,5 +32538,57 @@
   "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/rock-face-original-48hr-antiperspirant-deodorant-spray-200ml/": {
     "name": "Rock Face Original 48hr Antiperspirant Deodorant Spray 200ml (Packaging May Vary)",
     "price": "\u00a31.90"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/cetaphil-gentle-skin-cleanser-1l/": {
+    "name": "Cetaphil Gentle Skin Cleanser 1L",
+    "price": "\u00a313.57"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-bars/dymatize-super-mass-gainer-vanilla-caramel-fudge-protein-bars-10-x-90g/": {
+    "name": "Dymatize Super Mass Gainer Vanilla Caramel Fudge Protein Bars 10 x 90g",
+    "price": "\u00a312.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/qbk-enhanced-arch-support-orthotic-insoles-xxl-1-pair/": {
+    "name": "QBK Enhanced Arch Support Orthotic Insoles XXL - 1 Pair",
+    "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/tiestra-comfort-fit-thermal-memory-foam-insoles-grey-uk-8-eu-42-1-pair/": {
+    "name": "TIESTRA Comfort Fit Thermal Memory Foam Insoles Grey UK 8 / EU 42 (1 Pair)",
+    "price": "\u00a33.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/seasonal-products/50-pack-white-organza-drawstring-gift-bags-20-x-30cm/": {
+    "name": "50 Pack White Organza Drawstring Gift Bags 20 x 30cm",
+    "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/healthcare/3m-e-a-r-classic-ii-yellow-ear-plugs-25-pairs/": {
+    "name": "3M E-A-R Classic II Yellow Ear Plugs 25 Pairs",
+    "price": "\u00a32.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/motoring-cycling-accessories/little-joe-thumbs-up-ocean-splash-car-vent-air-freshener-12g/": {
+    "name": "Little Joe Thumbs Up Ocean Splash Car Vent Air Freshener 12g",
+    "price": "\u00a32.25"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/seasonal-products/konsait-pink-gold-30th-birthday-gift-bag-set-with-tissue-paper-and-card-13-inch/": {
+    "name": "Konsait Pink & Gold 30th Birthday Gift Bag Set with Tissue Paper and Card 13 Inch",
+    "price": "\u00a33.50"
+  },
+  "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/stationery-gadgets/eascity-white-magnetic-gift-box-30-x-15-x-10cm-1-pack/": {
+    "name": "eascity White Magnetic Gift Box 30 x 15 x 10cm - 1 Pack",
+    "price": "\u00a35.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/unbranded-rf-3028a-5-in-1-rechargeable-grooming-kit-for-women/": {
+    "name": "Unbranded RF-3028A 5-in-1 Rechargeable Grooming Kit for Women",
+    "price": "\u00a37.49"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/personal-care/amazerbath-back-lotion-applicator-with-2-replaceable-pads-white/": {
+    "name": "Back Lotion Applicator with 2 Replaceable Pads - White",
+    "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/organic-turmeric-plus-superfood-powder-250g-for-lattes-shots-smoothies-cooking/": {
+    "name": "Organic Turmeric Plus Superfood Powder 250g for Lattes, Shots, Smoothies & Cooking",
+    "price": "\u00a34.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/health-beauty/skincare/cerave-hydrating-cleanser-fragrance-free-473ml/": {
+    "name": "CeraVe Hydrating Cleanser Fragrance Free 473ml",
+    "price": "\u00a38.99"
   }
 }
