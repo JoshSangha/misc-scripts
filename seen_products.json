@@ -2793,7 +2793,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/baby-care/naty-compostable-nappy-sacks-50-bags/": {
     "name": "Naty Compostable Nappy Sacks \u2013 Fragrance-Free Plant-Based Bags with Easy-Tie Handles | 50 Count",
-    "price": "\u00a30.90"
+    "price": "\u00a30.75"
   },
   "https://www.iwonderwhatsnext.co.uk/cleaning-diy-seasonal/stationery-gadgets/usb-c-to-usb-a-fast-charging-cable/": {
     "name": "USB-C to USB-A 3.1 Gen 2 Cable \u2013 0.9 m, 10 Gbps Fast Charging Data Cable, Black",
@@ -18205,7 +18205,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/phd-100-plant-vegan-protein-salted-caramel-5-x-1kg-200-servings/": {
     "name": "PhD 100% Plant Vegan Protein Salted Caramel 5 x 1kg 200 Servings",
-    "price": "\u00a335.99"
+    "price": "\u00a359.99"
   },
   "https://www.iwonderwhatsnext.co.uk/fitness/protein-powders-drinks/phd-100-plant-vegan-protein-salted-caramel-1kg-40-servings/": {
     "name": "PhD 100% Plant Vegan Protein Salted Caramel 1kg 40 Servings",
@@ -31193,7 +31193,7 @@
   },
   "https://www.iwonderwhatsnext.co.uk/food-drink/drinks/alpro-original-oat-drink-8-x-1-litre/": {
     "name": "Alpro Original Oat Drink 8 x 1L",
-    "price": "\u00a311.99"
+    "price": "\u00a39.99"
   },
   "https://www.iwonderwhatsnext.co.uk/health-beauty/vitamins-supplements/fraction-one-ashwagandha-gummies-120-mixed-berry/": {
     "name": "Fraction One Ashwagandha Gummies 120 \u2013 300mg per Serving with Vitamins D2 & B6, Mixed Berry",
@@ -32642,5 +32642,21 @@
   "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/cola-bottles-140g-pick-mix-gum-sweets/": {
     "name": "Cola Bottles 140g | Pick & Mix Gum Sweets",
     "price": "\u00a30.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/kiddylicious-strawberry-fruit-wriggles-28x12g/": {
+    "name": "Kiddylicious Strawberry Fruit Wriggles 7 x 4 x 12g \u2013 28 Packs | Real Fruit Snacks for Kids 12+ Months | 336g",
+    "price": "\u00a35.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/food-cupboard/wild-pacific-red-salmon-105g-pack-12/": {
+    "name": "Wild Pacific Red Salmon Tinned Fish 105g | Pack of 12",
+    "price": "\u00a323.99"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/loacker-napolitaner-hazelnut-wafer-bar-45g/": {
+    "name": "Loacker Classic Napolitaner \u2013 Hazelnut Cream Wafer \u2013 45g Bar \u2013 Crispy & Delicious Snack",
+    "price": "\u00a30.35"
+  },
+  "https://www.iwonderwhatsnext.co.uk/food-drink/confectionery/bear-strawberry-fruit-snacks-14x35g-vegan/": {
+    "name": "BEAR Strawberry Fruit Snacks \u2013 14 \u00d7 35g | Gently Baked, Vegan, No Added Sugar",
+    "price": "\u00a39.99"
   }
 }
